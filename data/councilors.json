@@ -1,0 +1,98 @@
+[
+  { "slug": "wilson", "name": "Keith Wilson", "district": 0, "role": "Mayor", "since": "2025-01-01", "term_ends": 2028,
+    "links": { "official": "https://www.portland.gov/mayor", "votes": "https://www.portland.gov/mayor/keith-wilson/votes" },
+    "notes": "Votes only to break ties under the 2025 charter. First recorded tie-break: July 22, 2026 (doc 2026-222, PCEF budget amendment, Nay).",
+    "endorsements": [
+      { "org": "Willamette Week (#1, mayor)", "year": 2024, "source": "https://rosecityreform.org/willamette-week-endorses-wilson-for-mayor-offers-six-suggested-rankings-for-each-district/" },
+      { "org": "Portland Mercury (#2, mayor)", "year": 2024, "source": "https://www.portlandmercury.com/election-guide-2024/2024/10/16/47453705/your-mercury-2024-election-cheat-sheet" }
+    ] },
+  { "slug": "avalos", "name": "Candace Avalos", "district": 1, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Chair, Housing & Permitting Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/1/candace-avalos" },
+    "endorsements": [
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/07/oregon-working-families-party-endorses-seven-for-portland-city-council/" },
+      { "org": "Portland Mercury (#1 in D1)", "year": 2024, "source": "https://www.portlandmercury.com/election-guide-2024/2024/10/16/47453580/mercury-endorsements-district-1-candidates" },
+      { "org": "Willamette Week (#2 in D1)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-1/" }
+    ] },
+  { "slug": "dunphy", "name": "Jamie Dunphy", "district": 1, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Council President (since Jan 14, 2026)",
+    "links": { "official": "https://www.portland.gov/council/districts/1/jamie-dunphy" },
+    "endorsements": [
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/09/oregon-working-families-party-endorses-second-round-of-portland-city-council-candidates/" },
+      { "org": "Willamette Week (#1 in D1)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-1/" }
+    ] },
+  { "slug": "smith", "name": "Loretta Smith", "district": 1, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Vice Chair, Public Works Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/1/loretta-smith" },
+    "endorsements": [
+      { "org": "Portland Metro Chamber (#1 in D1)", "year": 2024, "source": "https://portlandmetrochamber.com/resources/chamber-announces-endorsements-for-november-2024-election/" },
+      { "org": "Portland Police Association", "year": 2024, "source": "https://www.opb.org/article/2024/09/10/portland-mayor-city-council-endorsements-unions-government-election/" }
+    ] },
+  { "slug": "kanal", "name": "Sameer Kanal", "district": 2, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Chair, Committee of the Whole",
+    "links": { "official": "https://www.portland.gov/council/districts/2/sameer-kanal" },
+    "endorsements": [
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/09/oregon-working-families-party-endorses-second-round-of-portland-city-council-candidates/" },
+      { "org": "Portland Mercury (#1 in D2)", "year": 2024, "source": "https://www.portlandmercury.com/election-guide-2024/mercury-endorsements-district-2-candidates-47453598/" }
+    ] },
+  { "slug": "pirtle-guiney", "name": "Elana Pirtle-Guiney", "district": 2, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Chair, City Life Committee; Council President 2025", "name_variants": ["Pirtle-Guiney"],
+    "links": { "official": "https://www.portland.gov/council/districts/2/elana-pirtle-guiney" },
+    "endorsements": [
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/09/oregon-working-families-party-endorses-second-round-of-portland-city-council-candidates/" },
+      { "org": "Willamette Week (#1 in D2)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-2/" }
+    ] },
+  { "slug": "ryan", "name": "Dan Ryan", "district": 2, "role": "Councilor", "since": "2025-01-01", "term_ends": 2028,
+    "title": "Vice Chair (Finance), Committee of the Whole",
+    "links": { "official": "https://www.portland.gov/council/districts/2/dan-ryan" },
+    "endorsements": [
+      { "org": "Portland Metro Chamber (#1 in D2)", "year": 2024, "source": "https://portlandmetrochamber.com/resources/chamber-announces-endorsements-for-november-2024-election/" },
+      { "org": "United for Portland", "year": 2024, "source": "https://www.opb.org/article/2024/09/10/portland-mayor-city-council-endorsements-unions-government-election/" }
+    ] },
+  { "slug": "koyama-lane", "name": "Tiffany Koyama Lane", "district": 3, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Vice Chair (Governance), Committee of the Whole; Council VP 2025", "name_variants": ["Koyama Lane"],
+    "links": { "official": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane" },
+    "endorsements": [
+      { "org": "Portland DSA", "year": 2024, "source": "https://portlanddsa.org/portland-dsa-2024-voter-guide/" },
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/07/oregon-working-families-party-endorses-seven-for-portland-city-council/" }
+    ] },
+  { "slug": "morillo", "name": "Angelita Morillo", "district": 3, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Vice Chair, Community & Public Safety Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/3/angelita-morillo" },
+    "endorsements": [
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/07/oregon-working-families-party-endorses-seven-for-portland-city-council/" },
+      { "org": "Portland Mercury (#1 in D3)", "year": 2024, "source": "https://www.portlandmercury.com/election-guide-2024/2024/10/16/47453621/mercury-endorsements-district-3-candidates" }
+    ] },
+  { "slug": "novick", "name": "Steve Novick", "district": 3, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Chair, Community & Public Safety Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/3/steve-novick" },
+    "endorsements": [
+      { "org": "Willamette Week (#1 in D3)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-3/" },
+      { "org": "Portland Metro Chamber (#2 in D3)", "year": 2024, "source": "https://portlandmetrochamber.com/resources/chamber-announces-endorsements-for-november-2024-election/" },
+      { "org": "United for Portland", "year": 2024, "source": "https://www.opb.org/article/2024/09/10/portland-mayor-city-council-endorsements-unions-government-election/" }
+    ] },
+  { "slug": "clark", "name": "Olivia Clark", "district": 4, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Council Vice President (2026); Chair, Public Works Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/4/olivia-clark" },
+    "endorsements": [
+      { "org": "Portland Metro Chamber (top two, D4)", "year": 2024, "source": "https://portlandmetrochamber.com/resources/chamber-announces-endorsements-for-november-2024-election/" },
+      { "org": "United for Portland", "year": 2024, "source": "https://www.opb.org/article/2024/09/10/portland-mayor-city-council-endorsements-unions-government-election/" },
+      { "org": "Willamette Week (#1 in D4)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-4/" }
+    ] },
+  { "slug": "green", "name": "Mitch Green", "district": 4, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Vice Chair, Housing & Permitting Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/4/mitch-green", "campaign": "https://www.mitch4portland.com/" },
+    "endorsements": [
+      { "org": "Portland DSA", "year": 2024, "source": "https://portlanddsa.org/portland-dsa-2024-voter-guide/" },
+      { "org": "Working Families Party", "year": 2024, "source": "https://workingfamilies.org/2024/07/oregon-working-families-party-endorses-seven-for-portland-city-council/" },
+      { "org": "Portland Mercury (#1 in D4)", "year": 2024, "source": "https://www.portlandmercury.com/election-guide-2024/2024/10/16/47453705/your-mercury-2024-election-cheat-sheet" }
+    ] },
+  { "slug": "zimmerman", "name": "Eric Zimmerman", "district": 4, "role": "Councilor", "since": "2025-01-01", "term_ends": 2026,
+    "title": "Vice Chair, City Life Committee",
+    "links": { "official": "https://www.portland.gov/council/districts/4/eric-zimmerman" },
+    "endorsements": [
+      { "org": "Portland Metro Chamber (top two, D4)", "year": 2024, "source": "https://portlandmetrochamber.com/resources/chamber-announces-endorsements-for-november-2024-election/" },
+      { "org": "United for Portland", "year": 2024, "source": "https://www.opb.org/article/2024/09/10/portland-mayor-city-council-endorsements-unions-government-election/" },
+      { "org": "Willamette Week (#2 in D4)", "year": 2024, "source": "https://www.wweek.com/news/2024/10/16/wws-fall-2024-endorsements-portland-city-council-district-4/" }
+    ] }
+]

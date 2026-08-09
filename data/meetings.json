@@ -1,0 +1,13 @@
+[
+  { "date": "2026-02-24", "agenda_url": "", "item_ids": ["2026-082"], "note": "Arts & Economy Committee" },
+  { "date": "2026-03-11", "agenda_url": "https://www.portland.gov/council/agenda/2026/3/11", "item_ids": ["2026-082"] },
+  { "date": "2026-07-14", "agenda_url": "", "item_ids": ["2026-236"], "note": "City Life Committee" },
+  { "date": "2026-07-15", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
+  { "date": "2026-07-16", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
+  { "date": "2026-07-22", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-222", "2026-223", "2026-236"] },
+  { "date": "2026-07-23", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-205"] },
+  { "date": "2026-07-29", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/29", "item_ids": ["2026-205"] },
+  { "date": "2026-08-05", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=UD8erzI72Fg", "item_ids": ["2026-224", "2026-280"] },
+  { "date": "2026-08-06", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=qM1xO2aDjHc", "item_ids": ["2026-242", "2026-189", "2026-213", "2026-280"] },
+  { "date": "2026-08-12", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/12", "item_ids": ["2026-280"] }
+]
