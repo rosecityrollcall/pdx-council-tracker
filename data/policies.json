@@ -6,17 +6,24 @@
     "votes": [
       { "item_id": "2026-222", "motion_match": null, "direction": "for" },
       { "item_id": "2026-222", "motion_match": "Morillo 1", "direction": "for" },
-      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" }
+      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "GAM1", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10A", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10B", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10C", "direction": "for" }
     ]
   },
   {
-    "id": "dedicated-housing-funds",
-    "title": "Keeping dedicated housing funds for their designated purpose",
-    "description": "Votes on diverting or loosening revenue streams dedicated to affordable housing (Construction Excise Tax sub-funds, SDC-exemption income targeting). 'For' means the councilor voted to preserve the dedication or targeting; 'against' means they voted to divert or loosen it.",
+    "id": "moda-concessions",
+    "title": "Seeking concessions in the Moda Center deal",
+    "description": "Votes on amendments that would have demanded something from the Blazers in the term sheet — rent, a naming-rights share, proof of private financing, a higher tax-offset payment, or a return on investment. 'For' means the councilor voted to seek the concession.",
     "votes": [
-      { "item_id": "2026-182", "motion_match": null, "direction": "against" },
-      { "item_id": "2026-205", "motion_match": null, "direction": "against" },
-      { "item_id": "2026-205", "motion_match": "Pirtle-Guiney/Koyama Lane", "direction": "for" }
+      { "item_id": "2026-280", "motion_match": "Avalos 6", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Avalos 7", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Avalos 8", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Kanal 2", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Kanal 4", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Novick 1", "direction": "for" }
     ]
   }
 ]

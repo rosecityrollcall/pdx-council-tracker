@@ -43,6 +43,7 @@ def main() -> None:
         "motion_notes": load("motion-notes.json") if notes.exists() else {},
         "tags": load_optional("tags.json", {}),
         "committee_votes": load_optional("committee-votes.json", {}),
+        "major_votes": load_optional("major-votes.json", []),
         "statements": load_optional("statements.json", []),
         "policies": load_optional("policies.json", []),
         "storylines": load_dir("storylines"),

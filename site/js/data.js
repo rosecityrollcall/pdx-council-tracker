@@ -15265,6 +15265,26 @@ window.PDX = {
   ]}
  ]
 },
+"major_votes": [
+  { "item_id": "2026-280", "motion_match": "Avalos 6", "headline": "Require the Blazers to pay rent for the city-owned arena (Moda amendment)" },
+  { "item_id": "2026-280", "motion_match": "Avalos 7", "headline": "Require proof of committed private financing before signing the Moda deal" },
+  { "item_id": "2026-280", "motion_match": "Kanal 4", "headline": "Direct the mayor to negotiate a return on investment in the Moda deal" },
+  { "item_id": "2026-223", "motion_match": "Senior Center", "headline": "Restore the adaptive Senior Center, International Relations, and Ceasefire coordinator positions ($783k from contingency)" },
+  { "item_id": "2026-222", "motion_match": null, "headline": "Restore 55 cut positions and fire-truck hours using PCEF interest income" },
+  { "item_id": "2026-223", "motion_match": null, "headline": "The moderates' supplemental: preserve 30 positions with a $9.96M contingency draw" },
+  { "item_id": "2026-196", "motion_match": "GAM1", "headline": "'Services First': restore 96 cut positions and pause the staffing realignment" },
+  { "item_id": "2026-196", "motion_match": "Clark 2", "headline": "Fund public-safety restorations by drawing down the voter-approved police-accountability set-aside" },
+  { "item_id": "2026-196", "motion_match": "KKL 10A", "headline": "Fund a fire rescue by trimming the Urban Alchemy shelter-contract expansion" },
+  { "item_id": "2026-196", "motion_match": "Kanal 15", "headline": "Cap police overtime spending on demonstrations, with quarterly reporting" },
+  { "item_id": "2026-120", "motion_match": null, "headline": "The $56M housing package, including a $17.5M social-housing acquisition fund" },
+  { "item_id": "2026-182", "motion_match": null, "headline": "Move $2.5M from the income-dedicated housing sub-fund to two named projects (dedication waived)" },
+  { "item_id": "2026-205", "motion_match": null, "headline": "Lift income limits on unsold affordable-housing SDC-exempt homes" },
+  { "item_id": "2026-205", "motion_match": "Pirtle-Guiney/Koyama Lane", "headline": "Phase out the income limits gradually instead of lifting them at once" },
+  { "item_id": "2026-149", "motion_match": null, "headline": "Ban the sale of force-fed poultry products (foie gras)" },
+  { "item_id": "2026-111", "motion_match": null, "headline": "Require law-enforcement officer identification; prohibit face coverings" },
+  { "item_id": "2025-070", "motion_match": "attachments C1", "headline": "Strip the findings alleging an abnormal Zenith approval process from the investigation resolution" },
+  { "item_id": "2026-113", "motion_match": null, "headline": "The Transportation Utility Fee" }
+],
 "statements": [
   {
     "id": "st-20260806-morillo-begging",
@@ -15320,17 +15340,24 @@ window.PDX = {
     "votes": [
       { "item_id": "2026-222", "motion_match": null, "direction": "for" },
       { "item_id": "2026-222", "motion_match": "Morillo 1", "direction": "for" },
-      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" }
+      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "GAM1", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10A", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10B", "direction": "for" },
+      { "item_id": "2026-196", "motion_match": "KKL 10C", "direction": "for" }
     ]
   },
   {
-    "id": "dedicated-housing-funds",
-    "title": "Keeping dedicated housing funds for their designated purpose",
-    "description": "Votes on diverting or loosening revenue streams dedicated to affordable housing (Construction Excise Tax sub-funds, SDC-exemption income targeting). 'For' means the councilor voted to preserve the dedication or targeting; 'against' means they voted to divert or loosen it.",
+    "id": "moda-concessions",
+    "title": "Seeking concessions in the Moda Center deal",
+    "description": "Votes on amendments that would have demanded something from the Blazers in the term sheet — rent, a naming-rights share, proof of private financing, a higher tax-offset payment, or a return on investment. 'For' means the councilor voted to seek the concession.",
     "votes": [
-      { "item_id": "2026-182", "motion_match": null, "direction": "against" },
-      { "item_id": "2026-205", "motion_match": null, "direction": "against" },
-      { "item_id": "2026-205", "motion_match": "Pirtle-Guiney/Koyama Lane", "direction": "for" }
+      { "item_id": "2026-280", "motion_match": "Avalos 6", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Avalos 7", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Avalos 8", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Kanal 2", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Kanal 4", "direction": "for" },
+      { "item_id": "2026-280", "motion_match": "Novick 1", "direction": "for" }
     ]
   }
 ],

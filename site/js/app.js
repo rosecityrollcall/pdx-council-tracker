@@ -66,14 +66,19 @@
     var it = null;
     D.items.forEach(function (x) { if (x.id === pv.item_id) it = x; });
     if (!it) return null;
-    var vs = itemVotes(it);
-    if (!pv.motion_match) {
-      for (var i = vs.length - 1; i >= 0; i--) if (vs[i].kind === 'passage') return { item: it, vote: vs[i] };
-      return null;
-    }
-    for (var j = 0; j < vs.length; j++) if (vs[j].motion.toLowerCase().indexOf(pv.motion_match.toLowerCase()) >= 0) return { item: it, vote: vs[j] };
-    return null;
+    var found = null;
+    itemActions(it).forEach(function (ac) {
+      (ac.votes || []).forEach(function (v) {
+        if (pv.motion_match) {
+          if (!found && v.motion.toLowerCase().indexOf(pv.motion_match.toLowerCase()) >= 0) found = { item: it, vote: v, date: ac.date };
+        } else if (v.kind === 'passage') {
+          found = { item: it, vote: v, date: ac.date };
+        }
+      });
+    });
+    return found;
   }
+  var MAJOR = D.major_votes || [];
 
   // flatten all roll-call votes: [{item, action, vote}]
   var allVotes = [];
@@ -413,33 +418,25 @@
         '</a></strong> (' + Math.round(top.pct * 100) + '%) and least with <strong><a href="#/councilor/' + bot.c.slug + '">' + esc(bot.c.name) +
         '</a></strong> (' + Math.round(bot.pct * 100) + '%). <a href="#/alignment">Full matrix →</a></p>';
     }
-    // Major votes: this councilor's position on every storyline-linked item
-    var majorSeen = {};
-    var majorRows = '';
-    STORYLINES.forEach(function (s) {
-      (s.episodes || []).forEach(function (ep) {
-        if (!ep.item_id || majorSeen[ep.item_id]) return;
-        majorSeen[ep.item_id] = true;
-        var mit = null;
-        D.items.forEach(function (x) { if (x.id === ep.item_id) mit = x; });
-        if (!mit) return;
-        var vs = itemVotes(mit);
-        if (!vs.length) return;
-        var fv = vs[vs.length - 1];
-        var pos = position(fv, slug);
-        if (!pos) return;
-        var la = lastAction(mit);
-        majorRows += '<tr><td class="num">' + fmtDate(la ? la.date : '') + '</td>' +
-          '<td><a href="#/item/' + esc(mit.id) + '">' + esc(mit.short_title || mit.title) + '</a>' +
-          '<div class="m-sub"><a href="#/story/' + esc(s.id) + '">' + esc(s.title) + '</a></div></td>' +
-          '<td style="color:var(--' + (pos === 'aye' ? 'aye' : pos === 'nay' ? 'nay' : 'muted') + ');font-weight:700">' + cap(pos) + '</td>' +
-          '<td>' + esc(fv.result) + '</td></tr>';
-      });
+    // Major votes: curated list (data/major-votes.json) — each entry's headline says
+    // what the vote did or tried to do, so the row is legible without clicking through.
+    var majorResolved = [];
+    MAJOR.forEach(function (mv) {
+      var r = resolvePolicyVote(mv);
+      if (!r) return;
+      var pos = position(r.vote, slug) || 'absent';
+      majorResolved.push({ mv: mv, r: r, pos: pos });
     });
-    if (majorRows) {
-      html += '<details class="fold" open><summary>Major votes <span class="sum-meta">· positions on the fights the storylines follow</span></summary>' +
-        '<div class="fold-body"><table class="plain"><thead><tr><th>Date</th><th>Item · storyline</th><th>Vote</th><th>Result</th></tr></thead><tbody>' +
-        majorRows + '</tbody></table></div></details>';
+    majorResolved.sort(function (a, b) { return (b.r.date || '').localeCompare(a.r.date || ''); });
+    if (majorResolved.length) {
+      html += '<details class="fold" open><summary>Major votes <span class="sum-meta">· what each vote would have done, and where ' + esc(c.name.split(' ').pop()) + ' stood</span></summary>' +
+        '<div class="fold-body"><table class="plain"><thead><tr><th>Date</th><th>The vote</th><th>' + esc(c.name.split(' ').pop()) + '</th><th>Outcome</th></tr></thead><tbody>' +
+        majorResolved.map(function (x) {
+          return '<tr><td class="num">' + fmtDate(x.r.date) + '</td>' +
+            '<td><a href="#/item/' + esc(x.mv.item_id) + '">' + esc(x.mv.headline) + '</a></td>' +
+            '<td style="color:var(--' + (x.pos === 'aye' ? 'aye' : x.pos === 'nay' ? 'nay' : 'muted') + ');font-weight:700">' + cap(x.pos) + '</td>' +
+            '<td>' + esc(x.r.vote.result) + '</td></tr>';
+        }).join('') + '</tbody></table></div></details>';
     }
     // Analysis featuring this councilor
     var feats = DOSSIERS.filter(function (d) { return (d.councilors || []).indexOf(slug) >= 0; });
@@ -451,14 +448,7 @@
             '<div class="meta">' + esc(d.teaser || '') + '</div></span></div>';
         }).join('') + '</div></details>';
     }
-    if ((c.endorsements || []).length) {
-      html += '<details class="fold"><summary>2024 campaign endorsements <span class="sum-meta">· ' + c.endorsements.length + ' on file</span></summary>' +
-        '<div class="fold-body"><p class="m-sub" style="margin-top:8px">For the messaging-vs-record comparison — endorsements as reported at the time.</p><ul>' +
-        c.endorsements.map(function (e) {
-          return '<li>' + esc(e.org) + (e.year ? ' (' + e.year + ')' : '') +
-            (e.source ? ' — <a href="' + esc(e.source) + '" target="_blank" rel="noopener">source</a>' : '') + '</li>';
-        }).join('') + '</ul></div></details>';
-    }
+    // Endorsements data stays in councilors.json for dossier sourcing; not rendered for now.
     // On the issues: policy alignment computed from grouped votes
     var polHtml = '';
     POLICIES.forEach(function (p) {
