@@ -256,5 +256,19 @@ td.num { font-variant-numeric: tabular-nums; }
 .crumb { font-size: 13px; margin-bottom: 10px; }
 .crumb a { font-weight: 600; }
 
+/* collapsible sections */
+details.fold {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; margin: 12px 0; padding: 0;
+}
+details.fold > summary {
+  cursor: pointer; padding: 13px 18px; font-weight: 600; list-style-position: inside;
+  color: var(--ink);
+}
+details.fold > summary:hover { color: var(--accent); }
+details.fold > summary .sum-meta { font-weight: 400; color: var(--ink-2); font-size: 13.5px; }
+details.fold[open] > summary { border-bottom: 1px solid var(--grid); }
+details.fold > .fold-body { padding: 4px 18px 14px; }
+
 footer.site { border-top: 1px solid var(--grid); padding: 18px 0 40px; color: var(--muted); font-size: 13.5px; }
 footer.site .wrap { display: flex; gap: 18px; flex-wrap: wrap; }

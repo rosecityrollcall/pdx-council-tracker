@@ -232,7 +232,7 @@
       html += '<h2>On the docket</h2><div class="card">' + pending.map(itemRow).join('') + '</div>';
     }
     html += '<h2>Recent items</h2><div class="card">' +
-      decided.slice(0, 12).map(itemRow).join('') + '</div>' +
+      decided.slice(0, 6).map(itemRow).join('') + '</div>' +
       '<p><a href="#/votes">All tracked votes →</a></p>';
     return html;
   }
@@ -323,9 +323,20 @@
       html += '</div>';
     }
 
+    var foldSessions = itemVotes(it).length > 12;
     itemActions(it).forEach(function (ac) {
-      html += '<h2>' + fmtDate(ac.date) + (ac.scope_note ? ' <span class="badge">' + esc(ac.scope_note) + '</span>' : '') + '</h2>' +
-        '<div class="card"><p class="m-sub" style="margin-top:0">Disposition: ' + esc(ac.disposition || '—') + '</p>';
+      var acVotes = ac.votes || [];
+      var acContested = acVotes.filter(isContested).length;
+      if (foldSessions) {
+        html += '<details class="fold"><summary>' + fmtDate(ac.date) +
+          (ac.scope_note ? ' <span class="badge">' + esc(ac.scope_note) + '</span>' : '') +
+          ' <span class="sum-meta">· ' + acVotes.length + ' roll call' + (acVotes.length === 1 ? '' : 's') +
+          (acContested ? ' (' + acContested + ' contested)' : '') +
+          (ac.disposition ? ' · ' + esc(ac.disposition) : '') + '</span></summary><div class="fold-body">';
+      } else {
+        html += '<h2>' + fmtDate(ac.date) + (ac.scope_note ? ' <span class="badge">' + esc(ac.scope_note) + '</span>' : '') + '</h2>' +
+          '<div class="card"><p class="m-sub" style="margin-top:0">Disposition: ' + esc(ac.disposition || '—') + '</p>';
+      }
       (ac.votes || []).forEach(function (v) {
         var desc = v.description, src = null;
         if (!desc) {
@@ -343,7 +354,7 @@
           voteStrip(v) + '</div>';
       });
       if (!(ac.votes || []).length) html += '<p class="m-sub">No roll-call vote recorded for this session.</p>';
-      html += '</div>';
+      html += foldSessions ? '</div></details>' : '</div>';
     });
     if (itemVotes(it).length) html += stripLegend;
     return html;
@@ -402,12 +413,51 @@
         '</a></strong> (' + Math.round(top.pct * 100) + '%) and least with <strong><a href="#/councilor/' + bot.c.slug + '">' + esc(bot.c.name) +
         '</a></strong> (' + Math.round(bot.pct * 100) + '%). <a href="#/alignment">Full matrix →</a></p>';
     }
+    // Major votes: this councilor's position on every storyline-linked item
+    var majorSeen = {};
+    var majorRows = '';
+    STORYLINES.forEach(function (s) {
+      (s.episodes || []).forEach(function (ep) {
+        if (!ep.item_id || majorSeen[ep.item_id]) return;
+        majorSeen[ep.item_id] = true;
+        var mit = null;
+        D.items.forEach(function (x) { if (x.id === ep.item_id) mit = x; });
+        if (!mit) return;
+        var vs = itemVotes(mit);
+        if (!vs.length) return;
+        var fv = vs[vs.length - 1];
+        var pos = position(fv, slug);
+        if (!pos) return;
+        var la = lastAction(mit);
+        majorRows += '<tr><td class="num">' + fmtDate(la ? la.date : '') + '</td>' +
+          '<td><a href="#/item/' + esc(mit.id) + '">' + esc(mit.short_title || mit.title) + '</a>' +
+          '<div class="m-sub"><a href="#/story/' + esc(s.id) + '">' + esc(s.title) + '</a></div></td>' +
+          '<td style="color:var(--' + (pos === 'aye' ? 'aye' : pos === 'nay' ? 'nay' : 'muted') + ');font-weight:700">' + cap(pos) + '</td>' +
+          '<td>' + esc(fv.result) + '</td></tr>';
+      });
+    });
+    if (majorRows) {
+      html += '<details class="fold" open><summary>Major votes <span class="sum-meta">· positions on the fights the storylines follow</span></summary>' +
+        '<div class="fold-body"><table class="plain"><thead><tr><th>Date</th><th>Item · storyline</th><th>Vote</th><th>Result</th></tr></thead><tbody>' +
+        majorRows + '</tbody></table></div></details>';
+    }
+    // Analysis featuring this councilor
+    var feats = DOSSIERS.filter(function (d) { return (d.councilors || []).indexOf(slug) >= 0; });
+    if (feats.length) {
+      html += '<details class="fold" open><summary>Analysis featuring ' + esc(c.name.split(' ').pop()) + '</summary><div class="fold-body">' +
+        feats.map(function (d) {
+          return '<div class="item-row"><span class="date">' + fmtDate(d.date) + '</span>' +
+            '<span class="t"><span class="title"><a href="#/analysis/' + esc(d.id) + '">' + esc(d.title) + '</a></span>' +
+            '<div class="meta">' + esc(d.teaser || '') + '</div></span></div>';
+        }).join('') + '</div></details>';
+    }
     if ((c.endorsements || []).length) {
-      html += '<h2>2024 campaign endorsements</h2><div class="card"><p class="m-sub" style="margin-top:0">For the messaging-vs-record comparison — endorsements as reported at the time.</p><ul>' +
+      html += '<details class="fold"><summary>2024 campaign endorsements <span class="sum-meta">· ' + c.endorsements.length + ' on file</span></summary>' +
+        '<div class="fold-body"><p class="m-sub" style="margin-top:8px">For the messaging-vs-record comparison — endorsements as reported at the time.</p><ul>' +
         c.endorsements.map(function (e) {
           return '<li>' + esc(e.org) + (e.year ? ' (' + e.year + ')' : '') +
             (e.source ? ' — <a href="' + esc(e.source) + '" target="_blank" rel="noopener">source</a>' : '') + '</li>';
-        }).join('') + '</ul></div>';
+        }).join('') + '</ul></div></details>';
     }
     // On the issues: policy alignment computed from grouped votes
     var polHtml = '';
@@ -441,8 +491,10 @@
       }).join('') + '</div>';
     }
 
-    html += '<h2>Contested-vote record</h2><div class="card"><table class="plain"><thead><tr><th>Date</th><th>Item / motion</th><th>Vote</th><th>Result</th></tr></thead><tbody>';
-    var rows = allVotes.filter(function (r) { return isContested(r.vote) && position(r.vote, slug); });
+    var rows = allVotes.filter(function (r) { return isContested(r.vote) && position(r.vote, slug); })
+      .sort(function (a, b) { return (b.action.date || '').localeCompare(a.action.date || ''); });
+    html += '<details class="fold"><summary>Full contested-vote record <span class="sum-meta">· ' + rows.length + ' roll calls</span></summary>' +
+      '<div class="fold-body"><table class="plain"><thead><tr><th>Date</th><th>Item / motion</th><th>Vote</th><th>Result</th></tr></thead><tbody>';
     if (!rows.length) html += '<tr><td colspan="4" class="m-sub">No contested votes recorded yet.</td></tr>';
     rows.forEach(function (r) {
       var p = position(r.vote, slug);
@@ -451,7 +503,7 @@
         '<td style="color:var(--' + (p === 'aye' ? 'aye' : p === 'nay' ? 'nay' : 'muted') + ');font-weight:700">' + cap(p) + '</td>' +
         '<td>' + esc(r.vote.result) + '</td></tr>';
     });
-    html += '</tbody></table></div>';
+    html += '</tbody></table></div></details>';
     return html;
   }
 
