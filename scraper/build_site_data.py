@@ -7,6 +7,7 @@ from __future__ import annotations
 import datetime
 import json
 import pathlib
+import re
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -56,8 +57,14 @@ def main() -> None:
         "window.PDX = " + json.dumps(payload, ensure_ascii=False, indent=1) + ";\n",
         encoding="utf-8",
     )
+    stamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+    idx = ROOT / "site" / "index.html"
+    html = idx.read_text(encoding="utf-8")
+    html = re.sub(r"js/data\.js\?v=[^\"]*", f"js/data.js?v={stamp}", html)
+    html = re.sub(r"js/app\.js\?v=[^\"]*", f"js/app.js?v={stamp}", html)
+    idx.write_text(html, encoding="utf-8")
     print(f"wrote {out}: {len(payload['items'])} items, "
-          f"{len(payload['meetings'])} meetings, {len(annotations)} annotations")
+          f"{len(payload['meetings'])} meetings, {len(annotations)} annotations; stamp {stamp}")
 
 
 if __name__ == "__main__":

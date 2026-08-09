@@ -125,14 +125,19 @@
       var word = pos === 'aye' ? 'Aye' : pos === 'nay' ? 'Nay' : 'Absent / not voting';
       out.push('<span class="cell"><a href="#/councilor/' + c.slug + '">' +
         '<span class="box ' + pos + '" data-tip="' + esc(c.name) + ' (D' + c.district + ') — ' + word + '">' + glyph + '</span>' +
-        '<div class="who">' + initials(c) + '</div></a></span>');
+        '<div class="who"><img class="face" src="img/councilors/' + c.slug + '.jpg" alt=""' +
+        ' onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">' +
+        '<span class="fb">' + initials(c) + '</span></div></a></span>');
     });
     // The mayor votes only to break ties — show a 13th cell when he did.
     var mw = position(v, 'wilson');
     if (v.scope !== 'committee' && (mw === 'aye' || mw === 'nay')) {
       out.push('<span class="dgap"></span><span class="cell"><a href="#/councilor/wilson">' +
         '<span class="box ' + mw + '" data-tip="Mayor Keith Wilson — tie-breaking ' + (mw === 'aye' ? 'Aye' : 'Nay') + '">' +
-        (mw === 'aye' ? '✓' : '✕') + '</span><div class="who">MAYOR</div></a></span>');
+        (mw === 'aye' ? '✓' : '✕') + '</span>' +
+        '<div class="who"><img class="face" src="img/councilors/wilson.jpg" alt=""' +
+        ' onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">' +
+        '<span class="fb">MAYOR</span></div></a></span>');
     }
     out.push('</div>');
     return out.join('');
