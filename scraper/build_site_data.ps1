@@ -41,6 +41,7 @@ $json = @"
 "contested_rows": $contested,
 "motion_notes": $motionNotes,
 "tags": $(Read-Optional "tags.json" "{}"),
+"committee_votes": $(Read-Optional "committee-votes.json" "{}"),
 "statements": $(Read-Optional "statements.json" "[]"),
 "policies": $(Read-Optional "policies.json" "[]"),
 "storylines": $(Read-DirArray "storylines"),

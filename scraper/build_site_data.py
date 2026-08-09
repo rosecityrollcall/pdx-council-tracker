@@ -42,6 +42,7 @@ def main() -> None:
         "contested_rows": load("contested-nay-rows.json") if contested.exists() else [],
         "motion_notes": load("motion-notes.json") if notes.exists() else {},
         "tags": load_optional("tags.json", {}),
+        "committee_votes": load_optional("committee-votes.json", {}),
         "statements": load_optional("statements.json", []),
         "policies": load_optional("policies.json", []),
         "storylines": load_dir("storylines"),

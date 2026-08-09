@@ -36,6 +36,11 @@
     .sort(function (a, b) { return a.district - b.district || a.name.split(' ').pop().localeCompare(b.name.split(' ').pop()); });
 
   var annos = D.annotations || {};
+  var COMMITTEE = D.committee_votes || {};
+  function itemActions(it) {
+    var acts = (it.actions || []).concat(COMMITTEE[it.id] || []);
+    return acts.slice().sort(function (a, b) { return (a.date || '').localeCompare(b.date || ''); });
+  }
   var TAGS = D.tags || {};
   var STATEMENTS = D.statements || [];
   var POLICIES = D.policies || [];
@@ -73,7 +78,7 @@
   // flatten all roll-call votes: [{item, action, vote}]
   var allVotes = [];
   D.items.forEach(function (it) {
-    (it.actions || []).forEach(function (ac) {
+    itemActions(it).forEach(function (ac) {
       (ac.votes || []).forEach(function (v) { allVotes.push({ item: it, action: ac, vote: v }); });
     });
   });
@@ -149,10 +154,10 @@
   }
   function itemVotes(it) {
     var vs = [];
-    (it.actions || []).forEach(function (ac) { (ac.votes || []).forEach(function (v) { vs.push(v); }); });
+    itemActions(it).forEach(function (ac) { (ac.votes || []).forEach(function (v) { vs.push(v); }); });
     return vs;
   }
-  function lastAction(it) { var a = it.actions || []; return a.length ? a[a.length - 1] : null; }
+  function lastAction(it) { var a = itemActions(it); return a.length ? a[a.length - 1] : null; }
   function cap(s) { return s ? s[0].toUpperCase() + s.slice(1) : ''; }
 
   // ---------- alignment math ----------
@@ -318,8 +323,8 @@
       html += '</div>';
     }
 
-    (it.actions || []).forEach(function (ac) {
-      html += '<h2>' + fmtDate(ac.date) + '</h2>' +
+    itemActions(it).forEach(function (ac) {
+      html += '<h2>' + fmtDate(ac.date) + (ac.scope_note ? ' <span class="badge">' + esc(ac.scope_note) + '</span>' : '') + '</h2>' +
         '<div class="card"><p class="m-sub" style="margin-top:0">Disposition: ' + esc(ac.disposition || '—') + '</p>';
       (ac.votes || []).forEach(function (v) {
         var desc = v.description, src = null;
