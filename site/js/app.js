@@ -432,8 +432,12 @@
       html += '<details class="fold" open><summary>Major votes <span class="sum-meta">· what each vote would have done, and where ' + esc(c.name.split(' ').pop()) + ' stood</span></summary>' +
         '<div class="fold-body"><table class="plain"><thead><tr><th>Date</th><th>The vote</th><th>' + esc(c.name.split(' ').pop()) + '</th><th>Outcome</th></tr></thead><tbody>' +
         majorResolved.map(function (x) {
+          var formal = (x.mv.motion_match ? esc(x.mv.motion_match) + ' — amendment to ' : 'Final vote — ') +
+            esc(cap(x.r.item.type)) + ' ' + esc(x.r.item.id) +
+            (x.r.item.short_title ? ' · ' + esc(x.r.item.short_title) : '');
           return '<tr><td class="num">' + fmtDate(x.r.date) + '</td>' +
-            '<td><a href="#/item/' + esc(x.mv.item_id) + '">' + esc(x.mv.headline) + '</a></td>' +
+            '<td><a href="#/item/' + esc(x.mv.item_id) + '">' + esc(x.mv.headline) + '</a>' +
+            '<div class="m-sub">' + formal + '</div></td>' +
             '<td style="color:var(--' + (x.pos === 'aye' ? 'aye' : x.pos === 'nay' ? 'nay' : 'muted') + ');font-weight:700">' + cap(x.pos) + '</td>' +
             '<td>' + esc(x.r.vote.result) + '</td></tr>';
         }).join('') + '</tbody></table></div></details>';
