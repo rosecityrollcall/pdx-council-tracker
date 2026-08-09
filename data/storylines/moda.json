@@ -1,0 +1,61 @@
+{
+  "id": "moda",
+  "title": "The Moda Center deal",
+  "status": "ongoing",
+  "tags": ["moda"],
+  "stakes": "Whether Portland commits roughly $120 million up front plus about $275 million over 20 years to renovate a city-owned arena and keep the Trail Blazers — and what, if anything, the city gets back: rent, naming-rights revenue, proof of private financing, or a return on investment.",
+  "watching_for": "Aug 12, 2026, 9:30 a.m.: final amendments and the final vote on Resolution 2026-280. Passage needs 7 of 12. Council President Dunphy has said he may bring a comprehensive amendment incorporating the four proposals that died 6–6.",
+  "episodes": [
+    {
+      "date": "2026-07-16",
+      "type": "document",
+      "title": "City sends first-draft term sheet to the Blazers",
+      "summary": "The city announces a first-draft term sheet framing a $573M renovation: $120M City, $365M State (SB 1501), $88M County, a 20-year non-relocation commitment, and a $3M/yr payment in lieu of taxes. Several councilors say they learned of it from the announcement.",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/7/16/city-advances-first-draft-moda-center-term-sheet-establishing-framework-keep" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/city-sends-first-draft-moda-lease-terms-to-blazers-to-surprise-of-council/" }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "type": "meeting",
+      "title": "Work session with Blazers executives",
+      "summary": "Council holds a work session on the term sheet with Trail Blazers executives present; no public testimony is taken.",
+      "links": [
+        { "label": "KATU preview", "url": "https://katu.com/news/local/portland-city-council-to-discuss-moda-center-term-sheet-heres-what-to-know-oregon-deal-renovation-sports-stadium-venue-tom-dundon-trail-blazers-taxes" }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "type": "meeting",
+      "title": "First hearing: three hours of public testimony",
+      "summary": "Resolution 2026-280 gets its first council hearing with roughly three hours of public testimony, then is continued to the next afternoon.",
+      "item_id": "2026-280",
+      "links": [
+        { "label": "OPB coverage", "url": "https://www.opb.org/article/2026/08/05/portland-city-council-public-testimony-moda-center-deal/" },
+        { "label": "Session video (AM)", "url": "https://www.youtube.com/watch?v=UD8erzI72Fg" }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "type": "vote",
+      "title": "Eleven amendments moved, eleven fail",
+      "summary": "Nineteen amendments were filed; eleven reach a roll call and every one fails, with an identical six-councilor Nay bloc (Clark, Zimmerman, Smith, Pirtle-Guiney, Ryan, Dunphy) on all eleven. Four die 6–6 with no mayoral tie-break. Eight filed amendments are never moved. The resolution is continued to Aug 12.",
+      "item_id": "2026-280",
+      "links": [
+        { "label": "All eleven roll calls, with what each amendment would have done", "url": "#/item/2026-280" },
+        { "label": "Session video (amendments begin ~2:00:00)", "url": "https://www.youtube.com/watch?v=qM1xO2aDjHc" },
+        { "label": "OPB coverage", "url": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/" }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "type": "news",
+      "title": "County approves its share",
+      "summary": "The Multnomah County commission votes 4–1 to set aside up to $101.6 million for the renovation, Commissioner Meghan Moyer opposed.",
+      "links": [
+        { "label": "KPTV", "url": "https://www.kptv.com/2026/08/07/multnomah-county-adopts-resolution-set-aside-up-1016-million-moda-center-renovations/" }
+      ]
+    }
+  ]
+}

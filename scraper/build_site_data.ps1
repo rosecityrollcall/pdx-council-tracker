@@ -15,6 +15,18 @@ Get-ChildItem (Join-Path $data "annotations") -Filter *.json | Sort-Object Name 
     $annoParts += ('"{0}": {1}' -f $id, $raw)
 }
 
+function Read-Optional($name, $default) {
+    $p = Join-Path $data $name
+    if (Test-Path $p) { Read-Raw $p } else { $default }
+}
+function Read-DirArray($sub) {
+    $p = Join-Path $data $sub
+    if (-not (Test-Path $p)) { return "[]" }
+    $parts = Get-ChildItem $p -Filter *.json | Sort-Object Name | ForEach-Object { Read-Raw $_.FullName }
+    if (-not $parts) { return "[]" }
+    "[`n" + ($parts -join ",`n") + "`n]"
+}
+
 $generated = Get-Date -Format "yyyy-MM-dd"
 $contestedPath = Join-Path $data "contested-nay-rows.json"
 $contested = if (Test-Path $contestedPath) { Read-Raw $contestedPath } else { "[]" }
@@ -28,6 +40,11 @@ $json = @"
 "meetings": $(Read-Raw (Join-Path $data "meetings.json")),
 "contested_rows": $contested,
 "motion_notes": $motionNotes,
+"tags": $(Read-Optional "tags.json" "{}"),
+"statements": $(Read-Optional "statements.json" "[]"),
+"policies": $(Read-Optional "policies.json" "[]"),
+"storylines": $(Read-DirArray "storylines"),
+"dossiers": $(Read-DirArray "dossiers"),
 "annotations": { $($annoParts -join ",`n") }
 }
 "@

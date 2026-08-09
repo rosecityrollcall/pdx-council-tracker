@@ -115,10 +115,14 @@ def scrape_votes_index(since: str, max_pages: int, refresh: bool):
             if not (slug and vote):
                 continue
             rows_found += 1
+            # Link text carries the descriptive title, which the document page itself
+            # loses after passage (its h1/og:title degrade to the ordinance number).
+            doc_title = re.sub(r"[​‎﻿]", "", link.get_text(" ", strip=True)).strip() if link else None
             yield {
                 "date": current_date,
                 "doc_number": doc_cell.get_text(strip=True) if doc_cell else None,
                 "doc_url": (BASE + link["href"]) if link and link["href"].startswith("/") else (link["href"] if link else None),
+                "doc_title": doc_title if doc_title and not doc_title.isdigit() else None,
                 "member": slug,
                 "vote": vote,
             }
@@ -237,8 +241,10 @@ def merge(index_rows: list[dict], docs: dict[str, dict]) -> None:
     for r in index_rows:
         if not r["doc_url"]:
             continue
-        d = by_doc.setdefault(r["doc_url"], {"doc_number": r["doc_number"], "dates": {}})
+        d = by_doc.setdefault(r["doc_url"], {"doc_number": r["doc_number"], "doc_title": None, "dates": {}})
         d["dates"].setdefault(r["date"], {})[r["member"]] = r["vote"]
+        if r.get("doc_title") and not d["doc_title"]:
+            d["doc_title"] = r["doc_title"]
 
     for url, info in by_doc.items():
         doc = docs.get(url)
@@ -277,10 +283,15 @@ def merge(index_rows: list[dict], docs: dict[str, dict]) -> None:
                 actions.append({"date": date, "disposition": "", "votes": votes})
             if doc["motions"] and actions:
                 actions[-1]["votes"] = doc["motions"] + actions[-1]["votes"]
+        title = doc["title"]
+        if (not title or title.isdigit() or re.match(r"^20\d\d-\d{3}$", title)) and info.get("doc_title"):
+            title = info["doc_title"]
+        if (not title or title.isdigit()) and prev.get("title") and not prev["title"].isdigit():
+            title = prev["title"]
         merged = {
             "id": item_id,
             "type": doc["type"],
-            "title": doc["title"],
+            "title": title,
             "sponsors": doc["sponsors"] or prev.get("sponsors", []),
             "url": url,
             "summary": prev.get("summary", ""),

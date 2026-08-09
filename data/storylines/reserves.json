@@ -1,0 +1,69 @@
+{
+  "id": "reserves",
+  "title": "The reserves argument",
+  "status": "ongoing",
+  "tags": ["budget", "reserves"],
+  "stakes": "Portland closed a roughly $170 million general-fund shortfall in the FY 2026-27 budget with layoffs and about $47 million drawn from reserves and contingency. The council then split — repeatedly — over whether restoring cuts with one-time money endangers reserves, and over whose one-time money counts as dangerous. The same reserves rationale appears on different sides of different votes; this timeline keeps the receipts.",
+  "watching_for": "The fall 2026 budget monitoring report and any fall supplemental. Ordinance 2026-223 directs the Budget Office to file a supplemental by April 1, 2027 restoring general-fund contingency, drawing on bureau underspending and PCEF interest.",
+  "episodes": [
+    {
+      "date": "2026-01-22",
+      "type": "meeting",
+      "title": "A $13.6M mid-year gap disclosed",
+      "summary": "Budget Director Ruth Levine told a council work session the current year faced a $13.6 million mid-year gap, months after an $11.4 million one. Options included cuts, tapping reserve funds, and using contingency.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/2026/01/23/city-faces-136-million-budget-gap-in-current-year/" }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "type": "statement",
+      "title": "The CFO's warning: reserves are a credit-rating risk",
+      "summary": "During budget amendment sessions, CFO Jonas Biery said rating agencies had flagged reserve reductions as a credit-rating risk, with general-fund reserves down from 20% in 2023 to 15–17%. This warning becomes the argument cited against later restoration attempts.",
+      "links": [
+        { "label": "Portland Mercury live coverage", "url": "https://www.portlandmercury.com/news/reporting-live-city-councils-contentious-budget-meeting/" },
+        { "label": "City budget announcement", "url": "https://www.portland.gov/hello/news/2026/5/20/city-council-approves-85-billion-budget-close-historic-shortfall" }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "type": "vote",
+      "title": "The $8.5B budget passes 9–2 after a marathon amendment fight",
+      "summary": "Council adopted the FY 2026-27 budget (Ryan and Zimmerman opposed) closing the shortfall with ~$47 million from reserves and contingency and about 140 discontinued positions — roughly 100 layoffs set for Aug. 3. The adoption session included failed recess motions, an appeal of the presiding officer's ruling, and a blocked attempt to reopen amendments — all on the vote record.",
+      "item_id": "2026-196",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/6/18/portland-city-council-adopts-final-budget-2026-27" }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "type": "news",
+      "title": "Competing restoration plans emerge within days",
+      "summary": "Councilors Avalos, Green, Kanal, Koyama Lane, and Morillo introduced an ordinance restoring parks maintenance, 311, senior programs, and unarmed police-assistant positions. Moderates prepared a separate supplemental; a proposed compromise work session was floated, then dropped.",
+      "links": [
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/city-council-held-their-noses-and-passed-a-budget-now-they-want-changes/" }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "type": "vote",
+      "title": "The PCEF restoration dies on the mayor's first tie-break",
+      "summary": "Ordinance 2026-222 — restoring 55 positions with $13.1 million in PCEF interest and $5.5 million in non-general-fund contingencies — failed 6–6, with Mayor Wilson casting his first tie-breaking vote against. The reserves argument was central to the opposition.",
+      "item_id": "2026-222",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/22/portland-city-council-job-cuts-budget/" }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "type": "vote",
+      "title": "The moderates' supplemental passes the same day — drawing contingency",
+      "summary": "Ordinance 2026-223 passed 10–2 (Koyama Lane, Avalos opposed), preserving 30 positions with $9.96 million from general-fund contingency plus $2.25 million from other funds, extending laid-off workers' benefits through Sept. 30, and directing contingency restoration by April 2027. Three amendments restoring the Senior Center project, International Relations program, and Ceasefire coordinator each failed 6–6.",
+      "item_id": "2026-223",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/22/portland-city-council-job-cuts-budget/" },
+        { "label": "KGW", "url": "https://www.kgw.com/article/news/politics/portland-city-council-budget-staff-public-safety-positions-cuts-staff/283-ed543474-257e-43e6-ae65-fb5ca8587e73" }
+      ]
+    }
+  ]
+}

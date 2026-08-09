@@ -1,0 +1,75 @@
+{
+  "id": "boards",
+  "title": "Who watches the boards",
+  "status": "ongoing",
+  "tags": ["governance", "appointments"],
+  "stakes": "The council confirms board members for — and partly funds — two semi-independent agencies: Prosper Portland (economic development) and Home Forward (the regional housing authority). Their own boards make final decisions. The recurring question of 2025–2026 is how much oversight the council actually exercises when it funds, budgets for, and staffs these boards.",
+  "watching_for": "Home Forward's permanent CEO search and appointments to its vacant board seats; Prosper Portland's long-term funding strategy as tax-increment revenue declines toward the projected 'TIF cliff.'",
+  "episodes": [
+    {
+      "date": "2025-05-21",
+      "type": "vote",
+      "title": "Council declines to cut Prosper's $11M — while lamenting its own lack of oversight",
+      "summary": "Councilors Green and Dunphy proposed eliminating Prosper Portland's $11 million general-fund allocation during budget deliberations. The amendment failed 4–8; several councilors said the council has limited oversight of an agency whose own board makes final decisions.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2025/05/21/prosper-portland-dodges-a-big-cut-but-council-takes-aim-at-lack-of-agency-oversight/" },
+        { "label": "Green/Dunphy proposal", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/5/14/press-release-councilors-green-and-dunphy-propose" }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "type": "vote",
+      "title": "Home Forward board appointment confirmed",
+      "summary": "Council adopted Resolution 37735 appointing Teresa Carr (recommended by Gresham) to the Home Forward Board of Commissioners through February 2030, 12–0.",
+      "links": [
+        { "label": "Resolution 37735", "url": "https://www.portland.gov/council/documents/resolution/home-forward-board-appointment-gresham-member" }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "type": "vote",
+      "title": "Cully TIF five-year plan approved through Prosper",
+      "summary": "Council approved the Cully Tax Increment Financing District's five-year action plan, directing Prosper Portland and the Housing Bureau to implement it, 10–1 with Dunphy opposed and Zimmerman absent.",
+      "item_id": "2026-082",
+      "links": [
+        { "label": "Prosper's Cully TIF page", "url": "https://prosperportland.us/our-work/cully-tif-district/" }
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "type": "news",
+      "title": "Home Forward CEO's travel spending draws council fire",
+      "summary": "After Willamette Week reported CEO Ivory Mathews spent over $100,000 on agency-funded travel from 2023 to 2025, councilors publicly questioned the spending. Portland confirms four of the nine board seats.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/26/city-councilors-respond-to-home-forward-ceos-travel-doesnt-pass-the-smell-test/" }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "type": "news",
+      "title": "CEO resigns; calls to remake the board",
+      "summary": "Home Forward announced Mathews would resign May 1. Councilor Zimmerman and County Commissioner Singleton said the board should step down; Councilor Clark called for remaking it. Two of nine board seats sat vacant.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/04/29/portland-public-housing-home-forward-director-resigns/" },
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/29/county-commissioner-and-city-councilor-call-on-home-forward-board-to-resign/" }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "type": "vote",
+      "title": "Prosper's $202M budget approved 12–0",
+      "summary": "Sitting as the Prosper Portland Budget Committee, council approved the agency's FY 2026-27 budget as amended — $202 million, 94 positions (down 10), including $12.6 million general fund — both motions 12–0.",
+      "links": [
+        { "label": "Council record", "url": "https://www.portland.gov/council/documents/report/prosper-budget-approval-fy-2026-27" }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "type": "vote",
+      "title": "Prosper board reappointments confirmed without dissent",
+      "summary": "Council confirmed the reappointment of Marcelino Alvarez and Eric Cress to the Prosper Portland board through September 2029, 12–0.",
+      "item_id": "2026-224",
+      "links": []
+    }
+  ]
+}

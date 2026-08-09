@@ -385,7 +385,7 @@ window.PDX = {
  {
   "id": "2026-267",
   "type": "ordinance",
-  "title": "192212",
+  "title": "*Pay settlement of Michael Duffer bodily injury lawsuit in the sum of $287,500 resulting from a collision with a City dump truck involving the Portland Water Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192212",
   "summary": "",
@@ -424,7 +424,7 @@ window.PDX = {
  {
   "id": "2026-209",
   "type": "ordinance",
-  "title": "192211",
+  "title": "Add Electric Vehicle Charging Systems Funding Code (add Code Chapter 26.11)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192211",
   "summary": "",
@@ -473,7 +473,7 @@ window.PDX = {
  {
   "id": "2026-217",
   "type": "report",
-  "title": "2026-217",
+  "title": "Consider appeals of the Design Commission’s approval of a voluntary Central City Master Plan Review and Adjustment Review for the Lloyd Center Central City Master Plan (LU 25-091308 CCMS AD)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/findings-adopted/2026-217",
   "summary": "",
@@ -512,7 +512,7 @@ window.PDX = {
  {
   "id": "2026-192",
   "type": "ordinance",
-  "title": "192209",
+  "title": "*Amend Vehicles and Traffic Code to clarify applicability of ride fees and establish a Drivers’ Resource Center for Transportation Network Company drivers (amend Code Sections 16.40.030 and 16.40.240)",
   "sponsors": [
    "Councilor Elana Pirtle-Guiney"
   ],
@@ -552,7 +552,7 @@ window.PDX = {
  {
   "id": "2026-216",
   "type": "ordinance",
-  "title": "192208",
+  "title": "Extend lease with Urban Office and Parking Facilities for the CityKids Childcare and Development Center space by five years (amend CLM Contract 10014)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192208",
   "summary": "",
@@ -602,7 +602,7 @@ window.PDX = {
  {
   "id": "2026-238",
   "type": "report",
-  "title": "2026-238",
+  "title": "Appoint voting members to the Portland Utility Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-238",
   "summary": "",
@@ -652,7 +652,7 @@ window.PDX = {
  {
   "id": "2026-203",
   "type": "resolution",
-  "title": "37749",
+  "title": "Direct the City Administrator to reestablish a Permitting Improvement Team to lead the second phase of the Code Alignment Project",
   "sponsors": [
    "Council President Jamie Dunphy"
   ],
@@ -703,7 +703,7 @@ window.PDX = {
  {
   "id": "2026-241",
   "type": "ordinance",
-  "title": "192205",
+  "title": "*Authorize Letter of Agreement with the Laborers’ International Union of North America, Local 483 for premium pay to Assistants and Aides as defined in the Preschool for All Program",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192205",
   "summary": "",
@@ -741,7 +741,7 @@ window.PDX = {
  {
   "id": "2026-204",
   "type": "resolution",
-  "title": "37748",
+  "title": "Establish 2026 sale price cap for the Homebuyer Opportunity Limited Tax Exemption Program​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37748",
   "summary": "",
@@ -790,7 +790,7 @@ window.PDX = {
  {
   "id": "2026-231",
   "type": "report",
-  "title": "2026-231",
+  "title": "Approve Council Minutes for May 6-27, 2026",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -831,7 +831,7 @@ window.PDX = {
  {
   "id": "2026-208",
   "type": "report",
-  "title": "2026-208",
+  "title": "​​Appoint members to the Portland Clean Energy Community Benefits Fund Committee​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-208",
   "summary": "",
@@ -882,7 +882,7 @@ window.PDX = {
  {
   "id": "2026-174",
   "type": "ordinance",
-  "title": "192204",
+  "title": "Amend City Code to transfer oversight of portable sign placement in the right of way and remove registration requirements (amend Code Title 32 and add Code Chapter 17.110)",
   "sponsors": [
    "Councilor Steve Novick City department Permitting & Development Transportation Contact Spencer Knowles Chief of Staff -"
   ],
@@ -933,7 +933,7 @@ window.PDX = {
  {
   "id": "2026-176",
   "type": "ordinance",
-  "title": "192203",
+  "title": "Amend City Code to reflect the dissolution of the Mt. Hood Cable Regulatory Commission​ (amend Code Chapters 3.33 and 3.115)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192203",
   "summary": "",
@@ -982,7 +982,7 @@ window.PDX = {
  {
   "id": "2026-175",
   "type": "ordinance",
-  "title": "192202",
+  "title": "Authorize a Cable Franchise Fund for the Bureau of Planning and Sustainability to support the collection of Public, Education, and Government revenues and manage cable franchise work related to intergovernmental agreements with jurisdictions",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192202",
   "summary": "",
@@ -1031,7 +1031,7 @@ window.PDX = {
  {
   "id": "2026-218",
   "type": "ordinance",
-  "title": "192201",
+  "title": "*Revise sewer and stormwater rates, charges, and fees for FY 2026-27",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192201",
   "summary": "",
@@ -1070,7 +1070,7 @@ window.PDX = {
  {
   "id": "2026-210",
   "type": "report",
-  "title": "2026-210",
+  "title": "Accept recommendations in 2025 Agenda Item Disposition Report",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-210",
   "summary": "",
@@ -1109,7 +1109,7 @@ window.PDX = {
  {
   "id": "2026-124",
   "type": "ordinance",
-  "title": "192200",
+  "title": "Adopt and implement the Moderate-Income Revolving Loan Program",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
@@ -1150,7 +1150,7 @@ window.PDX = {
  {
   "id": "2026-165",
   "type": "ordinance",
-  "title": "192199",
+  "title": "Authorize sewer revenue bonds to finance sewer system capital improvements for an amount sufficient to produce net proceeds of up to $235 million and to refund outstanding sewer revenue bonds",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192199",
   "summary": "",
@@ -1213,7 +1213,7 @@ window.PDX = {
  {
   "id": "2026-198",
   "type": "ordinance",
-  "title": "192197",
+  "title": "*Authorize a temporary interfund loan not to exceed $600,000 from the Parks Capital Fund to the Hydroelectric Power Operating Fund to provide interim funding to avoid negative cash and fund balances at 2025-26 fiscal year-end",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192197",
   "summary": "",
@@ -1266,7 +1266,7 @@ window.PDX = {
  {
   "id": "2026-194",
   "type": "resolution",
-  "title": "37747",
+  "title": "Certify that certain services are provided by the City to establish eligibility for State Shared Revenues",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37747",
   "summary": "",
@@ -1319,7 +1319,7 @@ window.PDX = {
  {
   "id": "2026-199",
   "type": "ordinance",
-  "title": "192198",
+  "title": "Adopt the Supplemental Budget for the FY 2025-26 over-expenditure process and make budget adjustments in various funds",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192198",
   "summary": "",
@@ -1367,7 +1367,7 @@ window.PDX = {
  {
   "id": "2026-197",
   "type": "ordinance",
-  "title": "192196",
+  "title": "*Approve levying taxes for the City for the fiscal year beginning July 1, 2026 and ending June 30, 2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192196",
   "summary": "",
@@ -1406,7 +1406,7 @@ window.PDX = {
  {
   "id": "2026-195",
   "type": "ordinance",
-  "title": "192194",
+  "title": "*Approve accepting funds from the State of Oregon under the State Revenue Sharing Program for the fiscal year beginning July 1, 2026 and ending June 30, 2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192194",
   "summary": "",
@@ -1444,7 +1444,7 @@ window.PDX = {
  {
   "id": "2026-166",
   "type": "ordinance",
-  "title": "192192",
+  "title": "Approve the designation of twelve trees as City Heritage Trees and remove the City Heritage Tree designation from fourteen trees",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192192",
   "summary": "",
@@ -1492,7 +1492,7 @@ window.PDX = {
  {
   "id": "2026-167",
   "type": "ordinance",
-  "title": "192191",
+  "title": "Authorize the Bureau of Transportation to acquire certain permanent and temporary property rights necessary for the construction of the 174th Sidewalk Infill Kelly to Francis streets, SE Project, through the exercise of the City’s eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192191",
   "summary": "",
@@ -1580,7 +1580,7 @@ window.PDX = {
  {
   "id": "2026-181",
   "type": "ordinance",
-  "title": "192187",
+  "title": "Appropriate grant for Pilot Mass Timber Feasibility Study for $100,000",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192187",
   "summary": "",
@@ -1618,7 +1618,7 @@ window.PDX = {
  {
   "id": "2026-180",
   "type": "ordinance",
-  "title": "192186",
+  "title": "Appropriate grant award for Home Ownership Assistance Program - Veterans Restore Health and Safety and Down Payment Assistance for up to $667,230",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192186",
   "summary": "",
@@ -1656,7 +1656,7 @@ window.PDX = {
  {
   "id": "2026-169",
   "type": "report",
-  "title": "2026-169",
+  "title": "Appoint and reappoint members to the Urban Forestry Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-169",
   "summary": "",
@@ -1707,7 +1707,7 @@ window.PDX = {
  {
   "id": "2026-170",
   "type": "report",
-  "title": "2026-170",
+  "title": "Appoint members and alternates to the Sustainability and Climate Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-170",
   "summary": "",
@@ -1761,7 +1761,7 @@ window.PDX = {
  {
   "id": "2026-159",
   "type": "ordinance",
-  "title": "192180",
+  "title": "Adopt solid waste and recycling rates and fees for franchised residential collection and the commercial tonnage fee, effective July 1, 2026 (amend ENN-2.09)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192180",
   "summary": "",
@@ -1809,7 +1809,7 @@ window.PDX = {
  {
   "id": "2026-179",
   "type": "ordinance",
-  "title": "192178",
+  "title": "*Pay settlement of Gabriella Raffei bodily injury lawsuit in the sum of $315,000 resulting from a motor vehicle collision involving the Portland Police Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192178",
   "summary": "",
@@ -1848,7 +1848,7 @@ window.PDX = {
  {
   "id": "2026-178",
   "type": "report",
-  "title": "2026-178",
+  "title": "Approve Council Minutes for April 1-30, 2026",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -1889,7 +1889,7 @@ window.PDX = {
  {
   "id": "2026-151",
   "type": "ordinance",
-  "title": "192176",
+  "title": "*Authorize conveyance of City-owned real property to Habitat for Humanity Portland/Metro East for the construction of True North project",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
@@ -1939,7 +1939,7 @@ window.PDX = {
  {
   "id": "2026-155",
   "type": "ordinance",
-  "title": "192175",
+  "title": "Authorize borrowings of not more than $95 million in anticipation of the Fire and Police Disability and Retirement Fund levy for FY 2026-27",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192175",
   "summary": "",
@@ -1977,7 +1977,7 @@ window.PDX = {
  {
   "id": "2026-132",
   "type": "ordinance",
-  "title": "192174",
+  "title": "Approve funding recommendations of the Portland Children’s Levy Allocation Committee for July 1, 2026 – June 30, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192174",
   "summary": "",
@@ -2026,7 +2026,7 @@ window.PDX = {
  {
   "id": "2026-156",
   "type": "report",
-  "title": "2026-156",
+  "title": "Approve Council Committee Minutes for February 9 - March 17, 2026",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -2066,7 +2066,7 @@ window.PDX = {
  {
   "id": "2026-138",
   "type": "report",
-  "title": "2026-138",
+  "title": "Appoint members to the Design Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-138",
   "summary": "",
@@ -2114,7 +2114,7 @@ window.PDX = {
  {
   "id": "2026-137",
   "type": "report",
-  "title": "2026-137",
+  "title": "Appoint members to the Noise Review Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-137",
   "summary": "",
@@ -2162,7 +2162,7 @@ window.PDX = {
  {
   "id": "2026-148",
   "type": "ordinance",
-  "title": "192172",
+  "title": "*Ratify a collective bargaining agreement with American Federation of State, County, Municipal Employees, Local 189 for represented employees within the Auditor’s Office for 2025-2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192172",
   "summary": "",
@@ -2201,7 +2201,7 @@ window.PDX = {
  {
   "id": "2026-133",
   "type": "ordinance",
-  "title": "192170",
+  "title": "Authorize the Bureau of Transportation to acquire certain permanent property rights necessary for a replacement rockfall mitigation system for the W Burnside Road – SW Tichner Drive Slide Project, through the exercise of the City’s eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192170",
   "summary": "",
@@ -2253,7 +2253,7 @@ window.PDX = {
  {
   "id": "2026-131",
   "type": "ordinance",
-  "title": "192169",
+  "title": "*Amend franchise granted to Comcast of Oregon II, Inc. to reflect the dissolution of the Mt. Hood Cable Regulatory Commission (amend Ordinance 192084)​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192169",
   "summary": "",
@@ -2302,7 +2302,7 @@ window.PDX = {
  {
   "id": "2026-143",
   "type": "report",
-  "title": "2026-143",
+  "title": "Approve Council Minutes for February 4 - March 18, 2026",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -2343,7 +2343,7 @@ window.PDX = {
  {
   "id": "2026-105",
   "type": "report",
-  "title": "2026-105",
+  "title": "Reappoint member to the Historic Landmarks Commission for a term to expire August 2, 2030",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-105",
   "summary": "",
@@ -2394,7 +2394,7 @@ window.PDX = {
  {
   "id": "2026-128",
   "type": "ordinance",
-  "title": "192167",
+  "title": "*Pay settlement of Groat Bros Inc. property damage claim involving Portland Parks & Recreation for $89,106",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192167",
   "summary": "",
@@ -2432,7 +2432,7 @@ window.PDX = {
  {
   "id": "2026-127",
   "type": "ordinance",
-  "title": "192166",
+  "title": "*Pay settlement of the Estate of Ashlee McGill wrongful death lawsuit involving the Portland Bureau of Transportation for $80,000",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192166",
   "summary": "",
@@ -2471,7 +2471,7 @@ window.PDX = {
  {
   "id": "2026-106",
   "type": "resolution",
-  "title": "37746",
+  "title": "Direct City Administrator to develop accelerated timeline for the Inner Eastside Area Planning Project and identify future area planning and zoning actions to advance housing production goals",
   "sponsors": [
    "Councilor Angelita Morillo"
   ],
@@ -2526,7 +2526,7 @@ window.PDX = {
  {
   "id": "2026-114",
   "type": "resolution",
-  "title": "37745",
+  "title": "Support modification of Bureau of Transportation street opening permits to utilities to include damage cost recovery related to long-term pavement degradation associated with excavation in the public right-of-way",
   "sponsors": [
    "Council Vice President Olivia Clark"
   ],
@@ -2595,7 +2595,7 @@ window.PDX = {
  {
   "id": "2026-119",
   "type": "ordinance",
-  "title": "192164",
+  "title": "*Authorize a temporary interfund loan not to exceed $15 million from the Facilities Services Fund to the Health Insurance Operating Fund to provide interim funding for employee health benefits and to avoid negative cash and fund balances at the end of FY 2025-26",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192164",
   "summary": "",
@@ -2634,7 +2634,7 @@ window.PDX = {
  {
   "id": "2026-077",
   "type": "ordinance",
-  "title": "192163",
+  "title": "Amend Business License Law Code to increase the business license tax gross receipts exemption (amend Code Section 7.02.400)",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
@@ -2687,7 +2687,7 @@ window.PDX = {
  {
   "id": "2026-079",
   "type": "ordinance",
-  "title": "192162",
+  "title": "Appropriate grants from the State of Oregon Transportation Safety Office and from Oregon Impact for a total of $322,555 to increase traffic safety",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192162",
   "summary": "",
@@ -2738,7 +2738,7 @@ window.PDX = {
  {
   "id": "2026-097",
   "type": "ordinance",
-  "title": "192161",
+  "title": "Vacate NE Couch St and NE Davis St west of NE 97th Ave subject to certain conditions and reservations (VAC-10140)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192161",
   "summary": "",
@@ -2787,7 +2787,7 @@ window.PDX = {
  {
   "id": "2026-118",
   "type": "ordinance",
-  "title": "192160",
+  "title": "*Authorize the Deputy City Administrator of City Operations to enter into a three-year contract with Express Scripts, Inc. to provide pharmacy benefits manager services on behalf of the City through the Bureau of Human Resources, Benefits Office to begin July 1, 2026, with a not to exceed amount of $120,000,000",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192160",
   "summary": "",
@@ -2826,7 +2826,7 @@ window.PDX = {
  {
   "id": "2026-117",
   "type": "ordinance",
-  "title": "192159",
+  "title": "*Amend the City Employee Benefits Program for the FY 2026-27 plan offerings",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192159",
   "summary": "",
@@ -2865,7 +2865,7 @@ window.PDX = {
  {
   "id": "2026-116",
   "type": "ordinance",
-  "title": "192158",
+  "title": "*Amend the Portland Police Association Portland Police Bureau City Employee Benefits Program for the plan offerings for FY 2026-27",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192158",
   "summary": "",
@@ -2904,7 +2904,7 @@ window.PDX = {
  {
   "id": "2026-078",
   "type": "ordinance",
-  "title": "192157",
+  "title": "*Amend Office of the City Attorney Code to authorize payment of costs for City employees facing certain criminal or civil proceedings (amend Code Section 3.10.020)",
   "sponsors": [
    "Councilor Eric Zimmerman City department City Attorney Service area City Operations Contact Luke Zak Policy Director",
    ""
@@ -2958,7 +2958,7 @@ window.PDX = {
  {
   "id": "2026-112",
   "type": "ordinance",
-  "title": "192155",
+  "title": "*Amend Council schedule during FY 2026-27 budget process",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192155",
   "summary": "",
@@ -3023,7 +3023,7 @@ window.PDX = {
  {
   "id": "2026-084",
   "type": "report",
-  "title": "2026-084",
+  "title": "​​Appoint Eric Cress to the Prosper Portland Board of Commissioners for term to expire September 5, 2026 ​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-084",
   "summary": "",
@@ -3071,7 +3071,7 @@ window.PDX = {
  {
   "id": "2026-083",
   "type": "report",
-  "title": "2026-083",
+  "title": "Appoint and reappoint members to the Cully Tax Increment Financing Community Leadership Council",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-083",
   "summary": "",
@@ -3119,7 +3119,7 @@ window.PDX = {
  {
   "id": "2026-074",
   "type": "resolution",
-  "title": "37743",
+  "title": "​​Declare the City of Portland will defend the rights of transgender people and all of the LGBTQIA2S+ community​",
   "sponsors": [
    "Councilor Tiffany Koyama Lane"
   ],
@@ -3159,7 +3159,7 @@ window.PDX = {
  {
   "id": "2026-073",
   "type": "ordinance",
-  "title": "192153",
+  "title": "​​Amend Civil Rights Code related to sexual orientation and family status definitions and amend nondiscrimination clauses (amend Code Section 14A.50.110 and Code Chapter 23.01)",
   "sponsors": [
    "Councilor Tiffany Koyama Lane"
   ],
@@ -3200,7 +3200,7 @@ window.PDX = {
  {
   "id": "2026-087",
   "type": "report",
-  "title": "2026-087",
+  "title": "Appoint members to the Community Involvement Committee",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-087",
   "summary": "",
@@ -3251,7 +3251,7 @@ window.PDX = {
  {
   "id": "2026-063",
   "type": "ordinance",
-  "title": "192152",
+  "title": "​​Adopt the Public Infrastructure Environmental Code Project to streamline environmental zoning regulations to accommodate needed infrastructure projects and support ongoing natural resource management (amend Code Title 33)​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192152",
   "summary": "",
@@ -3301,7 +3301,7 @@ window.PDX = {
  {
   "id": "2026-053",
   "type": "ordinance",
-  "title": "192151",
+  "title": "Amend the FY 2025–26 Appropriation Schedule to reallocate $150,000 from the Legal Priorities Reserve Fund to support refugee and immigration legal services",
   "sponsors": [
    "Councilor Elana Pirtle-Guiney Contact Devin Mullins Chief of Staff",
    ""
@@ -3360,7 +3360,7 @@ window.PDX = {
  {
   "id": "2026-052",
   "type": "ordinance",
-  "title": "192150",
+  "title": "Authorize Bureau of Transportation to acquire certain permanent and temporary property rights necessary for construction of the NE MLK Blvd Safety and Access to Transit Project, through the exercise of the City’s eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192150",
   "summary": "",
@@ -3409,7 +3409,7 @@ window.PDX = {
  {
   "id": "2026-096",
   "type": "report",
-  "title": "2026-096",
+  "title": "Approve Council Minutes for December 10, 2025 - January 29, 2026",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -3449,7 +3449,7 @@ window.PDX = {
  {
   "id": "2026-050",
   "type": "ordinance",
-  "title": "192149",
+  "title": "Authorize limited tax revenue refunding bonds through December 31, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192149",
   "summary": "",
@@ -3497,7 +3497,7 @@ window.PDX = {
  {
   "id": "2026-051",
   "type": "ordinance",
-  "title": "192148",
+  "title": "Declare properties located near the intersections of N Lewis Ave and N Loring St, and N Albina Ave and N River St as surplus property and authorize the Bureau of Transportation to dispose of the property for fair market value",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192148",
   "summary": "",
@@ -3545,7 +3545,7 @@ window.PDX = {
  {
   "id": "2026-094",
   "type": "resolution",
-  "title": "37742",
+  "title": "Commemorate the life of George Floyd and reaffirm the commitment to racial justice of the City of Portland",
   "sponsors": [
    "Councilor Candace Avalos"
   ],
@@ -3586,7 +3586,7 @@ window.PDX = {
  {
   "id": "2026-040",
   "type": "report",
-  "title": "2026-040",
+  "title": "Accept the 2024-2025 Parks Levy and Parks Levy Oversight Committee Annual Report",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-040",
   "summary": "",
@@ -3635,7 +3635,7 @@ window.PDX = {
  {
   "id": "2026-037",
   "type": "ordinance",
-  "title": "192146",
+  "title": "​​Adopt the Affordable Housing Opportunities Project amendments to the Comprehensive Plan Map and the Official Zoning Map",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192146",
   "summary": "",
@@ -3686,7 +3686,7 @@ window.PDX = {
  {
   "id": "2026-048",
   "type": "resolution",
-  "title": "37740",
+  "title": "Declare bridge between SE 17th Ave and SE 26th Ave to be named Brooklyn Bridge and direct the City Administrator to authorize update of signage as appropriate",
   "sponsors": [
    "Councilor Angelita Morillo"
   ],
@@ -3738,7 +3738,7 @@ window.PDX = {
  {
   "id": "2026-016",
   "type": "resolution",
-  "title": "37739",
+  "title": "Authorize submission of a minor boundary change request to the State of Oregon to amend the Portland Enterprise Zone boundary",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37739",
   "summary": "",
@@ -3801,7 +3801,7 @@ window.PDX = {
  {
   "id": "2026-047",
   "type": "report",
-  "title": "2026-047",
+  "title": "Accept removals from Community Board for Police Accountability recommended by administration due to ineligibility and cause and appoint alternates to vacant seats",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-047",
   "summary": "",
@@ -3839,7 +3839,7 @@ window.PDX = {
  {
   "id": "2025-471",
   "type": "ordinance",
-  "title": "192145",
+  "title": "Add Appointed Boards, Commissions and Committees Code (add Code Chapter 3.40)",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
@@ -3880,7 +3880,7 @@ window.PDX = {
  {
   "id": "2025-475",
   "type": "ordinance",
-  "title": "192144",
+  "title": "Add Nondiscrimination Requirements for Single-Occupant Restrooms in Places of Public Accommodation Code to establish equal restroom access by requiring gender neutral signage (add Code Section 23.01.071)",
   "sponsors": [
    "Council President Jamie Dunphy"
   ],
@@ -3931,7 +3931,7 @@ window.PDX = {
  {
   "id": "2025-481",
   "type": "resolution",
-  "title": "37736",
+  "title": "Direct the City Administrator to establish a City Data and Privacy Office to advance privacy protections, steward data assets, and minimize risks from data brokers, uncontrolled sharing of personal information, and secondary data use",
   "sponsors": [
    "Councilor Angelita Morillo"
   ],
@@ -3971,7 +3971,7 @@ window.PDX = {
  {
   "id": "2025-480",
   "type": "ordinance",
-  "title": "192143",
+  "title": "Add Code to establish a City Data and Privacy Office (add Code Chapter 3.39)",
   "sponsors": [
    "Councilor Angelita Morillo"
   ],
@@ -4025,7 +4025,7 @@ window.PDX = {
  {
   "id": "2026-018",
   "type": "report",
-  "title": "2026-018",
+  "title": "Appoint and reappoint members to the Building Code Board of Appeal for terms to expire February 3, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-018",
   "summary": "",
@@ -4075,7 +4075,7 @@ window.PDX = {
  {
   "id": "2026-017",
   "type": "resolution",
-  "title": "37735",
+  "title": "Appoint Teresa Carr to the Home Forward Board of Commissioners for a term to expire February 4, 2030",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37735",
   "summary": "",
@@ -4125,7 +4125,7 @@ window.PDX = {
  {
   "id": "2026-008",
   "type": "ordinance",
-  "title": "192142",
+  "title": "Exempt certain code requirements under City Code Chapter 17.93 Renaming City Streets for the proposed renaming of a portion of SW Jackson Street to SW Rose Hill Street",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192142",
   "summary": "",
@@ -4173,7 +4173,7 @@ window.PDX = {
  {
   "id": "2026-011",
   "type": "ordinance",
-  "title": "192141",
+  "title": "​​Amend Portland Clean Energy Community Benefits Code to allow a transfer of interest earned in FY 2023-24 for the FY 2025-26 budget (amend Code Section 7.07.060)​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192141",
   "summary": "",
@@ -4221,7 +4221,7 @@ window.PDX = {
  {
   "id": "2026-007",
   "type": "ordinance",
-  "title": "192140",
+  "title": "Amend Renaming City Streets Code to realign with Oregon Revised Statute 227.120 by redelegating decision-making authority to City Council to approve or deny street renaming proposals (amend Code Chapter 17.93)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192140",
   "summary": "",
@@ -4269,7 +4269,7 @@ window.PDX = {
  {
   "id": "2026-045",
   "type": "report",
-  "title": "2026-045",
+  "title": "Transmit report to the City on Portland Police Bureau Officer-Involved Shootings and Critical Incidents by the OIR Group",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-045",
   "summary": "",
@@ -4317,7 +4317,7 @@ window.PDX = {
  {
   "id": "2025-467",
   "type": "ordinance",
-  "title": "192139",
+  "title": "Assess property for sidewalk, curb and driveway repair for the Portland Bureau of Transportation (Y1106)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192139",
   "summary": "",
@@ -4368,7 +4368,7 @@ window.PDX = {
  {
   "id": "2025-468",
   "type": "ordinance",
-  "title": "192138",
+  "title": "Assess property for sidewalk, curb and driveway repair for the Portland Bureau of Transportation (Y1107)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192138",
   "summary": "",
@@ -4434,7 +4434,7 @@ window.PDX = {
  {
   "id": "2025-466",
   "type": "ordinance",
-  "title": "192137",
+  "title": "Amend Intergovernmental Agreement with Multnomah County for the Revenue Division to administer the Preschool for All Program Tax",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192137",
   "summary": "",
@@ -4500,7 +4500,7 @@ window.PDX = {
  {
   "id": "2025-483",
   "type": "ordinance",
-  "title": "192136",
+  "title": "Annex the 5048 SW Hilltop Lane property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192136",
   "summary": "",
@@ -4552,7 +4552,7 @@ window.PDX = {
  {
   "id": "2025-493",
   "type": "resolution",
-  "title": "37733",
+  "title": "Establish a Portland City Council Governance Handbook to collect policies, procedures, and current practices to support City operations and improve transparency",
   "sponsors": [
    "Councilor Tiffany Koyama Lane Contact Aubri Qian Senior"
   ],
@@ -4593,7 +4593,7 @@ window.PDX = {
  {
   "id": "2026-003",
   "type": "resolution",
-  "title": "37732",
+  "title": "Adopt the Budget Calendar for FY 2026-27",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37732",
   "summary": "",
@@ -4631,7 +4631,7 @@ window.PDX = {
  {
   "id": "2026-002",
   "type": "resolution",
-  "title": "37731",
+  "title": "Approve Plan of Action as required by the Oregon Secretary of State to finding by outside auditors of material weaknesses in the FY 2024-25 Annual Comprehensive Financial Report",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37731",
   "summary": "",
@@ -4679,7 +4679,7 @@ window.PDX = {
  {
   "id": "2026-001",
   "type": "report",
-  "title": "2026-001",
+  "title": "Accept the City Annual Comprehensive Financial Report for fiscal year ended June 30, 2025",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2026-001",
   "summary": "",
@@ -4727,7 +4727,7 @@ window.PDX = {
  {
   "id": "2025-479",
   "type": "resolution",
-  "title": "37728",
+  "title": "Appoint members to the Portland Street Response Committee",
   "sponsors": [
    "Councilor Sameer Kanal"
   ],
@@ -4785,7 +4785,7 @@ window.PDX = {
  {
   "id": "2025-470",
   "type": "report",
-  "title": "2025-470",
+  "title": "Confirm appointment of member to the Portland Elections Commission for a term to end April 30, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-470",
   "summary": "",
@@ -4834,7 +4834,7 @@ window.PDX = {
  {
   "id": "2025-500",
   "type": "resolution",
-  "title": "37727",
+  "title": "Adopt the 2026 State and Federal Legislative Agendas",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37727",
   "summary": "",
@@ -4887,7 +4887,7 @@ window.PDX = {
  {
   "id": "2025-498",
   "type": "report",
-  "title": "2025-498",
+  "title": "Approve Council Minutes for October 1, 2025 - December 3, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -4942,7 +4942,7 @@ window.PDX = {
  {
   "id": "2025-446",
   "type": "resolution",
-  "title": "37725",
+  "title": "Require City Administrator to prepare a report with recommendations to reform the City design review process",
   "sponsors": [
    "Councilor Eric Zimmerman"
   ],
@@ -4995,7 +4995,7 @@ window.PDX = {
  {
   "id": "2025-490",
   "type": "ordinance",
-  "title": "192133",
+  "title": "*Ratify Collective Bargaining Agreement with the Portland Police Association for represented Emergency Communication Supervisor I employees within the Bureau of Emergency Communications for 2025-2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192133",
   "summary": "",
@@ -5034,7 +5034,7 @@ window.PDX = {
  {
   "id": "2025-488",
   "type": "ordinance",
-  "title": "192131",
+  "title": "*Authorize Director of the Bureau of Human Resources to offer an Employment Agreement to the City Administrator",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192131",
   "summary": "",
@@ -5073,7 +5073,7 @@ window.PDX = {
  {
   "id": "2025-486",
   "type": "report",
-  "title": "2025-486",
+  "title": "Certify abstract of votes cast and proclaim Measure 26-260 approved at the Municipal Nonpartisan Special Election held on November 4, 2025",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-486",
   "summary": "",
@@ -5112,7 +5112,7 @@ window.PDX = {
  {
   "id": "2025-485",
   "type": "resolution",
-  "title": "37724",
+  "title": "Appoint Raymond C. Lee III as City Administrator",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37724",
   "summary": "",
@@ -5151,7 +5151,7 @@ window.PDX = {
  {
   "id": "2025-462",
   "type": "ordinance",
-  "title": "192129",
+  "title": "*Pay settlement of David Barron employment discrimination lawsuit in the sum of $60,000 involving Portland Fire & Rescue",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192129",
   "summary": "",
@@ -5190,7 +5190,7 @@ window.PDX = {
  {
   "id": "2025-432",
   "type": "ordinance",
-  "title": "192128",
+  "title": "Amend Business License Law Code to allow sharing select business license tax information with the Bureau of Environmental Services (amend Code Section 7.02.240)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192128",
   "summary": "",
@@ -5290,7 +5290,7 @@ window.PDX = {
  {
   "id": "2025-440",
   "type": "report",
-  "title": "2025-440",
+  "title": "Reappoint Dan Floyd to Portland Children’s Levy Allocation Committee for term to expire December 31, 2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-440",
   "summary": "",
@@ -5339,7 +5339,7 @@ window.PDX = {
  {
   "id": "2025-438",
   "type": "report",
-  "title": "2025-438",
+  "title": "Reappoint Sean Wallace and appoint Penny Sweeting to the Revenue Division Appeals Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-438",
   "summary": "",
@@ -5390,7 +5390,7 @@ window.PDX = {
  {
   "id": "2025-437",
   "type": "report",
-  "title": "2025-437",
+  "title": "Reappoint Catherine MacLeod to the Fire and Police Disability and Retirement Board of Trustees for term to expire December 31, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-437",
   "summary": "",
@@ -5441,7 +5441,7 @@ window.PDX = {
  {
   "id": "2025-435",
   "type": "ordinance",
-  "title": "192126",
+  "title": "Amend Lloyd Business District Fee Code to correct inadvertent change (amend Code Sections 6.06.260 and 6.06.270)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192126",
   "summary": "",
@@ -5492,7 +5492,7 @@ window.PDX = {
  {
   "id": "2025-434",
   "type": "ordinance",
-  "title": "192125",
+  "title": "Amend Special Taxes Code to conform to Oregon Revised Statute 314.835 (amend Code Sections 6.04.130, 6.05.070, 6.09.040, and add Code Section 6.04.135)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192125",
   "summary": "",
@@ -5543,7 +5543,7 @@ window.PDX = {
  {
   "id": "2025-433",
   "type": "ordinance",
-  "title": "192124",
+  "title": "Amend Protests and Appeals and Revenue Division Appeals Board Code (amend Code Sections 7.02.290 and 7.02.295)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192124",
   "summary": "",
@@ -5594,7 +5594,7 @@ window.PDX = {
  {
   "id": "2025-403",
   "type": "ordinance",
-  "title": "192123",
+  "title": "Adopt the FY 2025-26 Fall Supplemental Budget and make other budget related changes",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192123",
   "summary": "",
@@ -5633,7 +5633,7 @@ window.PDX = {
  {
   "id": "2025-405",
   "type": "ordinance",
-  "title": "192121",
+  "title": "Authorize the City to acquire certain permanent and temporary property rights necessary for construction of the 3260 SW Upper Drive north to 3139 SW Upper Drive project through negotiation or exercise of the City's eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192121",
   "summary": "",
@@ -5682,7 +5682,7 @@ window.PDX = {
  {
   "id": "2025-404",
   "type": "ordinance",
-  "title": "192120",
+  "title": "Authorize revenue bonds in an amount sufficient to provide not more than $41 million to finance City fleet maintenance facility improvements and related costs",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192120",
   "summary": "",
@@ -5731,7 +5731,7 @@ window.PDX = {
  {
   "id": "2025-428",
   "type": "ordinance",
-  "title": "192119",
+  "title": "*Pay settlement of Ashton and Tina Roberts bodily injury claims in the sum of $675,000 involving the Portland Bureau of Transportation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192119",
   "summary": "",
@@ -5770,7 +5770,7 @@ window.PDX = {
  {
   "id": "2025-377",
   "type": "resolution",
-  "title": "37722",
+  "title": "Initiate two disparity studies on City contracting and workforce participation",
   "sponsors": [
    "Councilor Loretta Smith"
   ],
@@ -5811,7 +5811,7 @@ window.PDX = {
  {
   "id": "2025-383",
   "type": "report",
-  "title": "2025-383",
+  "title": "Accept the Bull Run Treatment Projects 2025 Annual Report",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-383",
   "summary": "",
@@ -5860,7 +5860,7 @@ window.PDX = {
  {
   "id": "2025-419",
   "type": "ordinance",
-  "title": "192118",
+  "title": "*Authorize City Attorney to settle lawsuit related to construction of the Streetcar approach ramp located near SE 2nd Ave and accept lump sum payment in the amount of $7,500,000",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192118",
   "summary": "",
@@ -5899,7 +5899,7 @@ window.PDX = {
  {
   "id": "2025-409",
   "type": "report",
-  "title": "2025-409",
+  "title": "Appoint and reappoint members to the Development Review Advisory Committee",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-409",
   "summary": "",
@@ -5948,7 +5948,7 @@ window.PDX = {
  {
   "id": "2025-418",
   "type": "report",
-  "title": "2025-418",
+  "title": "Appoint members to the 82nd Avenue Area, East 205, and Sumner-Parkrose-Argay-Columbia Corridor Tax Increment Financing District Community Leadership Committees",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-418",
   "summary": "",
@@ -5987,7 +5987,7 @@ window.PDX = {
  {
   "id": "2025-351",
   "type": "resolution",
-  "title": "37720",
+  "title": "Adopt the Portland Urban Forest Plan to improve public health, build resilience to climate change, and promote environmental justice",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37720",
   "summary": "",
@@ -6026,7 +6026,7 @@ window.PDX = {
  {
   "id": "2025-374",
   "type": "ordinance",
-  "title": "192117",
+  "title": "Amend City Code to adopt State of Oregon Building Codes by reference (amend Code Title 24 and Sections 25.01.020, 26.01.030, and 27.01.030)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192117",
   "summary": "",
@@ -6077,7 +6077,7 @@ window.PDX = {
  {
   "id": "2025-402",
   "type": "ordinance",
-  "title": "192115",
+  "title": "*Add Code to enact Sanctuary City status protections (add Code Chapter 23.20)",
   "sponsors": [
    "Councilor Sameer Kanal"
   ],
@@ -6132,7 +6132,7 @@ window.PDX = {
  {
   "id": "2025-401",
   "type": "resolution",
-  "title": "37719",
+  "title": "Denounce any attempts to deploy the United States Armed Forces, the National Guard, or militarized Federal Immigration Enforcement in Portland and establish the Protect Portland Initiative",
   "sponsors": [
    "Council Vice President Olivia Clark"
   ],
@@ -6197,7 +6197,7 @@ window.PDX = {
  {
   "id": "2025-400",
   "type": "report",
-  "title": "2025-400",
+  "title": "Approve Council Minutes for September 3-24, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -6237,7 +6237,7 @@ window.PDX = {
  {
   "id": "2025-370",
   "type": "resolution",
-  "title": "37718",
+  "title": "Require City Administrator to develop a plan that establishes a storefront support program",
   "sponsors": [
    "Councilor Dan Ryan Contact Kezia Wanner Chief of Staff email kezia.v.wanner@portlandoregon.gov Kraig Cook"
   ],
@@ -6277,7 +6277,7 @@ window.PDX = {
  {
   "id": "2025-330",
   "type": "ordinance",
-  "title": "192114",
+  "title": "*Authorize Bureau of Transportation to acquire certain temporary rights necessary for construction of the NE Shaver Sidewalk, 102nd to 115th Avenue Project, through the exercise of the City’s Eminent Domain Authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192114",
   "summary": "",
@@ -6331,7 +6331,7 @@ window.PDX = {
  {
   "id": "2025-365",
   "type": "ordinance",
-  "title": "192113",
+  "title": "Establish a charge to fund City payment of the Flood Safety Benefit Fee to the Urban Flood Safety and Water Quality District",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192113",
   "summary": "",
@@ -6382,7 +6382,7 @@ window.PDX = {
  {
   "id": "2025-363",
   "type": "ordinance",
-  "title": "192112",
+  "title": "Amend transportation fee schedule for FY 2025-26 to reflect changes in the Plaza Use Permit program (amend TRN 3.450)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192112",
   "summary": "",
@@ -6431,7 +6431,7 @@ window.PDX = {
  {
   "id": "2025-362",
   "type": "ordinance",
-  "title": "192111",
+  "title": "Authorize exception to Title 17 Underground Wiring Districts Code to allow for the placement of decorative lighting across Portland Bureau of Transportation designated pedestrian plazas and the Skidmore/Old Town Historic District and the New Chinatown/Japantown Historic District (allow exception to Code Section 17.60.020)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192111",
   "summary": "",
@@ -6480,7 +6480,7 @@ window.PDX = {
  {
   "id": "2025-251",
   "type": "ordinance",
-  "title": "192110",
+  "title": "Vacate a portion of an unnamed road near the intersection of NE 33rd Dr and NE Marine Dr subject to certain conditions and reservations (VAC-10133)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192110",
   "summary": "",
@@ -6531,7 +6531,7 @@ window.PDX = {
  {
   "id": "2025-250",
   "type": "ordinance",
-  "title": "192109",
+  "title": "Declare property at an unnamed road off NE 33rd Dr as surplus and authorize the Bureau of Transportation to dispose of the property by sale to WPC Marine LLC",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192109",
   "summary": "",
@@ -6582,7 +6582,7 @@ window.PDX = {
  {
   "id": "2025-366",
   "type": "ordinance",
-  "title": "192108",
+  "title": "Authorize the Bureau of Transportation to acquire certain temporary rights necessary for construction of NE 122nd Ave, Safety and Access: Beech St-Wasco St Project, through the exercise of the City’s eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192108",
   "summary": "",
@@ -6633,7 +6633,7 @@ window.PDX = {
  {
   "id": "2025-361",
   "type": "resolution",
-  "title": "37717",
+  "title": "Adopt the Public Street Plaza Program Framework to support the creation of a permanent Public Street Plaza Program",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37717",
   "summary": "",
@@ -6682,7 +6682,7 @@ window.PDX = {
  {
   "id": "2025-339",
   "type": "ordinance",
-  "title": "192107",
+  "title": "Initiate foreclosure action on 5130 SE 84th Ave for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192107",
   "summary": "",
@@ -6734,7 +6734,7 @@ window.PDX = {
  {
   "id": "2025-338",
   "type": "ordinance",
-  "title": "192106",
+  "title": "Initiate foreclosure action on 3821 NW Saint Helens Rd for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192106",
   "summary": "",
@@ -6786,7 +6786,7 @@ window.PDX = {
  {
   "id": "2025-334",
   "type": "ordinance",
-  "title": "192105",
+  "title": "Initiate foreclosure action on 1541 SW Market St for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192105",
   "summary": "",
@@ -6838,7 +6838,7 @@ window.PDX = {
  {
   "id": "2025-332",
   "type": "ordinance",
-  "title": "192104",
+  "title": "Initiate foreclosure action on 1541 WI/SW Market Street for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192104",
   "summary": "",
@@ -6890,7 +6890,7 @@ window.PDX = {
  {
   "id": "2025-380",
   "type": "ordinance",
-  "title": "192103",
+  "title": "*Pay settlement of Hillary Rossio and Colleen McDonald bodily injury lawsuit in the sum of $150,000 involving the Portland Police Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192103",
   "summary": "",
@@ -6929,7 +6929,7 @@ window.PDX = {
  {
   "id": "2025-359",
   "type": "report",
-  "title": "2025-359",
+  "title": "Reappoint Serena Stoudamire Wesley to the Prosper Portland Board of Commissioners for term to expire September 30, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-359",
   "summary": "",
@@ -6978,7 +6978,7 @@ window.PDX = {
  {
   "id": "2025-373",
   "type": "report",
-  "title": "2025-373",
+  "title": "Reappoint Bruce Broussard, Kelly Holtz, and Tim Larson to the River Community Advisory Committee for terms to expire April 12, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-373",
   "summary": "",
@@ -7036,7 +7036,7 @@ window.PDX = {
  {
   "id": "2025-329",
   "type": "ordinance",
-  "title": "192099",
+  "title": "Declare property located on SE 21st Ave and SE Powell Blvd as surplus property and authorize the City Administrator to dispose of the property at fair market value",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192099",
   "summary": "",
@@ -7084,7 +7084,7 @@ window.PDX = {
  {
   "id": "2025-301",
   "type": "ordinance",
-  "title": "192097",
+  "title": "Amend Parking Space Reservation Code to allow for flexibility in the distribution of responsibilities (amend Code Section 16.20.460)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192097",
   "summary": "",
@@ -7133,7 +7133,7 @@ window.PDX = {
  {
   "id": "2025-306",
   "type": "ordinance",
-  "title": "192096",
+  "title": "Assess property for system development charge contracts, private plumbing loan contracts and safety net loan deferral contracts (Z0854, Z0855, Z0856, K0196, K0197, T0215, T0216, T0217, W0083, Z1214, P0175, P0176)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192096",
   "summary": "",
@@ -7182,7 +7182,7 @@ window.PDX = {
  {
   "id": "2025-378",
   "type": "ordinance",
-  "title": "192102",
+  "title": "*Authorize negotiation and execution of an in-district office space lease for District 1 Councilors for a term commencing approximately October 1, 2025, through June 30, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192102",
   "summary": "",
@@ -7220,7 +7220,7 @@ window.PDX = {
  {
   "id": "2025-350",
   "type": "ordinance",
-  "title": "192101",
+  "title": "​​Direct City Administrator to approve Portland-Gresham Urban Services Intergovernmental Agreement",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192101",
   "summary": "",
@@ -7271,7 +7271,7 @@ window.PDX = {
  {
   "id": "2025-349",
   "type": "ordinance",
-  "title": "192100",
+  "title": "​​Approve Comprehensive Plan Map, Zone Map, and Title 33 amendments as proposed in Portland-Gresham Urban Service Boundary Amendments Project​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192100",
   "summary": "",
@@ -7322,7 +7322,7 @@ window.PDX = {
  {
   "id": "2025-314",
   "type": "ordinance",
-  "title": "192095",
+  "title": "Amend City Code to reduce permit submittal requirements and temporarily suspend City-imposed development upgrade requirements (amend Code Chapters 11.50, 11.60, 24.85, and 33.258, and allow exception to Code Subsection 17.88.020 B.)",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
@@ -7373,7 +7373,7 @@ window.PDX = {
  {
   "id": "2025-204",
   "type": "resolution",
-  "title": "37716",
+  "title": "Reaffirm Council commitment to the Vision Zero Action Plan and convene a cross-bureau Vision Zero Task Force",
   "sponsors": [
    "Councilor Tiffany Koyama Lane"
   ],
@@ -7428,7 +7428,7 @@ window.PDX = {
  {
   "id": "2025-300",
   "type": "ordinance",
-  "title": "192094",
+  "title": "Adopt Council Regular Meeting Schedule pursuant to Code Subsection 3.02.010.C.1",
   "sponsors": [
    "Councilor Sameer Kanal"
   ],
@@ -7478,7 +7478,7 @@ window.PDX = {
  {
   "id": "2025-286",
   "type": "ordinance",
-  "title": "192092",
+  "title": "Authorize Bureau of Transportation to acquire certain permanent and temporary property rights necessary for construction of the 82nd Avenue: Glisan and Davis Signal Improvements Project through the exercise of the City’s Eminent Domain Authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192092",
   "summary": "",
@@ -7528,7 +7528,7 @@ window.PDX = {
  {
   "id": "2025-303",
   "type": "report",
-  "title": "2025-303",
+  "title": "Reappoint Adam Abplanalp and appoint Craig Freeman to the Revenue Division Appeals Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-303",
   "summary": "",
@@ -7576,7 +7576,7 @@ window.PDX = {
  {
   "id": "2025-325",
   "type": "report",
-  "title": "2025-325",
+  "title": "Approve Council Minutes for August 6-14, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -7616,7 +7616,7 @@ window.PDX = {
  {
   "id": "2025-299",
   "type": "ordinance",
-  "title": "192091",
+  "title": "*Pay settlement of Van Loo Fiduciary Services LLC as Personal Representative of the Estate of Immanueal Jaquez Clark wrongful death lawsuit for the sum of $3,750,000 involving the Portland Police Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192091",
   "summary": "",
@@ -7654,7 +7654,7 @@ window.PDX = {
  {
   "id": "2025-298",
   "type": "ordinance",
-  "title": "192090",
+  "title": "*Pay settlement of Hannah Ahern bodily injury lawsuit in the sum of $62,500 involving the Portland Police Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192090",
   "summary": "",
@@ -7692,7 +7692,7 @@ window.PDX = {
  {
   "id": "2025-194",
   "type": "resolution",
-  "title": "37715",
+  "title": "Require City Administrator to develop Citywide Asset Management Strategy to establish priorities and practices to address asset management maturity and financial planning gaps",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37715",
   "summary": "",
@@ -7740,7 +7740,7 @@ window.PDX = {
  {
   "id": "2025-297",
   "type": "ordinance",
-  "title": "192088",
+  "title": "*Authorize Letter of Agreement with the Portland Police Association to grant the Chief of Police authority to offer five sworn members a fourth year of service in the Retire Rehire Program",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192088",
   "summary": "",
@@ -7778,7 +7778,7 @@ window.PDX = {
  {
   "id": "2025-296",
   "type": "report",
-  "title": "2025-296",
+  "title": "Approve Council Minutes for May 7, 2025 - July 17, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -7818,7 +7818,7 @@ window.PDX = {
  {
   "id": "2025-283",
   "type": "report",
-  "title": "2025-283",
+  "title": "Appoint and reappoint voting members to the Portland Utility Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-283",
   "summary": "",
@@ -7868,7 +7868,7 @@ window.PDX = {
  {
   "id": "2025-291",
   "type": "report",
-  "title": "2025-291",
+  "title": "​​Appoint members to the Portland Clean Energy Fund Committee",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-291",
   "summary": "",
@@ -7916,7 +7916,7 @@ window.PDX = {
  {
   "id": "2025-284",
   "type": "ordinance",
-  "title": "192089",
+  "title": "*Declare City property as surplus and authorize a property trade between the Portland Bureau of Transportation and the Oregon Department of Transportation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192089",
   "summary": "",
@@ -7966,7 +7966,7 @@ window.PDX = {
  {
   "id": "2025-247",
   "type": "ordinance",
-  "title": "192087",
+  "title": "Vacate a portion of SE Oak St between SE 37th Ave and SE Cesar E. Chavez Blvd subject to certain conditions and reservations (VAC-10141)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192087",
   "summary": "",
@@ -8016,7 +8016,7 @@ window.PDX = {
  {
   "id": "2025-252",
   "type": "ordinance",
-  "title": "192086",
+  "title": "Declare property located near the intersection of N Midway Ave and N Columbia Blvd as surplus property and authorize the Bureau of Transportation to dispose of the property for fair market value",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192086",
   "summary": "",
@@ -8067,7 +8067,7 @@ window.PDX = {
  {
   "id": "2025-285",
   "type": "ordinance",
-  "title": "192085",
+  "title": "*Approve findings to authorize exemption to the competitive bidding requirements and authorize competitive solicitation for the use of the alternative contracting method of a Construction Manager/General Contractor for the ​Burgard Bridge Resiliency and Multimodal Enhancement Project",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192085",
   "summary": "",
@@ -8117,7 +8117,7 @@ window.PDX = {
  {
   "id": "2025-197",
   "type": "ordinance",
-  "title": "192084",
+  "title": "​​Grant a cable franchise agreement to Comcast of Oregon to continue access to the right-of-way and operate a cable system for a period of ten years",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192084",
   "summary": "",
@@ -8166,7 +8166,7 @@ window.PDX = {
  {
   "id": "2025-217",
   "type": "ordinance",
-  "title": "192083",
+  "title": "*Amend Flood Hazard Areas Code to comply with Federal Emergency Management Agency National Flood Insurance Program Pre-Implementation Compliance Measures (amend Code Chapter 24.50)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192083",
   "summary": "",
@@ -8205,7 +8205,7 @@ window.PDX = {
  {
   "id": "2025-265",
   "type": "resolution",
-  "title": "37712",
+  "title": "Urge the Public Works and Budget and Finance Service Areas to develop a comprehensive strategy for alternative funding for transportation and infrastructure",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37712",
   "summary": "",
@@ -8269,7 +8269,7 @@ window.PDX = {
  {
   "id": "2025-219",
   "type": "resolution",
-  "title": "37711",
+  "title": "Urge the Mayor to make the City a signatory to the Swimmable Cities Charter",
   "sponsors": [
    "Council Vice President Olivia Clark"
   ],
@@ -8337,7 +8337,7 @@ window.PDX = {
  {
   "id": "2025-269",
   "type": "report",
-  "title": "2025-269",
+  "title": "Appoint Matt Donahue to the Arts Access Fund Oversight Committee for term to expire December 31, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-269",
   "summary": "",
@@ -8401,7 +8401,7 @@ window.PDX = {
  {
   "id": "2025-259",
   "type": "report",
-  "title": "2025-259",
+  "title": "Appoint Gabrielle Poccia to the Portland Committee on Community-Engaged Policing for term to expire June 26, 2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-259",
   "summary": "",
@@ -8465,7 +8465,7 @@ window.PDX = {
  {
   "id": "2025-274",
   "type": "resolution",
-  "title": "37713",
+  "title": "Appoint Cathy Keathley to the Home Forward Board of Commissioners for a term to expire July 15, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37713",
   "summary": "",
@@ -8531,7 +8531,7 @@ window.PDX = {
  {
   "id": "2025-243",
   "type": "ordinance",
-  "title": "192082",
+  "title": "Amend System Development Charge Exemptions Code to add a temporary exemption for residential housing projects (amend Code Section 17.14.070)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192082",
   "summary": "",
@@ -8570,7 +8570,7 @@ window.PDX = {
  {
   "id": "2025-262",
   "type": "report",
-  "title": "2025-262",
+  "title": "​​Appoint members to the Planning Commission​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-262",
   "summary": "",
@@ -8619,7 +8619,7 @@ window.PDX = {
  {
   "id": "2025-235",
   "type": "report",
-  "title": "2025-235",
+  "title": "Appoint and reappoint members to the Portland Parks & Recreation Board",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-235",
   "summary": "",
@@ -8668,7 +8668,7 @@ window.PDX = {
  {
   "id": "2025-281",
   "type": "resolution",
-  "title": "37710",
+  "title": "Refer to the voters a five-year local option tax levy for the November 4, 2025 election to maintain safe parks, nature, affordable recreation through 5-year levy",
   "sponsors": [
    "Councilor Elana Pirtle-Guiney"
   ],
@@ -8709,7 +8709,7 @@ window.PDX = {
  {
   "id": "2025-148",
   "type": "ordinance",
-  "title": "192081",
+  "title": "*Amend Code to consolidate noise enforcement and improve fairness and consistency in noise regulation (repeal Code Sections 14A.30.010 and 14A.30.020; amend Code Section 14B.120.020)",
   "sponsors": [
    "Council President Jamie Dunphy Contact Madeline West Chief of Staff",
    ""
@@ -8760,7 +8760,7 @@ window.PDX = {
  {
   "id": "2025-227",
   "type": "ordinance",
-  "title": "192078",
+  "title": "*Approve the Mt. Hood Cable Regulatory Commission FY 2025-26 Fund Budget​",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192078",
   "summary": "",
@@ -8823,7 +8823,7 @@ window.PDX = {
  {
   "id": "2025-229",
   "type": "ordinance",
-  "title": "192075",
+  "title": "*Authorize a temporary operating loan from the Solid Waste Management Fund to the Recreational Cannabis Tax Fund of not more than $800,000 to provide interim funding for approved carry-over allocations and avoid negative fund balance at fiscal year-end",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192075",
   "summary": "",
@@ -8886,7 +8886,7 @@ window.PDX = {
  {
   "id": "2025-244",
   "type": "ordinance",
-  "title": "192073",
+  "title": "*Amend Private For-Hire Transportation Code to clarify uses of Transportation Network Company fees (amend Code Section 16.40.910)",
   "sponsors": [
    "Councilor Steve Novick City department Transportation Service area Public Works Contact Zach Ward"
   ],
@@ -8951,7 +8951,7 @@ window.PDX = {
  {
   "id": "2025-241",
   "type": "ordinance",
-  "title": "192071",
+  "title": "Approve levying taxes for the City for the fiscal year beginning July 1, 2025 and ending June 30, 2026",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192071",
   "summary": "",
@@ -9004,7 +9004,7 @@ window.PDX = {
  {
   "id": "2025-239",
   "type": "ordinance",
-  "title": "192069",
+  "title": "Approve accepting funds from the State of Oregon under the State Revenue Sharing Program for the fiscal year beginning July 1, 2025 and ending June 30, 2026",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192069",
   "summary": "",
@@ -9057,7 +9057,7 @@ window.PDX = {
  {
   "id": "2025-211",
   "type": "ordinance",
-  "title": "192077",
+  "title": "*Amend Building Regulations Code to adopt State of Oregon 2025 Edition of Oregon Energy Efficiency Specialty Code (amend Code Section 24.10.040)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192077",
   "summary": "",
@@ -9105,7 +9105,7 @@ window.PDX = {
  {
   "id": "2025-245",
   "type": "ordinance",
-  "title": "192076",
+  "title": "*Ratify a collective bargaining agreement with the City of Portland Professional Workers relating to the terms and conditions of employment of represented employees in the bargaining unit for 2025-2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192076",
   "summary": "",
@@ -9143,7 +9143,7 @@ window.PDX = {
  {
   "id": "2025-228",
   "type": "ordinance",
-  "title": "192074",
+  "title": "*Adopt the Supplemental Budget for the FY 2024-25 Over-expenditure process and make budget adjustments in various funds",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192074",
   "summary": "",
@@ -9191,7 +9191,7 @@ window.PDX = {
  {
   "id": "2025-242",
   "type": "ordinance",
-  "title": "192072",
+  "title": "Authorize a temporary interfund loan not to exceed $50 million from the Portland Parks & Recreation System Development Charge Fund to the Fire and Police Disability and Retirement Fund to provide interim financing for fiscal year 2025-26 cash flow deficit due to the timing of property tax collections",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192072",
   "summary": "",
@@ -9229,7 +9229,7 @@ window.PDX = {
  {
   "id": "2025-240",
   "type": "ordinance",
-  "title": "192070",
+  "title": "Adopt the annual budget of the City and establish appropriations for the fiscal year beginning July 1, 2025 and ending June 30, 2026",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192070",
   "summary": "",
@@ -9286,7 +9286,7 @@ window.PDX = {
  {
   "id": "2025-238",
   "type": "resolution",
-  "title": "37708",
+  "title": "Certify that certain services are provided by the City to establish eligibility for State Shared Revenue",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37708",
   "summary": "",
@@ -9325,7 +9325,7 @@ window.PDX = {
  {
   "id": "2025-225",
   "type": "ordinance",
-  "title": "192068",
+  "title": "*Authorize City Attorney to settle lawsuit related to the historic Central Albina displacement and pay settlement of named plaintiffs’ claims in the sum of $7,500,000 from the City and $1,000,000 from Prosper Portland",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192068",
   "summary": "",
@@ -9373,7 +9373,7 @@ window.PDX = {
  {
   "id": "2025-224",
   "type": "ordinance",
-  "title": "192067",
+  "title": "*Pay Workers’ Compensation Claims of Robin Scheffer in the sum of $75,000 involving Portland Permitting & Development",
   "sponsors": [
    "Mayor Keith Wilson City department Risk Management Contact Erin Nielsen Senior"
   ],
@@ -9413,7 +9413,7 @@ window.PDX = {
  {
   "id": "2025-226",
   "type": "ordinance",
-  "title": "192065",
+  "title": "*Approve one year extension of funding for Portland Children’s Levy that reflects lower revenues for FY 2025-26",
   "sponsors": [
    "Councilor Eric Zimmerman City department Portland Children's Levy Agenda type Suspension of rules"
   ],
@@ -9463,7 +9463,7 @@ window.PDX = {
  {
   "id": "2025-166",
   "type": "resolution",
-  "title": "37707",
+  "title": "Adopt committee rules",
   "sponsors": [
    "Councilor Tiffany Koyama Lane"
   ],
@@ -9504,7 +9504,7 @@ window.PDX = {
  {
   "id": "2025-184",
   "type": "ordinance",
-  "title": "192064",
+  "title": "Authorize the Bureau of Transportation to acquire certain permanent and temporary rights necessary for construction of the NE Columbia – Cully Boulevard and Alderwood Road Intersection Improvements Project through exercise of Eminent Domain Authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192064",
   "summary": "",
@@ -9553,7 +9553,7 @@ window.PDX = {
  {
   "id": "2025-222",
   "type": "ordinance",
-  "title": "192063",
+  "title": "*Pay settlement of the estate of M.A. (a minor) wrongful death and related claims resulting from a drowning at Montavilla Community Center for $1,660,400 involving Portland Parks & Recreation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192063",
   "summary": "",
@@ -9591,7 +9591,7 @@ window.PDX = {
  {
   "id": "2025-221",
   "type": "ordinance",
-  "title": "192062",
+  "title": "*Pay settlement of E.F., Daniella Araujo, and Ayva Levin’s bodily injury lawsuits in the sum of $942,600 involving Portland Parks & Recreation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192062",
   "summary": "",
@@ -9629,7 +9629,7 @@ window.PDX = {
  {
   "id": "2025-203",
   "type": "report",
-  "title": "2025-203",
+  "title": "Appoint Asad Butt for a term July 1, 2025 through June 30, 2028 and reappoint Leslie Goodlow for a term to expire June 30, 2028 to the Mt. Hood Cable Regulatory Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-203",
   "summary": "",
@@ -9678,7 +9678,7 @@ window.PDX = {
  {
   "id": "2025-198",
   "type": "report",
-  "title": "2025-198",
+  "title": "Reappoint Jill Cropp and Peggy Moretti to the Development Review Advisory Committee for terms to expire March 29, 2028",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-198",
   "summary": "",
@@ -9727,7 +9727,7 @@ window.PDX = {
  {
   "id": "2025-137",
   "type": "ordinance",
-  "title": "192060",
+  "title": "Amend Portland Permitting & Development fee schedules to improve cost recovery and service levels for customers",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192060",
   "summary": "",
@@ -9775,7 +9775,7 @@ window.PDX = {
  {
   "id": "2025-123",
   "type": "ordinance",
-  "title": "192055",
+  "title": "Amend fee schedule for tree permits (amend PRK 2.03)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192055",
   "summary": "",
@@ -9823,7 +9823,7 @@ window.PDX = {
  {
   "id": "2025-093",
   "type": "resolution",
-  "title": "37706",
+  "title": "Adopt the Locally Preferred Alternative for the 82nd Avenue Transit Project and Conditions for Approval",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37706",
   "summary": "",
@@ -9873,7 +9873,7 @@ window.PDX = {
  {
   "id": "2025-178",
   "type": "ordinance",
-  "title": "192054",
+  "title": "Add Fair Wage Policy Code for certain City service contracts (add Code Chapter 5.70)",
   "sponsors": [
    "Council President Jamie Dunphy"
   ],
@@ -9923,7 +9923,7 @@ window.PDX = {
  {
   "id": "2025-177",
   "type": "report",
-  "title": "2025-177",
+  "title": "Confirm appointments and alternates to the City Sustainability and Climate Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-177",
   "summary": "",
@@ -9971,7 +9971,7 @@ window.PDX = {
  {
   "id": "2025-191",
   "type": "ordinance",
-  "title": "192053",
+  "title": "*Pay settlement of Meghan Opbroek bodily injury lawsuit for the sum of $375,000 involving the Portland Police Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192053",
   "summary": "",
@@ -10009,7 +10009,7 @@ window.PDX = {
  {
   "id": "2025-118",
   "type": "ordinance",
-  "title": "192051",
+  "title": "Add Sustainability and Climate Commission Code (add Code Chapter 3.136 and amend Code Chapter 3.33)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192051",
   "summary": "",
@@ -10047,7 +10047,7 @@ window.PDX = {
  {
   "id": "2025-131",
   "type": "ordinance",
-  "title": "192050",
+  "title": "Authorize revenue bonds in an amount sufficient to provide not more than $80 million to finance curb, ramp and street improvement projects",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192050",
   "summary": "",
@@ -10104,7 +10104,7 @@ window.PDX = {
  {
   "id": "2025-189",
   "type": "report",
-  "title": "2025-189",
+  "title": "Approve Council Minutes for April 2-23, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -10144,7 +10144,7 @@ window.PDX = {
  {
   "id": "2025-161",
   "type": "report",
-  "title": "2025-161",
+  "title": "Consider appeal by Forest Park Neighborhood Association and Forest Park Conservancy against the Hearings Officer’s decision to approve with conditions an Environmental Review, Conditional Use Review, and two Greenway Reviews for the upgrade and expansion of transmission lines in Forest Park (LU 24-041109 CU EN GW)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/findings-adopted/2025-161",
   "summary": "",
@@ -10192,7 +10192,7 @@ window.PDX = {
  {
   "id": "2025-156",
   "type": "resolution",
-  "title": "37704",
+  "title": "Direct funding for the Workforce Pre-Apprenticeship Program and a SummerWorks Youth Employment Initiative",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37704",
   "summary": "",
@@ -10231,7 +10231,7 @@ window.PDX = {
  {
   "id": "2025-158",
   "type": "report",
-  "title": "2025-158",
+  "title": "Approve Council Minutes for March 5-20, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -10286,7 +10286,7 @@ window.PDX = {
  {
   "id": "2025-155",
   "type": "ordinance",
-  "title": "192046",
+  "title": "*Authorize Letter of Agreement with the Laborers' International Union of North America, Local 483 Recreation for premium pay to Assistants and Aides as defined in the Preschool for All Program",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192046",
   "summary": "",
@@ -10349,7 +10349,7 @@ window.PDX = {
  {
   "id": "2025-153",
   "type": "ordinance",
-  "title": "192044",
+  "title": "*Create a new non-represented classification of Lead Preschool Teacher and establish a compensation range for this classification",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192044",
   "summary": "",
@@ -10412,7 +10412,7 @@ window.PDX = {
  {
   "id": "2025-138",
   "type": "report",
-  "title": "2025-138",
+  "title": "Confirm appointment and reappointment of members to the Portland Elections Commission for terms to end April 30, 2029",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-138",
   "summary": "",
@@ -10463,7 +10463,7 @@ window.PDX = {
  {
   "id": "2025-154",
   "type": "ordinance",
-  "title": "192045",
+  "title": "*Authorize Letter of Agreement with the Laborers’ International Union of North America, Local 483 – Recreation to amend wage scale premium for Recreation Associates leading trip excursions with Adaptive and Lifelong Recreation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192045",
   "summary": "",
@@ -10511,7 +10511,7 @@ window.PDX = {
  {
   "id": "2025-101",
   "type": "resolution",
-  "title": "37703",
+  "title": "Require the City Administrator to study alternative housing financing and ownership models and deliver a report of findings to Council",
   "sponsors": [
    "Councilor Mitch Green"
   ],
@@ -10551,7 +10551,7 @@ window.PDX = {
  {
   "id": "2025-128",
   "type": "ordinance",
-  "title": "192043",
+  "title": "*Pay settlement of Amber Williams bodily injury claim for $81,589 resulting from a motor vehicle collision involving the Portland Bureau of Transportation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192043",
   "summary": "",
@@ -10589,7 +10589,7 @@ window.PDX = {
  {
   "id": "2025-126",
   "type": "ordinance",
-  "title": "192041",
+  "title": "*Pay settlement of Janet Krasner bodily injury lawsuit for $200,000 involving the Portland Parks & Recreation Bureau",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192041",
   "summary": "",
@@ -10627,7 +10627,7 @@ window.PDX = {
  {
   "id": "2025-116",
   "type": "ordinance",
-  "title": "192040",
+  "title": "*Create the Westside Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192040",
   "summary": "",
@@ -10675,7 +10675,7 @@ window.PDX = {
  {
   "id": "2025-115",
   "type": "ordinance",
-  "title": "192039",
+  "title": "*Create the Sumner-Parkrose-Argay-Columbia Corridor Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192039",
   "summary": "",
@@ -10723,7 +10723,7 @@ window.PDX = {
  {
   "id": "2025-114",
   "type": "ordinance",
-  "title": "192038",
+  "title": "*Create the Lloyd-Holladay Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192038",
   "summary": "",
@@ -10771,7 +10771,7 @@ window.PDX = {
  {
   "id": "2025-113",
   "type": "ordinance",
-  "title": "192037",
+  "title": "*Create the Central Eastside Corridor Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192037",
   "summary": "",
@@ -10819,7 +10819,7 @@ window.PDX = {
  {
   "id": "2025-112",
   "type": "ordinance",
-  "title": "192036",
+  "title": "*Create the East 205 Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192036",
   "summary": "",
@@ -10867,7 +10867,7 @@ window.PDX = {
  {
   "id": "2025-111",
   "type": "ordinance",
-  "title": "192035",
+  "title": "*Create the 82nd Avenue Tax Increment Financing District Debt Service Fund",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192035",
   "summary": "",
@@ -10915,7 +10915,7 @@ window.PDX = {
  {
   "id": "2025-026",
   "type": "ordinance",
-  "title": "192034",
+  "title": "Amend the Comprehensive Plan Map and Zoning Map for properties at 3508 NE 11th Ave and 1123 NE Fremont St at the request of Derek Metson, Greenbox Architecture (LU 24-073674 CP ZC)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192034",
   "summary": "",
@@ -10953,7 +10953,7 @@ window.PDX = {
  {
   "id": "2025-092",
   "type": "ordinance",
-  "title": "192033",
+  "title": "*Ratify a Successor Collective Bargaining Agreement with the District Council of Trade Unions related to the terms and conditions of employment of represented employees in the bargaining unit for 2025-2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192033",
   "summary": "",
@@ -10992,7 +10992,7 @@ window.PDX = {
  {
   "id": "2025-091",
   "type": "ordinance",
-  "title": "192032",
+  "title": "*Ratify a Successor Collective Bargaining Agreement with American Federation of State, County, Municipal Employees, Local 189 related to the terms and conditions of employment of represented employees in the bargaining unit for 2025-2027",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192032",
   "summary": "",
@@ -11031,7 +11031,7 @@ window.PDX = {
  {
   "id": "2025-065",
   "type": "ordinance",
-  "title": "192030",
+  "title": "Initiate foreclosure action on 4121 NE Grand Ave for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192030",
   "summary": "",
@@ -11084,7 +11084,7 @@ window.PDX = {
  {
   "id": "2025-063",
   "type": "ordinance",
-  "title": "192028",
+  "title": "Initiate foreclosure action on 10218 N Tyler Ave for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192028",
   "summary": "",
@@ -11137,7 +11137,7 @@ window.PDX = {
  {
   "id": "2025-089",
   "type": "report",
-  "title": "2025-089",
+  "title": "Approve Council Minutes for February 5-20, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -11192,7 +11192,7 @@ window.PDX = {
  {
   "id": "2025-088",
   "type": "ordinance",
-  "title": "192027",
+  "title": "*Authorize City Administrator to negotiate and execute a lease for District 3 Council office space for an estimated total cost of $63,000",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192027",
   "summary": "",
@@ -11245,7 +11245,7 @@ window.PDX = {
  {
   "id": "2025-066",
   "type": "ordinance",
-  "title": "192031",
+  "title": "Declare property located at intersection of I-405 and SW Naito Parkway as surplus property and authorize Bureau of Transportation to dispose of property to Oregon Department of Transportation in exchange for accepting property at west end of Steel Bridge ramps",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192031",
   "summary": "",
@@ -11283,7 +11283,7 @@ window.PDX = {
  {
   "id": "2025-064",
   "type": "ordinance",
-  "title": "192029",
+  "title": "Initiate foreclosure action on 111 NE Killingsworth St for the collection of delinquent City Liens placed against the property",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192029",
   "summary": "",
@@ -11321,7 +11321,7 @@ window.PDX = {
  {
   "id": "2025-090",
   "type": "report",
-  "title": "2025-090",
+  "title": "Accept the Government Transition Advisory Committee Final Report",
   "sponsors": [
    "Councilor Dan Ryan"
   ],
@@ -11371,7 +11371,7 @@ window.PDX = {
  {
   "id": "2025-079",
   "type": "report",
-  "title": "2025-079",
+  "title": "Appoint Susan Trexler and Jonah James Jensen to the Portland Historic Landmarks Commission",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-079",
   "summary": "",
@@ -11421,7 +11421,7 @@ window.PDX = {
  {
   "id": "2025-061",
   "type": "ordinance",
-  "title": "192026",
+  "title": "*Pay workers’ compensation claims of Jerome Johnson for $100,000 involving Portland Parks & Recreation",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192026",
   "summary": "",
@@ -11459,7 +11459,7 @@ window.PDX = {
  {
   "id": "2025-059",
   "type": "ordinance",
-  "title": "192024",
+  "title": "*Authorize Letter of Agreement with PROTEC17 to extend the expiration date of the current Collective Bargaining Agreement from June 30, 2025 to December 31, 2025",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192024",
   "summary": "",
@@ -11507,7 +11507,7 @@ window.PDX = {
  {
   "id": "2025-058",
   "type": "report",
-  "title": "2025-058",
+  "title": "Appoint Anna Allen and Laura Suarez to the Steering and Oversight Committee for the Homelessness Response System Intergovernmental Agreement",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-058",
   "summary": "",
@@ -11555,7 +11555,7 @@ window.PDX = {
  {
   "id": "2025-057",
   "type": "ordinance",
-  "title": "192023",
+  "title": "*Adopt schedule for specific Council meetings to implement budget calendar",
   "sponsors": [
    "Councilor Eric Zimmerman City department City Budget Office Contact Christopher Herr"
   ],
@@ -11595,7 +11595,7 @@ window.PDX = {
  {
   "id": "2025-036",
   "type": "resolution",
-  "title": "37701",
+  "title": "Adopt the Budget Calendar for FY 2025-26",
   "sponsors": [
    "Councilor Eric Zimmerman Contact Christopher Herr"
   ],
@@ -11635,7 +11635,7 @@ window.PDX = {
  {
   "id": "2025-029",
   "type": "ordinance",
-  "title": "192022",
+  "title": "Authorize Bureau of Environmental Services to acquire certain permanent and temporary rights necessary for construction of the Oak Basin A – Sandy Blvd Trunk Project through exercise of the City’s eminent domain authority",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192022",
   "summary": "",
@@ -11674,7 +11674,7 @@ window.PDX = {
  {
   "id": "2025-030",
   "type": "resolution",
-  "title": "37700",
+  "title": "Direct the City Administrator to submit a report of all unassigned funds for recent fiscal years",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37700",
   "summary": "",
@@ -11737,7 +11737,7 @@ window.PDX = {
  {
   "id": "2025-028",
   "type": "report",
-  "title": "2025-028",
+  "title": "Accept the Portland Police Bureau report to City Council on the 2025 Portland Joint Terrorism Task Force",
   "sponsors": [
    "Mayor Keith Wilson City department Police Service area Public Safety Agenda type Regular"
   ],
@@ -11802,7 +11802,7 @@ window.PDX = {
  {
   "id": "2025-027",
   "type": "resolution",
-  "title": "37699",
+  "title": "Appoint Robert Day as Chief of Police",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37699",
   "summary": "",
@@ -11850,7 +11850,7 @@ window.PDX = {
  {
   "id": "2025-024",
   "type": "report",
-  "title": "2025-024",
+  "title": "Appoint Laura Campos to the Cully Tax Increment Finance District Community Leadership Committee for term to expire October 1, 2025",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-024",
   "summary": "",
@@ -11898,7 +11898,7 @@ window.PDX = {
  {
   "id": "2025-012",
   "type": "resolution",
-  "title": "37698",
+  "title": "Appoint Robert Taylor as City Attorney",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/resolution/adopted/37698",
   "summary": "",
@@ -11946,7 +11946,7 @@ window.PDX = {
  {
   "id": "2025-013",
   "type": "report",
-  "title": "2025-013",
+  "title": "Approve Council Minutes for December 4, 2024 - January 16, 2025",
   "sponsors": [
    "Auditor Simone Rede City department Auditor's Office"
   ],
@@ -11986,7 +11986,7 @@ window.PDX = {
  {
   "id": "2025-005",
   "type": "report",
-  "title": "2025-005",
+  "title": "Consider proposal of Type IV Demolition Review approval for 118 SW Porter St, and Portland Permitting and Development staff recommendation for approval, for a contributing building in the South Portland Historic District (LU 24-077225 DM)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/findings-adopted/2025-005",
   "summary": "",
@@ -12038,7 +12038,7 @@ window.PDX = {
  {
   "id": "2025-002",
   "type": "report",
-  "title": "2025-002",
+  "title": "Accept the 2023-24 Parks Levy Annual Report and Parks Levy Oversight Committee Annual Report",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/report/accepted/2025-002",
   "summary": "",
@@ -12101,7 +12101,7 @@ window.PDX = {
  {
   "id": "2025-001",
   "type": "ordinance",
-  "title": "192021",
+  "title": "*Amend Council Organization and Procedure Code related to the Council Agenda, Council Rules, and Council Committees (amend Code Chapter 3.02)",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192021",
   "summary": "",
@@ -12154,7 +12154,7 @@ window.PDX = {
  {
   "id": "2025-004",
   "type": "ordinance",
-  "title": "192019",
+  "title": "*Appropriate grant for $125,000 from Oregon Health Authority for the 2024 State Healthy Home Grant",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192019",
   "summary": "",
@@ -12207,7 +12207,7 @@ window.PDX = {
  {
   "id": "2025-009",
   "type": "resolution",
-  "title": "37695",
+  "title": "Withdraw authorization for the City Attorney to file an unfair labor practice complaint for a Collective Bargaining Agreement violation",
   "sponsors": [
    "Councilor Eric Zimmerman"
   ],
@@ -12247,7 +12247,7 @@ window.PDX = {
  {
   "id": "2025-008",
   "type": "resolution",
-  "title": "37694",
+  "title": "Acknowledge the birthday of Dr. Martin Luther King Jr.",
   "sponsors": [
    "Councilor Candace Avalos"
   ],
@@ -12287,7 +12287,7 @@ window.PDX = {
  {
   "id": "2025-003",
   "type": "ordinance",
-  "title": "192018",
+  "title": "*Appropriate grants totaling $7 million from the U.S Department of Housing and Urban Development for the development of Barbur Apartments affordable housing project",
   "sponsors": [],
   "url": "https://www.portland.gov/council/documents/ordinance/passed/192018",
   "summary": "",
@@ -14860,6 +14860,778 @@ window.PDX = {
   }
  ]
 },
+"tags": {
+ "2025-001": ["governance", "committees"],
+ "2025-002": ["parks", "budget"],
+ "2025-003": ["housing", "budget"],
+ "2025-004": ["housing", "budget"],
+ "2025-005": ["land-use", "permits"],
+ "2025-007": ["budget", "governance"],
+ "2025-008": ["commemoration"],
+ "2025-009": ["labor"],
+ "2025-010": ["committees", "governance"],
+ "2025-011": ["appointments", "governance"],
+ "2025-012": ["appointments", "governance"],
+ "2025-013": ["governance"],
+ "2025-024": ["appointments", "economic-development"],
+ "2025-026": ["land-use"],
+ "2025-027": ["appointments", "police"],
+ "2025-028": ["police", "public-safety"],
+ "2025-029": ["sewer"],
+ "2025-030": ["budget", "reserves"],
+ "2025-036": ["budget", "governance"],
+ "2025-045": ["housing", "technology"],
+ "2025-057": ["governance", "budget"],
+ "2025-058": ["appointments", "homelessness"],
+ "2025-059": ["labor"],
+ "2025-060": ["police", "courts"],
+ "2025-061": ["settlements", "labor", "parks"],
+ "2025-063": ["liens"],
+ "2025-064": ["liens"],
+ "2025-065": ["liens"],
+ "2025-066": ["surplus-property", "transportation"],
+ "2025-070": ["zenith", "environment", "climate"],
+ "2025-079": ["appointments", "land-use"],
+ "2025-088": ["governance", "contracts"],
+ "2025-089": ["governance"],
+ "2025-090": ["governance", "committees"],
+ "2025-091": ["labor"],
+ "2025-092": ["labor"],
+ "2025-093": ["transportation"],
+ "2025-095": ["transportation"],
+ "2025-101": ["housing"],
+ "2025-111": ["economic-development", "budget"],
+ "2025-112": ["economic-development", "budget"],
+ "2025-113": ["economic-development", "budget"],
+ "2025-114": ["economic-development", "budget"],
+ "2025-115": ["economic-development", "budget"],
+ "2025-116": ["economic-development", "budget"],
+ "2025-118": ["climate", "committees"],
+ "2025-120": ["budget"],
+ "2025-123": ["fees", "permits", "environment"],
+ "2025-126": ["settlements", "parks"],
+ "2025-127": ["parks", "labor", "courts"],
+ "2025-128": ["settlements", "transportation"],
+ "2025-131": ["bonds", "transportation"],
+ "2025-132": ["water", "fees", "utilities"],
+ "2025-133": ["sewer", "fees", "utilities"],
+ "2025-134": ["sewer", "fees", "utilities"],
+ "2025-135": ["water", "fees", "utilities"],
+ "2025-136": ["transportation", "fees"],
+ "2025-137": ["permits", "fees"],
+ "2025-138": ["appointments", "elections"],
+ "2025-148": ["noise"],
+ "2025-153": ["labor"],
+ "2025-154": ["labor", "parks"],
+ "2025-155": ["labor"],
+ "2025-156": ["labor", "economic-development"],
+ "2025-158": ["governance"],
+ "2025-159": ["labor"],
+ "2025-160": ["labor", "police"],
+ "2025-161": ["land-use", "environment", "utilities"],
+ "2025-166": ["committees", "governance"],
+ "2025-175": ["public-safety", "homelessness"],
+ "2025-177": ["appointments", "climate"],
+ "2025-178": ["labor", "contracts"],
+ "2025-184": ["transportation", "land-use"],
+ "2025-186": ["governance"],
+ "2025-189": ["governance"],
+ "2025-190": ["police", "courts"],
+ "2025-191": ["courts", "police"],
+ "2025-194": ["governance", "budget"],
+ "2025-197": ["franchise", "technology"],
+ "2025-198": ["appointments", "permits", "land-use"],
+ "2025-203": ["appointments", "franchise"],
+ "2025-204": ["transportation", "public-safety"],
+ "2025-207": ["budget"],
+ "2025-211": ["permits", "climate"],
+ "2025-212": ["housing"],
+ "2025-217": ["water", "land-use", "environment"],
+ "2025-219": ["water", "environment"],
+ "2025-221": ["courts", "parks"],
+ "2025-222": ["courts", "parks"],
+ "2025-223": ["parks", "courts"],
+ "2025-224": ["labor"],
+ "2025-225": ["courts", "housing", "civil-rights"],
+ "2025-226": ["budget", "taxes"],
+ "2025-227": ["franchise", "budget"],
+ "2025-228": ["budget"],
+ "2025-229": ["budget"],
+ "2025-230": ["utilities", "fees"],
+ "2025-235": ["appointments", "parks"],
+ "2025-238": ["budget"],
+ "2025-239": ["budget"],
+ "2025-240": ["budget"],
+ "2025-241": ["taxes", "budget"],
+ "2025-242": ["budget"],
+ "2025-243": ["housing", "fees"],
+ "2025-244": ["transportation", "fees"],
+ "2025-245": ["labor"],
+ "2025-246": ["appointments", "police-accountability"],
+ "2025-247": ["land-use", "transportation"],
+ "2025-250": ["land-use", "transportation"],
+ "2025-251": ["land-use", "transportation"],
+ "2025-252": ["land-use", "transportation"],
+ "2025-259": ["appointments", "police-accountability", "police"],
+ "2025-262": ["appointments", "land-use"],
+ "2025-265": ["transportation", "budget"],
+ "2025-269": ["appointments", "arts"],
+ "2025-274": ["appointments", "housing"],
+ "2025-280": ["police"],
+ "2025-281": ["parks", "elections", "taxes"],
+ "2025-283": ["appointments", "utilities"],
+ "2025-284": ["land-use", "transportation"],
+ "2025-285": ["contracts", "transportation"],
+ "2025-286": ["transportation", "land-use"],
+ "2025-291": ["appointments", "pcef"],
+ "2025-296": ["governance"],
+ "2025-297": ["labor", "police"],
+ "2025-298": ["courts", "police"],
+ "2025-299": ["courts", "police", "police-accountability"],
+ "2025-300": ["governance"],
+ "2025-301": ["transportation"],
+ "2025-303": ["appointments", "taxes"],
+ "2025-306": ["fees", "utilities"],
+ "2025-310": ["elections"],
+ "2025-314": ["permits", "land-use"],
+ "2025-325": ["governance"],
+ "2025-329": ["land-use"],
+ "2025-330": ["transportation", "land-use"],
+ "2025-332": ["fees"],
+ "2025-334": ["fees"],
+ "2025-338": ["fees"],
+ "2025-339": ["fees"],
+ "2025-349": ["land-use"],
+ "2025-350": ["land-use", "contracts"],
+ "2025-351": ["environment", "climate", "parks"],
+ "2025-359": ["appointments", "economic-development"],
+ "2025-361": ["transportation"],
+ "2025-362": ["transportation"],
+ "2025-363": ["transportation", "fees"],
+ "2025-365": ["fees", "water"],
+ "2025-366": ["transportation", "land-use"],
+ "2025-370": ["economic-development"],
+ "2025-373": ["appointments", "environment"],
+ "2025-374": ["permits"],
+ "2025-377": ["contracts", "labor"],
+ "2025-378": ["governance", "contracts"],
+ "2025-380": ["courts", "police"],
+ "2025-383": ["water"],
+ "2025-400": ["governance"],
+ "2025-401": ["immigration", "public-safety"],
+ "2025-402": ["immigration", "civil-rights"],
+ "2025-403": ["budget"],
+ "2025-404": ["bonds", "budget"],
+ "2025-405": ["land-use"],
+ "2025-409": ["appointments", "permits", "land-use"],
+ "2025-417": ["police", "courts"],
+ "2025-418": ["appointments", "economic-development"],
+ "2025-419": ["courts", "transportation"],
+ "2025-420": ["governance"],
+ "2025-428": ["courts", "transportation"],
+ "2025-429": ["fees", "public-safety"],
+ "2025-430": ["parks"],
+ "2025-432": ["taxes", "sewer"],
+ "2025-433": ["taxes", "governance"],
+ "2025-434": ["taxes"],
+ "2025-435": ["fees", "economic-development"],
+ "2025-436": ["budget", "governance"],
+ "2025-437": ["appointments", "labor", "public-safety"],
+ "2025-438": ["appointments", "taxes"],
+ "2025-440": ["appointments", "budget"],
+ "2025-441": ["governance"],
+ "2025-446": ["permits", "land-use"],
+ "2025-460": ["unknown"],
+ "2025-462": ["courts", "labor", "public-safety"],
+ "2025-465": ["parks", "budget"],
+ "2025-466": ["taxes", "contracts"],
+ "2025-467": ["transportation", "fees"],
+ "2025-468": ["transportation", "fees"],
+ "2025-470": ["appointments", "elections"],
+ "2025-471": ["committees", "governance"],
+ "2025-475": ["civil-rights"],
+ "2025-479": ["appointments", "public-safety", "homelessness"],
+ "2025-480": ["privacy", "technology", "governance"],
+ "2025-481": ["privacy", "technology", "governance"],
+ "2025-483": ["land-use"],
+ "2025-485": ["appointments", "governance"],
+ "2025-486": ["elections"],
+ "2025-488": ["governance", "labor"],
+ "2025-489": ["labor", "police-accountability", "contracts"],
+ "2025-490": ["labor", "public-safety"],
+ "2025-493": ["governance"],
+ "2025-498": ["governance"],
+ "2025-499": ["homelessness"],
+ "2025-500": ["governance"],
+ "2026-001": ["budget"],
+ "2026-002": ["budget", "governance"],
+ "2026-003": ["budget", "governance"],
+ "2026-007": ["transportation", "governance"],
+ "2026-008": ["transportation"],
+ "2026-011": ["pcef", "budget", "climate"],
+ "2026-016": ["economic-development"],
+ "2026-017": ["appointments", "housing"],
+ "2026-018": ["appointments", "permits"],
+ "2026-022": ["pcef", "climate"],
+ "2026-027": ["legal-settlements", "labor", "public-safety"],
+ "2026-028": ["legal-settlements", "contracts"],
+ "2026-037": ["housing", "land-use"],
+ "2026-039": ["public-safety", "land-use"],
+ "2026-040": ["parks", "budget"],
+ "2026-042": ["police"],
+ "2026-045": ["police-accountability", "police"],
+ "2026-046": ["reserves", "budget", "governance"],
+ "2026-047": ["police-accountability", "appointments"],
+ "2026-048": ["transportation"],
+ "2026-050": ["budget"],
+ "2026-051": ["surplus-property", "transportation"],
+ "2026-052": ["transportation"],
+ "2026-053": ["immigration", "budget", "reserves"],
+ "2026-055": ["elections", "governance"],
+ "2026-063": ["land-use", "environment"],
+ "2026-069": ["appointments", "police-accountability"],
+ "2026-071": ["governance", "committees"],
+ "2026-072": ["committees", "governance"],
+ "2026-073": ["civil-rights"],
+ "2026-074": ["civil-rights"],
+ "2026-077": ["budget", "economic-development"],
+ "2026-078": ["labor", "governance"],
+ "2026-079": ["transportation", "public-safety", "budget"],
+ "2026-080": ["economic-development"],
+ "2026-082": ["economic-development", "housing"],
+ "2026-083": ["appointments", "economic-development"],
+ "2026-084": ["appointments", "economic-development"],
+ "2026-087": ["appointments", "governance"],
+ "2026-094": ["commemoration", "civil-rights"],
+ "2026-096": ["governance"],
+ "2026-097": ["transportation", "land-use"],
+ "2026-105": ["appointments", "land-use"],
+ "2026-106": ["land-use", "housing"],
+ "2026-111": ["police-accountability", "police"],
+ "2026-112": ["governance", "budget"],
+ "2026-113": ["transportation", "fees", "utilities"],
+ "2026-114": ["transportation", "utilities", "fees", "permits"],
+ "2026-116": ["labor", "police"],
+ "2026-117": ["labor"],
+ "2026-118": ["contracts", "labor"],
+ "2026-119": ["budget", "labor"],
+ "2026-120": ["budget"],
+ "2026-124": ["housing", "economic-development"],
+ "2026-126": ["police", "committees"],
+ "2026-127": ["settlements", "transportation"],
+ "2026-128": ["settlements", "parks"],
+ "2026-131": ["franchise"],
+ "2026-132": ["budget"],
+ "2026-133": ["transportation"],
+ "2026-134": ["water", "utilities", "budget"],
+ "2026-137": ["appointments", "environment"],
+ "2026-138": ["appointments", "land-use"],
+ "2026-143": ["governance"],
+ "2026-144": ["land-use"],
+ "2026-147": ["arts", "fees"],
+ "2026-148": ["labor"],
+ "2026-149": ["animal-welfare"],
+ "2026-151": ["housing"],
+ "2026-152": ["permits", "fees"],
+ "2026-155": ["budget", "public-safety"],
+ "2026-156": ["governance"],
+ "2026-158": ["pcef", "budget"],
+ "2026-159": ["utilities", "fees", "franchise"],
+ "2026-160": ["transportation", "fees"],
+ "2026-161": ["sewer", "utilities", "fees"],
+ "2026-162": ["water", "utilities", "fees"],
+ "2026-165": ["sewer", "budget"],
+ "2026-166": ["environment", "parks"],
+ "2026-167": ["transportation"],
+ "2026-169": ["appointments", "environment", "parks"],
+ "2026-170": ["appointments", "climate", "environment"],
+ "2026-174": ["transportation", "permits"],
+ "2026-175": ["franchise", "budget"],
+ "2026-176": ["franchise", "governance"],
+ "2026-177": ["unknown"],
+ "2026-178": ["governance"],
+ "2026-179": ["settlements", "police"],
+ "2026-180": ["housing", "budget"],
+ "2026-181": ["economic-development", "budget"],
+ "2026-182": ["housing"],
+ "2026-189": ["land-use", "permits"],
+ "2026-192": ["transportation", "fees", "labor"],
+ "2026-194": ["budget"],
+ "2026-195": ["budget"],
+ "2026-196": ["budget"],
+ "2026-197": ["budget"],
+ "2026-198": ["budget", "water", "parks"],
+ "2026-199": ["budget"],
+ "2026-203": ["permits", "governance"],
+ "2026-204": ["housing"],
+ "2026-205": ["housing", "fees"],
+ "2026-208": ["appointments", "pcef", "climate"],
+ "2026-209": ["climate", "transportation"],
+ "2026-210": ["governance"],
+ "2026-213": ["transportation", "public-safety"],
+ "2026-216": ["contracts"],
+ "2026-217": ["land-use"],
+ "2026-218": ["sewer", "fees", "utilities"],
+ "2026-222": ["pcef", "budget"],
+ "2026-223": ["budget"],
+ "2026-224": ["appointments", "economic-development"],
+ "2026-231": ["governance"],
+ "2026-236": ["public-safety", "contracts"],
+ "2026-238": ["appointments", "utilities"],
+ "2026-241": ["labor"],
+ "2026-242": ["land-use"],
+ "2026-267": ["settlements", "water"],
+ "2026-280": ["moda", "contracts", "economic-development"]
+},
+"statements": [
+  {
+    "id": "st-20260806-morillo-begging",
+    "councilor": "morillo",
+    "date": "2026-08-06",
+    "quote": "I am literally begging you to take these amendments seriously moving forward.",
+    "context": "During the Moda term sheet amendment debate, after the bloc voted down her amendment.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.wweek.com/news/city/2026/08/06/as-county-passes-funding-for-moda-center-renovation-city-tussles-over-term-sheet/",
+    "as_reported_by": "Willamette Week"
+  },
+  {
+    "id": "st-20260806-avalos-unacceptable",
+    "councilor": "avalos",
+    "date": "2026-08-06",
+    "quote": "I think the current term sheet is absolutely unacceptable… otherwise I think we are failing Portlanders.",
+    "context": "On the Moda term sheet as it stood after all eleven amendments failed.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/",
+    "as_reported_by": "OPB"
+  },
+  {
+    "id": "st-20260806-kanal-videogame",
+    "councilor": "kanal",
+    "date": "2026-08-06",
+    "quote": "If we're in the video game, we're not at the big boss yet. We haven't gotten to a point where we're negotiating with the Blazers. We are looking at what we're even able to ask for.",
+    "context": "Arguing the amendments were the council's chance to define its asks before negotiations.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/",
+    "as_reported_by": "OPB"
+  },
+  {
+    "id": "st-20260806-zimmerman-tiebreak",
+    "councilor": "zimmerman",
+    "date": "2026-08-06",
+    "quote": "In this case, would the mayor not cast a vote here?",
+    "context": "Point of order after a motion to reorder the agenda failed 6–6 — early in the session, before the Moda item; his only recorded remark prior to the amendment roll calls.",
+    "tags": ["procedure"],
+    "item_id": null,
+    "t": "12:24",
+    "source": "https://www.youtube.com/watch?v=qM1xO2aDjHc&t=744",
+    "as_reported_by": "broadcast captions (not a certified verbatim transcript)"
+  }
+],
+"policies": [
+  {
+    "id": "one-time-restorations",
+    "title": "Restoring cut services with one-time funds",
+    "description": "Votes on restoring positions and services cut in the FY 2026-27 budget using one-time money (PCEF interest income, General Fund contingency). 'For' means the councilor voted to restore.",
+    "votes": [
+      { "item_id": "2026-222", "motion_match": null, "direction": "for" },
+      { "item_id": "2026-222", "motion_match": "Morillo 1", "direction": "for" },
+      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" }
+    ]
+  },
+  {
+    "id": "dedicated-housing-funds",
+    "title": "Keeping dedicated housing funds for their designated purpose",
+    "description": "Votes on diverting or loosening revenue streams dedicated to affordable housing (Construction Excise Tax sub-funds, SDC-exemption income targeting). 'For' means the councilor voted to preserve the dedication or targeting; 'against' means they voted to divert or loosen it.",
+    "votes": [
+      { "item_id": "2026-182", "motion_match": null, "direction": "against" },
+      { "item_id": "2026-205", "motion_match": null, "direction": "against" },
+      { "item_id": "2026-205", "motion_match": "Pirtle-Guiney/Koyama Lane", "direction": "for" }
+    ]
+  }
+],
+"storylines": [
+{
+  "id": "boards",
+  "title": "Who watches the boards",
+  "status": "ongoing",
+  "tags": ["governance", "appointments"],
+  "stakes": "The council confirms board members for — and partly funds — two semi-independent agencies: Prosper Portland (economic development) and Home Forward (the regional housing authority). Their own boards make final decisions. The recurring question of 2025–2026 is how much oversight the council actually exercises when it funds, budgets for, and staffs these boards.",
+  "watching_for": "Home Forward's permanent CEO search and appointments to its vacant board seats; Prosper Portland's long-term funding strategy as tax-increment revenue declines toward the projected 'TIF cliff.'",
+  "episodes": [
+    {
+      "date": "2025-05-21",
+      "type": "vote",
+      "title": "Council declines to cut Prosper's $11M — while lamenting its own lack of oversight",
+      "summary": "Councilors Green and Dunphy proposed eliminating Prosper Portland's $11 million general-fund allocation during budget deliberations. The amendment failed 4–8; several councilors said the council has limited oversight of an agency whose own board makes final decisions.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2025/05/21/prosper-portland-dodges-a-big-cut-but-council-takes-aim-at-lack-of-agency-oversight/" },
+        { "label": "Green/Dunphy proposal", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/5/14/press-release-councilors-green-and-dunphy-propose" }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "type": "vote",
+      "title": "Home Forward board appointment confirmed",
+      "summary": "Council adopted Resolution 37735 appointing Teresa Carr (recommended by Gresham) to the Home Forward Board of Commissioners through February 2030, 12–0.",
+      "links": [
+        { "label": "Resolution 37735", "url": "https://www.portland.gov/council/documents/resolution/home-forward-board-appointment-gresham-member" }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "type": "vote",
+      "title": "Cully TIF five-year plan approved through Prosper",
+      "summary": "Council approved the Cully Tax Increment Financing District's five-year action plan, directing Prosper Portland and the Housing Bureau to implement it, 10–1 with Dunphy opposed and Zimmerman absent.",
+      "item_id": "2026-082",
+      "links": [
+        { "label": "Prosper's Cully TIF page", "url": "https://prosperportland.us/our-work/cully-tif-district/" }
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "type": "news",
+      "title": "Home Forward CEO's travel spending draws council fire",
+      "summary": "After Willamette Week reported CEO Ivory Mathews spent over $100,000 on agency-funded travel from 2023 to 2025, councilors publicly questioned the spending. Portland confirms four of the nine board seats.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/26/city-councilors-respond-to-home-forward-ceos-travel-doesnt-pass-the-smell-test/" }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "type": "news",
+      "title": "CEO resigns; calls to remake the board",
+      "summary": "Home Forward announced Mathews would resign May 1. Councilor Zimmerman and County Commissioner Singleton said the board should step down; Councilor Clark called for remaking it. Two of nine board seats sat vacant.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/04/29/portland-public-housing-home-forward-director-resigns/" },
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/29/county-commissioner-and-city-councilor-call-on-home-forward-board-to-resign/" }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "type": "vote",
+      "title": "Prosper's $202M budget approved 12–0",
+      "summary": "Sitting as the Prosper Portland Budget Committee, council approved the agency's FY 2026-27 budget as amended — $202 million, 94 positions (down 10), including $12.6 million general fund — both motions 12–0.",
+      "links": [
+        { "label": "Council record", "url": "https://www.portland.gov/council/documents/report/prosper-budget-approval-fy-2026-27" }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "type": "vote",
+      "title": "Prosper board reappointments confirmed without dissent",
+      "summary": "Council confirmed the reappointment of Marcelino Alvarez and Eric Cress to the Prosper Portland board through September 2029, 12–0.",
+      "item_id": "2026-224",
+      "links": []
+    }
+  ]
+},
+{
+  "id": "housing-funds",
+  "title": "The housing funds fight",
+  "status": "ongoing",
+  "tags": ["housing"],
+  "stakes": "Portland dedicates specific revenue streams to affordable housing — the Construction Excise Tax, SDC-exemption subsidies, Housing Bureau fund balances — each with income restrictions. Through 2025–2026 the council repeatedly split over redirecting those dollars to named projects, higher income tiers, or a new social-housing acquisition fund — and over what process should govern such transfers.",
+  "watching_for": "The Housing Bureau's social-housing implementation report and the first acquisitions from the $17.5 million revolving loan fund; whether the SDC income-limit waiver (through Sept. 30, 2028) clears the ~700 unsold affordable homes.",
+  "episodes": [
+    {
+      "date": "2025-04-02",
+      "type": "vote",
+      "title": "Social housing study ordered, unanimously",
+      "summary": "Council unanimously adopted a Green/Avalos resolution directing staff to study social-housing models — municipal ownership, land banking, revolving loan funds — with an implementation report due May 2026.",
+      "links": [
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/4/2/portland-city-council-unanimously-adopts" },
+        { "label": "Street Roots", "url": "https://www.streetroots.org/news/2025/07/07/city-portland-leans-social-housing" }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "type": "vote",
+      "title": "A blanket SDC waiver for all new housing",
+      "summary": "Council passed Mayor Wilson's temporary three-year SDC exemption for new residential projects regardless of affordability. OPB later reported the blanket waiver eroded the pricing advantage of income-restricted affordable homes.",
+      "item_id": "2025-243",
+      "links": [
+        { "label": "Program page", "url": "https://www.portland.gov/ppd/current-fee-schedules/housing-sdc-exemption" }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "type": "news",
+      "title": "Push to deploy $56M in idle housing funds",
+      "summary": "Councilors Avalos, Dunphy, Green, and Morillo renewed a proposal directing roughly $56 million in unbudgeted Housing Bureau dollars to rent assistance, eviction prevention, and a revolving loan fund for acquiring property as social housing.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/03/12/portland-oregon-housing-funds-renter-protections/" }
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "type": "vote",
+      "title": "$56M housing package passes 8–3; District 2 carve-out fails",
+      "summary": "The spring adjustment ordinance passed 8–3 (Ryan, Zimmerman, Smith opposed), funding a $17.5 million social-housing acquisition revolving loan fund, rent assistance, and eviction defense. A Smith amendment adding $2.5 million for two District 2 homeownership projects failed 6–5.",
+      "item_id": "2026-120",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/17/at-long-last-council-pushes-forward-56-million-housing-package-using-excess-dollars/" },
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2026/4/16/councilor-mitch-green-colleagues-pass-historic-keep" }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "type": "meeting",
+      "title": "The District 2 projects fail again — 'political football'",
+      "summary": "During budget deliberations, a Kanal amendment funding the Self Enhancement Inc. and Williams & Russell homeownership projects with $2.5 million failed 6–5; the CFO cautioned against contingency draws, and Kanal asked whether the projects were being used as a political football.",
+      "links": [
+        { "label": "Portland Mercury live coverage", "url": "https://www.portlandmercury.com/news/reporting-live-continued-city-councils-contentious-budget-meeting/" }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "type": "vote",
+      "title": "The CET route: $2.5M moved after waiving the fund's income dedication",
+      "summary": "Council voted 10–2 (Morillo, Avalos opposed) to appropriate $2.5 million from Construction Excise Tax sub-fund 225020 — dedicated to housing at or below 60% median family income, a requirement council waived for this ordinance — sending $1.5 million to SEI and $1 million to Williams & Russell homeownership projects.",
+      "item_id": "2026-182",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/06/03/city-council-allots-25-million-to-housing-projects-in-north-and-northeast-portland/" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/after-months-of-political-football-council-funds-housing-for-black-portlanders/" },
+        { "label": "KGW", "url": "https://www.kgw.com/article/news/community/portland-city-council-fund-black-homeownership-housing-project/283-f17252f5-3205-42a9-ad25-0cf53522e354" }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "type": "vote",
+      "title": "Income limits lifted on unsold SDC-exempt homes",
+      "summary": "Council voted 8–3 (Koyama Lane, Zimmerman, Pirtle-Guiney opposed; Avalos absent) to temporarily drop the 100% median-income buyer limit for unsold SDC-exemption homes permitted before 2026, through September 2028. Roughly 700 homes sat unsold; price caps and owner-occupancy rules remain.",
+      "item_id": "2026-205",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/07/portland-affordable-housing-lower-income-policy-homeownership/" }
+      ]
+    }
+  ]
+},
+{
+  "id": "moda",
+  "title": "The Moda Center deal",
+  "status": "ongoing",
+  "tags": ["moda"],
+  "stakes": "Whether Portland commits roughly $120 million up front plus about $275 million over 20 years to renovate a city-owned arena and keep the Trail Blazers — and what, if anything, the city gets back: rent, naming-rights revenue, proof of private financing, or a return on investment.",
+  "watching_for": "Aug 12, 2026, 9:30 a.m.: final amendments and the final vote on Resolution 2026-280. Passage needs 7 of 12. Council President Dunphy has said he may bring a comprehensive amendment incorporating the four proposals that died 6–6.",
+  "episodes": [
+    {
+      "date": "2026-07-16",
+      "type": "document",
+      "title": "City sends first-draft term sheet to the Blazers",
+      "summary": "The city announces a first-draft term sheet framing a $573M renovation: $120M City, $365M State (SB 1501), $88M County, a 20-year non-relocation commitment, and a $3M/yr payment in lieu of taxes. Several councilors say they learned of it from the announcement.",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/7/16/city-advances-first-draft-moda-center-term-sheet-establishing-framework-keep" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/city-sends-first-draft-moda-lease-terms-to-blazers-to-surprise-of-council/" }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "type": "meeting",
+      "title": "Work session with Blazers executives",
+      "summary": "Council holds a work session on the term sheet with Trail Blazers executives present; no public testimony is taken.",
+      "links": [
+        { "label": "KATU preview", "url": "https://katu.com/news/local/portland-city-council-to-discuss-moda-center-term-sheet-heres-what-to-know-oregon-deal-renovation-sports-stadium-venue-tom-dundon-trail-blazers-taxes" }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "type": "meeting",
+      "title": "First hearing: three hours of public testimony",
+      "summary": "Resolution 2026-280 gets its first council hearing with roughly three hours of public testimony, then is continued to the next afternoon.",
+      "item_id": "2026-280",
+      "links": [
+        { "label": "OPB coverage", "url": "https://www.opb.org/article/2026/08/05/portland-city-council-public-testimony-moda-center-deal/" },
+        { "label": "Session video (AM)", "url": "https://www.youtube.com/watch?v=UD8erzI72Fg" }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "type": "vote",
+      "title": "Eleven amendments moved, eleven fail",
+      "summary": "Nineteen amendments were filed; eleven reach a roll call and every one fails, with an identical six-councilor Nay bloc (Clark, Zimmerman, Smith, Pirtle-Guiney, Ryan, Dunphy) on all eleven. Four die 6–6 with no mayoral tie-break. Eight filed amendments are never moved. The resolution is continued to Aug 12.",
+      "item_id": "2026-280",
+      "links": [
+        { "label": "All eleven roll calls, with what each amendment would have done", "url": "#/item/2026-280" },
+        { "label": "Session video (amendments begin ~2:00:00)", "url": "https://www.youtube.com/watch?v=qM1xO2aDjHc" },
+        { "label": "OPB coverage", "url": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/" }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "type": "news",
+      "title": "County approves its share",
+      "summary": "The Multnomah County commission votes 4–1 to set aside up to $101.6 million for the renovation, Commissioner Meghan Moyer opposed.",
+      "links": [
+        { "label": "KPTV", "url": "https://www.kptv.com/2026/08/07/multnomah-county-adopts-resolution-set-aside-up-1016-million-moda-center-renovations/" }
+      ]
+    }
+  ]
+},
+{
+  "id": "reserves",
+  "title": "The reserves argument",
+  "status": "ongoing",
+  "tags": ["budget", "reserves"],
+  "stakes": "Portland closed a roughly $170 million general-fund shortfall in the FY 2026-27 budget with layoffs and about $47 million drawn from reserves and contingency. The council then split — repeatedly — over whether restoring cuts with one-time money endangers reserves, and over whose one-time money counts as dangerous. The same reserves rationale appears on different sides of different votes; this timeline keeps the receipts.",
+  "watching_for": "The fall 2026 budget monitoring report and any fall supplemental. Ordinance 2026-223 directs the Budget Office to file a supplemental by April 1, 2027 restoring general-fund contingency, drawing on bureau underspending and PCEF interest.",
+  "episodes": [
+    {
+      "date": "2026-01-22",
+      "type": "meeting",
+      "title": "A $13.6M mid-year gap disclosed",
+      "summary": "Budget Director Ruth Levine told a council work session the current year faced a $13.6 million mid-year gap, months after an $11.4 million one. Options included cuts, tapping reserve funds, and using contingency.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/2026/01/23/city-faces-136-million-budget-gap-in-current-year/" }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "type": "statement",
+      "title": "The CFO's warning: reserves are a credit-rating risk",
+      "summary": "During budget amendment sessions, CFO Jonas Biery said rating agencies had flagged reserve reductions as a credit-rating risk, with general-fund reserves down from 20% in 2023 to 15–17%. This warning becomes the argument cited against later restoration attempts.",
+      "links": [
+        { "label": "Portland Mercury live coverage", "url": "https://www.portlandmercury.com/news/reporting-live-city-councils-contentious-budget-meeting/" },
+        { "label": "City budget announcement", "url": "https://www.portland.gov/hello/news/2026/5/20/city-council-approves-85-billion-budget-close-historic-shortfall" }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "type": "vote",
+      "title": "The $8.5B budget passes 9–2 after a marathon amendment fight",
+      "summary": "Council adopted the FY 2026-27 budget (Ryan and Zimmerman opposed) closing the shortfall with ~$47 million from reserves and contingency and about 140 discontinued positions — roughly 100 layoffs set for Aug. 3. The adoption session included failed recess motions, an appeal of the presiding officer's ruling, and a blocked attempt to reopen amendments — all on the vote record.",
+      "item_id": "2026-196",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/6/18/portland-city-council-adopts-final-budget-2026-27" }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "type": "news",
+      "title": "Competing restoration plans emerge within days",
+      "summary": "Councilors Avalos, Green, Kanal, Koyama Lane, and Morillo introduced an ordinance restoring parks maintenance, 311, senior programs, and unarmed police-assistant positions. Moderates prepared a separate supplemental; a proposed compromise work session was floated, then dropped.",
+      "links": [
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/city-council-held-their-noses-and-passed-a-budget-now-they-want-changes/" }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "type": "vote",
+      "title": "The PCEF restoration dies on the mayor's first tie-break",
+      "summary": "Ordinance 2026-222 — restoring 55 positions with $13.1 million in PCEF interest and $5.5 million in non-general-fund contingencies — failed 6–6, with Mayor Wilson casting his first tie-breaking vote against. The reserves argument was central to the opposition.",
+      "item_id": "2026-222",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/22/portland-city-council-job-cuts-budget/" }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "type": "vote",
+      "title": "The moderates' supplemental passes the same day — drawing contingency",
+      "summary": "Ordinance 2026-223 passed 10–2 (Koyama Lane, Avalos opposed), preserving 30 positions with $9.96 million from general-fund contingency plus $2.25 million from other funds, extending laid-off workers' benefits through Sept. 30, and directing contingency restoration by April 2027. Three amendments restoring the Senior Center project, International Relations program, and Ceasefire coordinator each failed 6–6.",
+      "item_id": "2026-223",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/22/portland-city-council-job-cuts-budget/" },
+        { "label": "KGW", "url": "https://www.kgw.com/article/news/politics/portland-city-council-budget-staff-public-safety-positions-cuts-staff/283-ed543474-257e-43e6-ae65-fb5ca8587e73" }
+      ]
+    }
+  ]
+},
+{
+  "id": "zenith",
+  "title": "Zenith Energy's franchise",
+  "status": "ongoing",
+  "tags": ["zenith"],
+  "stakes": "Zenith Energy operates a fuel terminal at Portland's Critical Energy Infrastructure hub under a city franchise. The council has fought over how the city enforced that franchise and its land-use rules — and now over whether to consent to transferring the franchise to buyer ISQ Springer Holdings, and whether conditions can be attached to that consent.",
+  "watching_for": "A council vote on the ordinance consenting to transfer Zenith's franchise to ISQ Springer Holdings — and whether councilors attach conditions; LUBA's remanded review of the February 2025 land-use compatibility statement; the outcome of Zenith's July 2026 lawsuit against the city.",
+  "episodes": [
+    {
+      "date": "2025-02-03",
+      "type": "document",
+      "title": "City signs Zenith's land-use compatibility statement",
+      "summary": "Permitting staff signed a Land Use Compatibility Statement finding Zenith's terminal consistent with city land-use rules — a required step in its state air-quality permit. Environmental groups and residents appealed to LUBA within the month.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2025/02/03/zenith-energy-land-use-compatibility-statement/" },
+        { "label": "City statement", "url": "https://www.portland.gov/hello/news/2025/2/3/city-portland-processes-land-use-compatibility-statement-zenith-energy" },
+        { "label": "Street Roots on the appeal", "url": "https://www.streetroots.org/news-stories/2025/02/24/environmental-organizations-sue-city-portland-over-zenith-land-use-approval/" }
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "type": "vote",
+      "title": "Council orders a franchise investigation — after stripping its own findings",
+      "summary": "Council adopted Resolution 37702 directing the mayor to investigate Zenith's franchise compliance and urging an auditor review of the LUCS process. Before adoption, amendments removed the resolution's findings alleging an abnormal 2022 approval process and a record of dishonesty — the amendment fight is on the vote record.",
+      "item_id": "2025-070",
+      "links": [
+        { "label": "Street Roots", "url": "https://www.streetroots.org/news/2025/03/20/city-council-demands-mayor-investigate-zenith-energy-agreement" },
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/3/20/portland-city-council-passes-resolution-investigate" }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "type": "news",
+      "title": "State approves Zenith's air-quality permit",
+      "summary": "Oregon DEQ issued Zenith a 172-page air-quality permit with emissions limits and monitoring requirements, requiring crude oil phase-out by October 2027. The permit runs to October 2030.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2025/10/09/zenith-energy-critical-permit-fuel-terminal-portland/" },
+        { "label": "KOIN", "url": "https://www.koin.com/news/environment/oregon-deq-approves-zenith-energy-air-quality-permit/" }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "type": "news",
+      "title": "Appeals court revives the land-use challenge",
+      "summary": "The Oregon Court of Appeals held that the conditions Portland placed on Zenith's LUCS were enforceable land-use approvals subject to review, reversing LUBA and returning the challenge brought by NEDC, 350PDX, Willamette Riverkeeper, and 18 residents.",
+      "links": [
+        { "label": "NEDC", "url": "https://www.nedc.org/2025/11/nedc-and-allies-win-important-early-victory-in-challenge-to-zenith-energy-lucs/" },
+        { "label": "350PDX", "url": "https://350pdx.org/2025novemberzenith/" }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "type": "news",
+      "title": "Zenith moves to sell the terminal",
+      "summary": "Zenith agreed in December 2025 to sell its Portland terminal to ISQ Springer Holdings LLC, an I Squared Capital affiliate, and notified the city in January. The sale needs council consent to transfer the franchise agreement.",
+      "links": [
+        { "label": "I Squared announcement", "url": "https://isquaredcapital.com/news/i-squared-capital-accelerates-u-s-energy-transition-with-acquisition-of-oregons-premier-renewable-fuels-terminal/" },
+        { "label": "Willamette Week (later suit reports the January notice)", "url": "https://www.wweek.com/news/courts/2026/07/29/oil-terminal-operator-sues-city-of-portland-for-delaying-transfer-of-franchise-agreement/" }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "type": "document",
+      "title": "Investigation clears the city — and Zenith",
+      "summary": "The city released the investigation Resolution 37702 demanded: no material Zenith violations of the franchise or city-enforced laws, and a finding that staff properly processed the LUCS. Outside counsel Cable Huston concurred; advocacy groups disputed the findings.",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/2/19/investigation-zenith-energy-franchise-agreement-finds-city-upheld-law-and" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/2026/02/19/48335342/city-issues-report-clearing-zenith-energy-of-alleged-violations" },
+        { "label": "Cable Huston memo", "url": "https://www.portland.gov/hello/documents/read-memorandum-outside-counsel-cable-huston-reviewing-citys-report/download" }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "type": "news",
+      "title": "Zenith sues the city over the transfer delay",
+      "summary": "Zenith sued Portland, claiming the city moved too slowly on the franchise transfer to ISQ Springer and that delays cost it over $10 million. The council's first transfer hearing, July 23, ended before any of 53 signed-up witnesses testified.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/courts/2026/07/29/oil-terminal-operator-sues-city-of-portland-for-delaying-transfer-of-franchise-agreement/" }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "type": "meeting",
+      "title": "Council probes whether it can attach conditions to the transfer",
+      "summary": "Councilors discussed conditioning the consent ordinance for the franchise transfer. City staff advised that the vote must rest only on the buyer's legal, technical, and financial qualifications.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/08/06/city-council-explores-how-it-might-impose-new-conditions-on-firm-seeking-to-buy-zenith-terminal/" }
+      ]
+    }
+  ]
+}
+],
+"dossiers": [],
 "annotations": { "2026-280": {
   "item_id": "2026-280",
   "draft": false,

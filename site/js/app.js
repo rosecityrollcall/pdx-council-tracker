@@ -36,6 +36,39 @@
     .sort(function (a, b) { return a.district - b.district || a.name.split(' ').pop().localeCompare(b.name.split(' ').pop()); });
 
   var annos = D.annotations || {};
+  var TAGS = D.tags || {};
+  var STATEMENTS = D.statements || [];
+  var POLICIES = D.policies || [];
+  var STORYLINES = D.storylines || [];
+  var DOSSIERS = D.dossiers || [];
+
+  function itemTags(id) { return TAGS[id] || []; }
+  var storyByItem = {};
+  STORYLINES.forEach(function (s) {
+    (s.episodes || []).forEach(function (ep) { if (ep.item_id && !storyByItem[ep.item_id]) storyByItem[ep.item_id] = s; });
+  });
+  function storyLatest(s) {
+    var d = '';
+    (s.episodes || []).forEach(function (ep) { if (ep.date > d) d = ep.date; });
+    return d;
+  }
+  function allTagCounts() {
+    var counts = {};
+    D.items.forEach(function (it) { itemTags(it.id).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; }); });
+    return counts;
+  }
+  function resolvePolicyVote(pv) {
+    var it = null;
+    D.items.forEach(function (x) { if (x.id === pv.item_id) it = x; });
+    if (!it) return null;
+    var vs = itemVotes(it);
+    if (!pv.motion_match) {
+      for (var i = vs.length - 1; i >= 0; i--) if (vs[i].kind === 'passage') return { item: it, vote: vs[i] };
+      return null;
+    }
+    for (var j = 0; j < vs.length; j++) if (vs[j].motion.toLowerCase().indexOf(pv.motion_match.toLowerCase()) >= 0) return { item: it, vote: vs[j] };
+    return null;
+  }
 
   // flatten all roll-call votes: [{item, action, vote}]
   var allVotes = [];
@@ -123,8 +156,11 @@
   function cap(s) { return s ? s[0].toUpperCase() + s.slice(1) : ''; }
 
   // ---------- alignment math ----------
-  function agreement(contestedOnly) {
-    var votes = allVotes.map(function (r) { return r.vote; }).filter(function (v) { return !contestedOnly || isContested(v); });
+  function agreement(contestedOnly, tag) {
+    var votes = allVotes
+      .filter(function (r) { return !tag || itemTags(r.item.id).indexOf(tag) >= 0; })
+      .map(function (r) { return r.vote; })
+      .filter(function (v) { return !contestedOnly || isContested(v); });
     var m = {};
     voters.forEach(function (a) {
       m[a.slug] = {};
@@ -165,6 +201,19 @@
       kpi(contested.length, 'contested votes') +
       kpi(Object.keys(dates).length, 'meeting days covered') +
       '</div>';
+    // latest storyline developments
+    var devs = [];
+    STORYLINES.forEach(function (s) {
+      (s.episodes || []).forEach(function (ep) { devs.push({ s: s, ep: ep }); });
+    });
+    devs.sort(function (a, b) { return b.ep.date.localeCompare(a.ep.date); });
+    if (devs.length) {
+      html += '<h2>Latest developments</h2><div class="card">' + devs.slice(0, 3).map(function (d) {
+        return '<div class="item-row"><span class="date">' + fmtDate(d.ep.date) + '</span>' +
+          '<span class="t"><span class="title"><a href="#/story/' + esc(d.s.id) + '">' + esc(d.ep.title) + '</a></span>' +
+          '<div class="meta">' + esc(d.s.title) + '</div></span></div>';
+      }).join('') + '</div>';
+    }
     // featured context
     var featured = D.items.filter(function (it) { return annos[it.id]; });
     if (featured.length) {
@@ -189,9 +238,17 @@
       var da = (lastAction(a) || {}).date || '', db = (lastAction(b) || {}).date || '';
       return db.localeCompare(da);
     });
+    var counts = allTagCounts();
+    var topTags = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; }).slice(0, 14);
+    if (state.voteTag) items = items.filter(function (it) { return itemTags(it.id).indexOf(state.voteTag) >= 0; });
+    var chips = '<div class="chips"><span class="chip' + (state.voteTag ? '' : ' on') + '" data-tagchip="">All</span>' +
+      topTags.map(function (t) {
+        return '<span class="chip' + (state.voteTag === t ? ' on' : '') + '" data-tagchip="' + esc(t) + '">' + esc(t) + ' · ' + counts[t] + '</span>';
+      }).join('') + '</div>';
     var html = '<h1>Tracked items</h1>' +
       '<p class="sub">Council actions with recorded outcomes. Contested votes — where the council split — are where the story usually is.</p>' +
-      '<div class="card">' + items.map(itemRow).join('') + '</div>';
+      chips +
+      '<div class="card">' + (items.length ? items.map(itemRow).join('') : '<p class="m-sub">No items carry this tag yet.</p>') + '</div>';
 
     // Contested-vote index: enumerated from the city's votes table but not yet fully
     // extracted (the automated scraper backfills these with complete breakdowns).
@@ -228,10 +285,18 @@
     D.items.forEach(function (x) { if (x.id === id) it = x; });
     if (!it) return '<h1>Not found</h1><p class="sub">No item ' + esc(id) + ' in the dataset.</p>';
     var an = annos[it.id];
-    var html = '<h1>' + esc(it.short_title || it.title) + '</h1>' +
+    var story = storyByItem[it.id];
+    var html = (story ? '<p class="crumb">Part of the storyline: <a href="#/story/' + esc(story.id) + '">' + esc(story.title) + '</a></p>' : '') +
+      '<h1>' + esc(it.short_title || it.title) + '</h1>' +
       '<p class="sub">' + esc(cap(it.type)) + ' ' + esc(it.id) +
       (it.sponsors && it.sponsors.length ? ' · Introduced by ' + esc(it.sponsors.join(', ')) : '') +
       ' · <a href="' + esc(it.url) + '" target="_blank" rel="noopener">official record ↗</a></p>';
+    var tg = itemTags(it.id);
+    if (tg.length) {
+      html += '<p class="tagline">' + tg.map(function (t) {
+        return '<span class="chip" data-tagchip-nav="' + esc(t) + '" style="cursor:pointer">' + esc(t) + '</span>';
+      }).join('') + '</p>';
+    }
     if (it.short_title && it.title !== it.short_title) html += '<p class="sub" style="font-size:14px">Official title: ' + esc(it.title) + '</p>';
     if (it.summary) html += '<div class="card">' + md(it.summary) + '</div>';
 
@@ -339,6 +404,38 @@
             (e.source ? ' — <a href="' + esc(e.source) + '" target="_blank" rel="noopener">source</a>' : '') + '</li>';
         }).join('') + '</ul></div>';
     }
+    // On the issues: policy alignment computed from grouped votes
+    var polHtml = '';
+    POLICIES.forEach(function (p) {
+      var f = 0, ag = 0;
+      (p.votes || []).forEach(function (pv) {
+        var rv = resolvePolicyVote(pv);
+        if (!rv) return;
+        var pos = position(rv.vote, slug);
+        if (pos !== 'aye' && pos !== 'nay') return;
+        var supports = (pos === 'aye') === (pv.direction === 'for');
+        if (supports) f++; else ag++;
+      });
+      if (f + ag === 0) return;
+      polHtml += '<div class="policy"><div class="p-title">' + esc(p.title) + '</div>' +
+        '<div class="p-desc">' + esc(p.description) + '</div>' +
+        '<div class="p-stat"><span class="for">For ' + f + '</span> · <span class="against">Against ' + ag + '</span> <span style="color:var(--muted)">(' + (f + ag) + ' votes)</span></div></div>';
+    });
+    if (polHtml) html += '<h2>On the issues</h2><div class="card">' + polHtml + '</div>';
+
+    // In their words: the statements ledger
+    var quotes = STATEMENTS.filter(function (s) { return s.councilor === slug; })
+      .sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
+    if (quotes.length) {
+      html += '<h2>In their words</h2><div class="card">' + quotes.map(function (q) {
+        return '<div class="quote-card"><div class="q">“' + esc(q.quote) + '”</div>' +
+          '<div class="q-attr">' + fmtDate(q.date) + (q.context ? ' — ' + esc(q.context) : '') +
+          (q.source ? ' · <a href="' + esc(q.source) + '" target="_blank" rel="noopener">' + (q.t ? 'video ' + esc(q.t) : 'source') + '</a>' : '') +
+          (q.as_reported_by ? ' <span style="color:var(--muted)">(' + esc(q.as_reported_by) + ')</span>' : '') +
+          '</div></div>';
+      }).join('') + '</div>';
+    }
+
     html += '<h2>Contested-vote record</h2><div class="card"><table class="plain"><thead><tr><th>Date</th><th>Item / motion</th><th>Vote</th><th>Result</th></tr></thead><tbody>';
     var rows = allVotes.filter(function (r) { return isContested(r.vote) && position(r.vote, slug); });
     if (!rows.length) html += '<tr><td colspan="4" class="m-sub">No contested votes recorded yet.</td></tr>';
@@ -355,10 +452,17 @@
 
   function viewAlignment() {
     var contestedOnly = state.alignAll !== true;
-    var m = agreement(contestedOnly);
+    var m = agreement(contestedOnly, state.alignTag);
+    var counts = allTagCounts();
+    var tagChoices = Object.keys(counts).filter(function (t) { return counts[t] >= 3; })
+      .sort(function (a, b) { return counts[b] - counts[a]; }).slice(0, 12);
     var html = '<h1>Who votes with whom</h1>' +
       '<p class="sub">Pairwise agreement on roll-call votes where both councilors voted aye or nay. ' +
       'Contested votes only by default — unanimous votes tell you little about blocs.</p>' +
+      '<div class="chips"><span class="chip' + (state.alignTag ? '' : ' on') + '" data-aligntag="">All topics</span>' +
+      tagChoices.map(function (t) {
+        return '<span class="chip' + (state.alignTag === t ? ' on' : '') + '" data-aligntag="' + esc(t) + '">' + esc(t) + '</span>';
+      }).join('') + '</div>' +
       '<p><button class="badge" id="align-toggle" style="cursor:pointer">' +
       (contestedOnly ? 'Showing contested only — include unanimous' : 'Showing all votes — contested only') + '</button></p>' +
       '<div class="card matrix-scroll"><table class="matrix"><thead><tr><th></th>';
@@ -383,6 +487,84 @@
       '<span><span class="k" style="background:var(--seq-300)"></span>~40%</span>' +
       '<span><span class="k" style="background:var(--seq-500)"></span>~70%</span>' +
       '<span><span class="k" style="background:var(--seq-700)"></span>85–100%</span></div>';
+    return html;
+  }
+
+  function viewStorylines() {
+    var html = '<h1>Storylines</h1>' +
+      '<p class="sub">The ongoing fights, followed over time. Every episode links to the record it came from — votes, video, documents, coverage.</p>';
+    if (!STORYLINES.length) return html + '<div class="card"><p class="m-sub">No storylines yet.</p></div>';
+    var sorted = STORYLINES.slice().sort(function (a, b) { return storyLatest(b).localeCompare(storyLatest(a)); });
+    html += '<div class="story-cards">' + sorted.map(function (s) {
+      var eps = (s.episodes || []).slice().sort(function (a, b) { return a.date.localeCompare(b.date); });
+      var last = eps[eps.length - 1];
+      return '<div class="story-card"><h3><a href="#/story/' + esc(s.id) + '">' + esc(s.title) + '</a> ' +
+        '<span class="status-pill ' + esc(s.status || 'ongoing') + '">' + esc(s.status || 'ongoing') + '</span></h3>' +
+        '<div style="font-size:14px;color:var(--ink-2)">' + esc(s.stakes || '') + '</div>' +
+        (last ? '<div class="latest">Latest: ' + fmtDate(last.date) + ' — ' + esc(last.title) + ' · ' + eps.length + ' episodes</div>' : '') +
+        '</div>';
+    }).join('') + '</div>';
+    return html;
+  }
+
+  function viewStory(id) {
+    var s = null;
+    STORYLINES.forEach(function (x) { if (x.id === id) s = x; });
+    if (!s) return '<h1>Not found</h1><p class="sub">No storyline “' + esc(id) + '”.</p>';
+    var eps = (s.episodes || []).slice().sort(function (a, b) { return a.date.localeCompare(b.date); });
+    var html = '<p class="crumb"><a href="#/storylines">← All storylines</a></p>' +
+      '<h1>' + esc(s.title) + ' <span class="status-pill ' + esc(s.status || 'ongoing') + '">' + esc(s.status || 'ongoing') + '</span></h1>' +
+      '<div class="stakes"><strong>What’s at stake:</strong> ' + esc(s.stakes || '') + '</div>' +
+      '<div class="timeline">' +
+      eps.map(function (ep) {
+        var typeLabel = { vote: 'Roll call', meeting: 'Meeting', document: 'Document', news: 'News', statement: 'Statement' }[ep.type] || 'Event';
+        var links = (ep.links || []).slice();
+        var epItem = null;
+        if (ep.item_id) D.items.forEach(function (x) { if (x.id === ep.item_id) epItem = x; });
+        if (epItem && !links.some(function (l) { return l.url.charAt(0) === '#'; })) {
+          links.unshift({ label: 'Vote record', url: '#/item/' + ep.item_id });
+        }
+        var strip = '';
+        if (epItem) {
+          var vs = itemVotes(epItem);
+          if (vs.length) strip = '<div style="margin:4px 0 6px">' + splitBar(vs[vs.length - 1]) + '</div>';
+        }
+        return '<div class="ep"><div class="ep-meta">' + typeLabel + ' · ' + fmtDate(ep.date) + '</div>' +
+          '<h3>' + esc(ep.title) + '</h3>' +
+          '<p class="ep-sum">' + esc(ep.summary || '') + '</p>' + strip +
+          (links.length ? '<div class="ep-links">' + links.map(function (l) {
+            var ext = l.url.charAt(0) !== '#';
+            return '<a href="' + esc(l.url) + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>' + esc(l.label) + (ext ? ' ↗' : ' →') + '</a>';
+          }).join('') + '</div>' : '') +
+          '</div>';
+      }).join('') + '</div>';
+    if (s.watching_for) {
+      html += '<div class="watching"><span class="w-label">Watching for</span>' + esc(s.watching_for) + '</div>';
+    }
+    return html;
+  }
+
+  function viewAnalysis(id) {
+    if (id) {
+      var d = null;
+      DOSSIERS.forEach(function (x) { if (x.id === id) d = x; });
+      if (!d) return '<h1>Not found</h1>';
+      return '<p class="crumb"><a href="#/analysis">← All analysis</a></p><h1>' + esc(d.title) + '</h1>' +
+        '<p class="sub">' + fmtDate(d.date) + ' · Analysis — argued, signed, and built from linked records</p>' +
+        '<div class="card">' + md(d.body || '') + '</div>';
+    }
+    var html = '<h1>Analysis</h1>' +
+      '<p class="sub">Argued pieces, clearly labeled as such. Everything load-bearing links to the record; the data pages stay verdict-free.</p>';
+    if (!DOSSIERS.length) {
+      html += '<div class="card"><p class="m-sub" style="margin:0">Nothing published yet — the record comes first. ' +
+        'Analysis pieces appear here once a pattern has accumulated enough receipts in the <a href="#/storylines">storylines</a>.</p></div>';
+    } else {
+      html += '<div class="card">' + DOSSIERS.map(function (d) {
+        return '<div class="item-row"><span class="date">' + fmtDate(d.date) + '</span>' +
+          '<span class="t"><span class="title"><a href="#/analysis/' + esc(d.id) + '">' + esc(d.title) + '</a></span>' +
+          '<div class="meta">' + esc(d.teaser || '') + '</div></span></div>';
+      }).join('') + '</div>';
+    }
     return html;
   }
 
@@ -417,17 +599,30 @@
     else if (name === 'councilors') html = viewCouncilors();
     else if (name === 'councilor') html = viewCouncilor(decodeURIComponent(parts[1] || ''));
     else if (name === 'alignment') html = viewAlignment();
+    else if (name === 'storylines') html = viewStorylines();
+    else if (name === 'story') html = viewStory(decodeURIComponent(parts[1] || ''));
+    else if (name === 'analysis') html = viewAnalysis(parts[1] ? decodeURIComponent(parts[1]) : null);
     else if (name === 'about') html = viewAbout();
     else html = viewHome();
     app.innerHTML = html;
     document.querySelectorAll('#nav a').forEach(function (a) {
       var r = a.getAttribute('data-r');
       var active = (name === 'home' && r === 'home') || name === r ||
-        (name === 'item' && r === 'votes') || (name === 'councilor' && r === 'councilors');
+        (name === 'item' && r === 'votes') || (name === 'councilor' && r === 'councilors') ||
+        (name === 'story' && r === 'storylines');
       a.className = active ? 'active' : '';
     });
     var t = document.getElementById('align-toggle');
     if (t) t.onclick = function () { state.alignAll = !state.alignAll; route(); };
+    document.querySelectorAll('[data-tagchip]').forEach(function (el) {
+      el.onclick = function () { state.voteTag = el.getAttribute('data-tagchip') || null; route(); };
+    });
+    document.querySelectorAll('[data-tagchip-nav]').forEach(function (el) {
+      el.onclick = function () { state.voteTag = el.getAttribute('data-tagchip-nav'); location.hash = '#/votes'; };
+    });
+    document.querySelectorAll('[data-aligntag]').forEach(function (el) {
+      el.onclick = function () { state.alignTag = el.getAttribute('data-aligntag') || null; route(); };
+    });
     window.scrollTo(0, 0);
   }
   window.addEventListener('hashchange', route);

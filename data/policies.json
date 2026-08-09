@@ -1,0 +1,22 @@
+[
+  {
+    "id": "one-time-restorations",
+    "title": "Restoring cut services with one-time funds",
+    "description": "Votes on restoring positions and services cut in the FY 2026-27 budget using one-time money (PCEF interest income, General Fund contingency). 'For' means the councilor voted to restore.",
+    "votes": [
+      { "item_id": "2026-222", "motion_match": null, "direction": "for" },
+      { "item_id": "2026-222", "motion_match": "Morillo 1", "direction": "for" },
+      { "item_id": "2026-223", "motion_match": "Senior Center", "direction": "for" }
+    ]
+  },
+  {
+    "id": "dedicated-housing-funds",
+    "title": "Keeping dedicated housing funds for their designated purpose",
+    "description": "Votes on diverting or loosening revenue streams dedicated to affordable housing (Construction Excise Tax sub-funds, SDC-exemption income targeting). 'For' means the councilor voted to preserve the dedication or targeting; 'against' means they voted to divert or loosen it.",
+    "votes": [
+      { "item_id": "2026-182", "motion_match": null, "direction": "against" },
+      { "item_id": "2026-205", "motion_match": null, "direction": "against" },
+      { "item_id": "2026-205", "motion_match": "Pirtle-Guiney/Koyama Lane", "direction": "for" }
+    ]
+  }
+]

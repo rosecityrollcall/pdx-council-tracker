@@ -25,6 +25,15 @@ def main() -> None:
 
     contested = DATA / "contested-nay-rows.json"
     notes = DATA / "motion-notes.json"
+
+    def load_optional(name, default):
+        p = DATA / name
+        return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
+
+    def load_dir(sub):
+        p = DATA / sub
+        return [json.loads(f.read_text(encoding="utf-8")) for f in sorted(p.glob("*.json"))] if p.exists() else []
+
     payload = {
         "generated": datetime.date.today().isoformat(),
         "councilors": load("councilors.json"),
@@ -32,6 +41,11 @@ def main() -> None:
         "meetings": load("meetings.json"),
         "contested_rows": load("contested-nay-rows.json") if contested.exists() else [],
         "motion_notes": load("motion-notes.json") if notes.exists() else {},
+        "tags": load_optional("tags.json", {}),
+        "statements": load_optional("statements.json", []),
+        "policies": load_optional("policies.json", []),
+        "storylines": load_dir("storylines"),
+        "dossiers": load_dir("dossiers"),
         "annotations": annotations,
     }
     out = ROOT / "site" / "js" / "data.js"

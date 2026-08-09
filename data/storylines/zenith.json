@@ -1,0 +1,91 @@
+{
+  "id": "zenith",
+  "title": "Zenith Energy's franchise",
+  "status": "ongoing",
+  "tags": ["zenith"],
+  "stakes": "Zenith Energy operates a fuel terminal at Portland's Critical Energy Infrastructure hub under a city franchise. The council has fought over how the city enforced that franchise and its land-use rules — and now over whether to consent to transferring the franchise to buyer ISQ Springer Holdings, and whether conditions can be attached to that consent.",
+  "watching_for": "A council vote on the ordinance consenting to transfer Zenith's franchise to ISQ Springer Holdings — and whether councilors attach conditions; LUBA's remanded review of the February 2025 land-use compatibility statement; the outcome of Zenith's July 2026 lawsuit against the city.",
+  "episodes": [
+    {
+      "date": "2025-02-03",
+      "type": "document",
+      "title": "City signs Zenith's land-use compatibility statement",
+      "summary": "Permitting staff signed a Land Use Compatibility Statement finding Zenith's terminal consistent with city land-use rules — a required step in its state air-quality permit. Environmental groups and residents appealed to LUBA within the month.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2025/02/03/zenith-energy-land-use-compatibility-statement/" },
+        { "label": "City statement", "url": "https://www.portland.gov/hello/news/2025/2/3/city-portland-processes-land-use-compatibility-statement-zenith-energy" },
+        { "label": "Street Roots on the appeal", "url": "https://www.streetroots.org/news-stories/2025/02/24/environmental-organizations-sue-city-portland-over-zenith-land-use-approval/" }
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "type": "vote",
+      "title": "Council orders a franchise investigation — after stripping its own findings",
+      "summary": "Council adopted Resolution 37702 directing the mayor to investigate Zenith's franchise compliance and urging an auditor review of the LUCS process. Before adoption, amendments removed the resolution's findings alleging an abnormal 2022 approval process and a record of dishonesty — the amendment fight is on the vote record.",
+      "item_id": "2025-070",
+      "links": [
+        { "label": "Street Roots", "url": "https://www.streetroots.org/news/2025/03/20/city-council-demands-mayor-investigate-zenith-energy-agreement" },
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/3/20/portland-city-council-passes-resolution-investigate" }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "type": "news",
+      "title": "State approves Zenith's air-quality permit",
+      "summary": "Oregon DEQ issued Zenith a 172-page air-quality permit with emissions limits and monitoring requirements, requiring crude oil phase-out by October 2027. The permit runs to October 2030.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2025/10/09/zenith-energy-critical-permit-fuel-terminal-portland/" },
+        { "label": "KOIN", "url": "https://www.koin.com/news/environment/oregon-deq-approves-zenith-energy-air-quality-permit/" }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "type": "news",
+      "title": "Appeals court revives the land-use challenge",
+      "summary": "The Oregon Court of Appeals held that the conditions Portland placed on Zenith's LUCS were enforceable land-use approvals subject to review, reversing LUBA and returning the challenge brought by NEDC, 350PDX, Willamette Riverkeeper, and 18 residents.",
+      "links": [
+        { "label": "NEDC", "url": "https://www.nedc.org/2025/11/nedc-and-allies-win-important-early-victory-in-challenge-to-zenith-energy-lucs/" },
+        { "label": "350PDX", "url": "https://350pdx.org/2025novemberzenith/" }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "type": "news",
+      "title": "Zenith moves to sell the terminal",
+      "summary": "Zenith agreed in December 2025 to sell its Portland terminal to ISQ Springer Holdings LLC, an I Squared Capital affiliate, and notified the city in January. The sale needs council consent to transfer the franchise agreement.",
+      "links": [
+        { "label": "I Squared announcement", "url": "https://isquaredcapital.com/news/i-squared-capital-accelerates-u-s-energy-transition-with-acquisition-of-oregons-premier-renewable-fuels-terminal/" },
+        { "label": "Willamette Week (later suit reports the January notice)", "url": "https://www.wweek.com/news/courts/2026/07/29/oil-terminal-operator-sues-city-of-portland-for-delaying-transfer-of-franchise-agreement/" }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "type": "document",
+      "title": "Investigation clears the city — and Zenith",
+      "summary": "The city released the investigation Resolution 37702 demanded: no material Zenith violations of the franchise or city-enforced laws, and a finding that staff properly processed the LUCS. Outside counsel Cable Huston concurred; advocacy groups disputed the findings.",
+      "links": [
+        { "label": "City announcement", "url": "https://www.portland.gov/hello/news/2026/2/19/investigation-zenith-energy-franchise-agreement-finds-city-upheld-law-and" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/2026/02/19/48335342/city-issues-report-clearing-zenith-energy-of-alleged-violations" },
+        { "label": "Cable Huston memo", "url": "https://www.portland.gov/hello/documents/read-memorandum-outside-counsel-cable-huston-reviewing-citys-report/download" }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "type": "news",
+      "title": "Zenith sues the city over the transfer delay",
+      "summary": "Zenith sued Portland, claiming the city moved too slowly on the franchise transfer to ISQ Springer and that delays cost it over $10 million. The council's first transfer hearing, July 23, ended before any of 53 signed-up witnesses testified.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/courts/2026/07/29/oil-terminal-operator-sues-city-of-portland-for-delaying-transfer-of-franchise-agreement/" }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "type": "meeting",
+      "title": "Council probes whether it can attach conditions to the transfer",
+      "summary": "Councilors discussed conditioning the consent ordinance for the franchise transfer. City staff advised that the vote must rest only on the buyer's legal, technical, and financial qualifications.",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/08/06/city-council-explores-how-it-might-impose-new-conditions-on-firm-seeking-to-buy-zenith-terminal/" }
+      ]
+    }
+  ]
+}

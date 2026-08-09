@@ -1,0 +1,47 @@
+[
+  {
+    "id": "st-20260806-morillo-begging",
+    "councilor": "morillo",
+    "date": "2026-08-06",
+    "quote": "I am literally begging you to take these amendments seriously moving forward.",
+    "context": "During the Moda term sheet amendment debate, after the bloc voted down her amendment.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.wweek.com/news/city/2026/08/06/as-county-passes-funding-for-moda-center-renovation-city-tussles-over-term-sheet/",
+    "as_reported_by": "Willamette Week"
+  },
+  {
+    "id": "st-20260806-avalos-unacceptable",
+    "councilor": "avalos",
+    "date": "2026-08-06",
+    "quote": "I think the current term sheet is absolutely unacceptable… otherwise I think we are failing Portlanders.",
+    "context": "On the Moda term sheet as it stood after all eleven amendments failed.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/",
+    "as_reported_by": "OPB"
+  },
+  {
+    "id": "st-20260806-kanal-videogame",
+    "councilor": "kanal",
+    "date": "2026-08-06",
+    "quote": "If we're in the video game, we're not at the big boss yet. We haven't gotten to a point where we're negotiating with the Blazers. We are looking at what we're even able to ask for.",
+    "context": "Arguing the amendments were the council's chance to define its asks before negotiations.",
+    "tags": ["moda"],
+    "item_id": "2026-280",
+    "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/",
+    "as_reported_by": "OPB"
+  },
+  {
+    "id": "st-20260806-zimmerman-tiebreak",
+    "councilor": "zimmerman",
+    "date": "2026-08-06",
+    "quote": "In this case, would the mayor not cast a vote here?",
+    "context": "Point of order after a motion to reorder the agenda failed 6–6 — early in the session, before the Moda item; his only recorded remark prior to the amendment roll calls.",
+    "tags": ["procedure"],
+    "item_id": null,
+    "t": "12:24",
+    "source": "https://www.youtube.com/watch?v=qM1xO2aDjHc&t=744",
+    "as_reported_by": "broadcast captions (not a certified verbatim transcript)"
+  }
+]

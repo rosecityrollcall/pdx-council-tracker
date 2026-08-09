@@ -1,0 +1,81 @@
+{
+  "id": "housing-funds",
+  "title": "The housing funds fight",
+  "status": "ongoing",
+  "tags": ["housing"],
+  "stakes": "Portland dedicates specific revenue streams to affordable housing — the Construction Excise Tax, SDC-exemption subsidies, Housing Bureau fund balances — each with income restrictions. Through 2025–2026 the council repeatedly split over redirecting those dollars to named projects, higher income tiers, or a new social-housing acquisition fund — and over what process should govern such transfers.",
+  "watching_for": "The Housing Bureau's social-housing implementation report and the first acquisitions from the $17.5 million revolving loan fund; whether the SDC income-limit waiver (through Sept. 30, 2028) clears the ~700 unsold affordable homes.",
+  "episodes": [
+    {
+      "date": "2025-04-02",
+      "type": "vote",
+      "title": "Social housing study ordered, unanimously",
+      "summary": "Council unanimously adopted a Green/Avalos resolution directing staff to study social-housing models — municipal ownership, land banking, revolving loan funds — with an implementation report due May 2026.",
+      "links": [
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2025/4/2/portland-city-council-unanimously-adopts" },
+        { "label": "Street Roots", "url": "https://www.streetroots.org/news/2025/07/07/city-portland-leans-social-housing" }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "type": "vote",
+      "title": "A blanket SDC waiver for all new housing",
+      "summary": "Council passed Mayor Wilson's temporary three-year SDC exemption for new residential projects regardless of affordability. OPB later reported the blanket waiver eroded the pricing advantage of income-restricted affordable homes.",
+      "item_id": "2025-243",
+      "links": [
+        { "label": "Program page", "url": "https://www.portland.gov/ppd/current-fee-schedules/housing-sdc-exemption" }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "type": "news",
+      "title": "Push to deploy $56M in idle housing funds",
+      "summary": "Councilors Avalos, Dunphy, Green, and Morillo renewed a proposal directing roughly $56 million in unbudgeted Housing Bureau dollars to rent assistance, eviction prevention, and a revolving loan fund for acquiring property as social housing.",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/03/12/portland-oregon-housing-funds-renter-protections/" }
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "type": "vote",
+      "title": "$56M housing package passes 8–3; District 2 carve-out fails",
+      "summary": "The spring adjustment ordinance passed 8–3 (Ryan, Zimmerman, Smith opposed), funding a $17.5 million social-housing acquisition revolving loan fund, rent assistance, and eviction defense. A Smith amendment adding $2.5 million for two District 2 homeownership projects failed 6–5.",
+      "item_id": "2026-120",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/04/17/at-long-last-council-pushes-forward-56-million-housing-package-using-excess-dollars/" },
+        { "label": "Councilor Green's announcement", "url": "https://www.portland.gov/council/districts/4/mitch-green/news/2026/4/16/councilor-mitch-green-colleagues-pass-historic-keep" }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "type": "meeting",
+      "title": "The District 2 projects fail again — 'political football'",
+      "summary": "During budget deliberations, a Kanal amendment funding the Self Enhancement Inc. and Williams & Russell homeownership projects with $2.5 million failed 6–5; the CFO cautioned against contingency draws, and Kanal asked whether the projects were being used as a political football.",
+      "links": [
+        { "label": "Portland Mercury live coverage", "url": "https://www.portlandmercury.com/news/reporting-live-continued-city-councils-contentious-budget-meeting/" }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "type": "vote",
+      "title": "The CET route: $2.5M moved after waiving the fund's income dedication",
+      "summary": "Council voted 10–2 (Morillo, Avalos opposed) to appropriate $2.5 million from Construction Excise Tax sub-fund 225020 — dedicated to housing at or below 60% median family income, a requirement council waived for this ordinance — sending $1.5 million to SEI and $1 million to Williams & Russell homeownership projects.",
+      "item_id": "2026-182",
+      "links": [
+        { "label": "Willamette Week", "url": "https://www.wweek.com/news/city/2026/06/03/city-council-allots-25-million-to-housing-projects-in-north-and-northeast-portland/" },
+        { "label": "Portland Mercury", "url": "https://www.portlandmercury.com/news/after-months-of-political-football-council-funds-housing-for-black-portlanders/" },
+        { "label": "KGW", "url": "https://www.kgw.com/article/news/community/portland-city-council-fund-black-homeownership-housing-project/283-f17252f5-3205-42a9-ad25-0cf53522e354" }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "type": "vote",
+      "title": "Income limits lifted on unsold SDC-exempt homes",
+      "summary": "Council voted 8–3 (Koyama Lane, Zimmerman, Pirtle-Guiney opposed; Avalos absent) to temporarily drop the 100% median-income buyer limit for unsold SDC-exemption homes permitted before 2026, through September 2028. Roughly 700 homes sat unsold; price caps and owner-occupancy rules remain.",
+      "item_id": "2026-205",
+      "links": [
+        { "label": "OPB", "url": "https://www.opb.org/article/2026/07/07/portland-affordable-housing-lower-income-policy-homeownership/" }
+      ]
+    }
+  ]
+}
