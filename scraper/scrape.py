@@ -248,21 +248,35 @@ def merge(index_rows: list[dict], docs: dict[str, dict]) -> None:
         if not item_id:
             continue
         prev = existing.get(item_id, {})
-        actions = []
-        for date, members in sorted(info["dates"].items()):
-            votes = [{
+        if doc["final_votes"]:
+            # The doc page's Votes block is authoritative for the final tally. The votes
+            # view sometimes splits one roll call across two meeting-date headings, so
+            # per-date reconstruction from index rows is only a fallback.
+            fv = doc["final_votes"]
+            final_vote = {
                 "motion": "Final vote",
                 "kind": "passage",
-                "result": "passed" if sum(v == "aye" for v in members.values()) > sum(v == "nay" for v in members.values()) else "failed",
-                "ayes": sorted(m for m, v in members.items() if v == "aye"),
-                "nays": sorted(m for m, v in members.items() if v == "nay"),
-                "absent": sorted(m for m, v in members.items() if v in ("absent", "abstain")),
-            }]
-            actions.append({"date": date, "disposition": "", "votes": votes})
-        # Motion roll calls from the doc page attach to the final-vote date (the votes
-        # view records only final votes; motion dates aren't machine-readable yet).
-        if doc["motions"] and actions:
-            actions[-1]["votes"] = doc["motions"] + actions[-1]["votes"]
+                "result": "passed" if len(fv.get("aye", [])) > len(fv.get("nay", [])) else "failed",
+                "ayes": sorted(fv.get("aye", [])),
+                "nays": sorted(fv.get("nay", [])),
+                "absent": sorted(fv.get("absent", []) + fv.get("abstain", [])),
+            }
+            actions = [{"date": max(info["dates"]), "disposition": "",
+                        "votes": doc["motions"] + [final_vote]}]
+        else:
+            actions = []
+            for date, members in sorted(info["dates"].items()):
+                votes = [{
+                    "motion": "Final vote",
+                    "kind": "passage",
+                    "result": "passed" if sum(v == "aye" for v in members.values()) > sum(v == "nay" for v in members.values()) else "failed",
+                    "ayes": sorted(m for m, v in members.items() if v == "aye"),
+                    "nays": sorted(m for m, v in members.items() if v == "nay"),
+                    "absent": sorted(m for m, v in members.items() if v in ("absent", "abstain")),
+                }]
+                actions.append({"date": date, "disposition": "", "votes": votes})
+            if doc["motions"] and actions:
+                actions[-1]["votes"] = doc["motions"] + actions[-1]["votes"]
         merged = {
             "id": item_id,
             "type": doc["type"],
@@ -275,9 +289,14 @@ def merge(index_rows: list[dict], docs: dict[str, dict]) -> None:
         }
         if prev.get("short_title"):
             merged["short_title"] = prev["short_title"]
-        # Hand-curated items (e.g. pending ones like 2026-280) keep richer local data
-        # if the scrape found strictly less.
-        if prev and not doc["motions"] and len(prev.get("actions", [])) > len(actions):
+        if prev.get("summary") and not merged["summary"]:
+            merged["summary"] = prev["summary"]
+        # Never degrade: existing data (hand-curated or agent-extracted) wins whenever
+        # it holds more roll calls than this scrape produced — motion-prose parsing is
+        # best-effort and must not overwrite a richer record with a poorer one.
+        def _nvotes(acts):
+            return sum(len(a.get("votes", [])) for a in acts)
+        if prev and _nvotes(prev.get("actions", [])) > _nvotes(actions):
             merged["actions"] = prev["actions"]
             merged["status"] = prev.get("status", merged["status"])
         existing[item_id] = merged

@@ -381,20 +381,12868 @@ window.PDX = {
 {"id":"2025-060","type":"ordinance","title":"*Pay settlement of Woodstock et al. civil-rights and personal-injury lawsuit in the sum of $938,328 involving the Portland Police Bureau","short_title":"Police lawsuit settlement ($938,328)","sponsors":["Mayor Keith Wilson"],"url":"https://www.portland.gov/council/documents/ordinance/passed/192025","summary":"Settles the Woodstock et al. civil-rights and personal-injury lawsuit involving the Portland Police Bureau for $938,328. Emergency ordinance effective on passage.","status":"passed","actions":[{"date":"2025-03-05","disposition":"Passed","votes":[{"motion":"Motion to pass the ordinance and approve the settlement","kind":"passage","result":"passed","moved_by":"zimmerman","seconded_by":"novick","ayes":["avalos","dunphy","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["smith"],"absent":[]},{"motion":"Final vote","kind":"passage","result":"passed","ayes":["avalos","dunphy","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["smith"],"absent":[]}]}]},
 {"id":"2025-011","type":"resolution","title":"Appoint Michael Jordan as City Administrator","short_title":"City Administrator appointment","sponsors":["Mayor Keith Wilson"],"url":"https://www.portland.gov/council/documents/resolution/adopted/37697","summary":"Confirms the Mayor's appointment of Michael Jordan as City Administrator under the 2022 voter-approved charter changes establishing a mayor-council form of government. As amended, the resolution states Jordan will serve through January 2, 2026.","status":"passed","actions":[{"date":"2025-02-05","disposition":"Adopted as amended","votes":[{"motion":"Motion to amend the resolution to add \"WHEREAS, Michael Jordan will serve as City Administrator through January 2, 2026\" and add \"in accordance with this resolution\" to the resolved statement","kind":"amendment","result":"passed","moved_by":"avalos","seconded_by":"kanal","ayes":["avalos","dunphy","smith","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":[],"absent":[]},{"motion":"Final vote","kind":"passage","result":"passed","ayes":["avalos","dunphy","smith","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["kanal"],"absent":[]}]}]},
 {"id":"2025-010","type":"resolution","title":"Establish City Council committees","short_title":"City Council committees establishment","sponsors":["Councilor Elana Pirtle-Guiney"],"url":"https://www.portland.gov/council/documents/resolution/adopted/37696","summary":"Establishes the City Council's committee structure under the new form of government created by voter-approved Measure 26-228, which expanded the Council to 12 members elected from four districts.","status":"passed","actions":[{"date":"2025-01-15","disposition":"Adopted","votes":[{"motion":"Final vote","kind":"passage","result":"passed","ayes":["avalos","dunphy","smith","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["kanal"],"absent":[]}]}]},
-{"id":"2025-007","type":"ordinance","title":"*Adopt a Supplemental Budget for City Council and Mayor staffing","short_title":"Council and Mayor staffing supplemental budget","sponsors":["Councilor Elana Pirtle-Guiney"],"url":"https://www.portland.gov/council/documents/ordinance/passed/192020","summary":"Amends the FY 2024-25 budget to increase operating appropriations for City Council by $4,318,424 and the Mayor by $269,810 for staffing under the expanded 12-member council, decreasing General Fund contingency by $4,588,234 to balance.","status":"passed","actions":[{"date":"2025-01-15","disposition":"Passed as amended","votes":[{"motion":"Motion to amend Directive A.1 to replace City Administrator's Office with General Fund Contingency","kind":"amendment","result":"passed","moved_by":"smith","seconded_by":"ryan","ayes":["avalos","dunphy","smith","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":[],"absent":[]},{"motion":"Motion to add an emergency clause, \"The Council declares that an emergency exists in order to have Exhibits 1-2 of this Ordinance as amended be enacted upon passage of this Ordinance...\"","kind":"procedural","result":"passed","moved_by":"dunphy","seconded_by":"clark","ayes":["avalos","dunphy","smith","kanal","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["ryan"],"absent":[]},{"motion":"Motion to adopt Exhibit 1 as amended","kind":"amendment","result":"passed","moved_by":"kanal","seconded_by":"dunphy","ayes":["avalos","dunphy","smith","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":[],"absent":[]},{"motion":"Final vote","kind":"passage","result":"passed","ayes":["avalos","dunphy","smith","kanal","koyama-lane","morillo","clark","green","zimmerman","pirtle-guiney"],"nays":["ryan","novick"],"absent":[]}]}]}
+{"id":"2025-007","type":"ordinance","title":"*Adopt a Supplemental Budget for City Council and Mayor staffing","short_title":"Council and Mayor staffing supplemental budget","sponsors":["Councilor Elana Pirtle-Guiney"],"url":"https://www.portland.gov/council/documents/ordinance/passed/192020","summary":"Amends the FY 2024-25 budget to increase operating appropriations for City Council by $4,318,424 and the Mayor by $269,810 for staffing under the expanded 12-member council, decreasing General Fund contingency by $4,588,234 to balance.","status":"passed","actions":[{"date":"2025-01-15","disposition":"Passed as amended","votes":[{"motion":"Motion to amend Directive A.1 to replace City Administrator's Office with General Fund Contingency","kind":"amendment","result":"passed","moved_by":"smith","seconded_by":"ryan","ayes":["avalos","dunphy","smith","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":[],"absent":[]},{"motion":"Motion to add an emergency clause, \"The Council declares that an emergency exists in order to have Exhibits 1-2 of this Ordinance as amended be enacted upon passage of this Ordinance...\"","kind":"procedural","result":"passed","moved_by":"dunphy","seconded_by":"clark","ayes":["avalos","dunphy","smith","kanal","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":["ryan"],"absent":[]},{"motion":"Motion to adopt Exhibit 1 as amended","kind":"amendment","result":"passed","moved_by":"kanal","seconded_by":"dunphy","ayes":["avalos","dunphy","smith","kanal","ryan","koyama-lane","morillo","novick","clark","green","zimmerman","pirtle-guiney"],"nays":[],"absent":[]},{"motion":"Final vote","kind":"passage","result":"passed","ayes":["avalos","dunphy","smith","kanal","koyama-lane","morillo","clark","green","zimmerman","pirtle-guiney"],"nays":["ryan","novick"],"absent":[]}]}]},
+ {
+  "id": "2026-267",
+  "type": "ordinance",
+  "title": "192212",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192212",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-30",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green",
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-209",
+  "type": "ordinance",
+  "title": "192211",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192211",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 14, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-209, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-217",
+  "type": "report",
+  "title": "2026-217",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/findings-adopted/2026-217",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-192",
+  "type": "ordinance",
+  "title": "192209",
+  "sponsors": [
+   "Councilor Elana Pirtle-Guiney"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192209",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-23",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-216",
+  "type": "ordinance",
+  "title": "192208",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192208",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-23",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-216, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-238",
+  "type": "report",
+  "title": "2026-238",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-238",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 15, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council as amended Motion to amend the Report as shown in Clark 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-203",
+  "type": "resolution",
+  "title": "37749",
+  "sponsors": [
+   "Council President Jamie Dunphy"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37749",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 16, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Resolution, Document Number 2026-203, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-241",
+  "type": "ordinance",
+  "title": "192205",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192205",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-204",
+  "type": "resolution",
+  "title": "37748",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37748",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 16, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Resolution, Document Number 2026-204, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "morillo"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-231",
+  "type": "report",
+  "title": "2026-231",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-231",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "morillo"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-208",
+  "type": "report",
+  "title": "2026-208",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-208",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-07-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 17, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-208, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "morillo"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-174",
+  "type": "ordinance",
+  "title": "192204",
+  "sponsors": [
+   "Councilor Steve Novick City department Permitting & Development Transportation Contact Spencer Knowles Chief of Staff -"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192204",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-174, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-176",
+  "type": "ordinance",
+  "title": "192203",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192203",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda City Life Committee Referred to City Council Unanimous consent to suspend the rules and allow Councilor Zimmerman to cast an aye vote on the previous two motions on items 2026-175 and 2026-176. Motion to refer the Ordinance, Document Number 2026-176,",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-175",
+  "type": "ordinance",
+  "title": "192202",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192202",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda City Life Committee Referred to City Council Unanimous consent to suspend the rules and allow Councilor Zimmerman to cast an aye vote on the previous two motions on items 2026-175 and 2026-176. Motion to refer the Ordinance, Document Number 2026-175,",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-218",
+  "type": "ordinance",
+  "title": "192201",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192201",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane",
+       "ryan",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-210",
+  "type": "report",
+  "title": "2026-210",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-210",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-124",
+  "type": "ordinance",
+  "title": "192200",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192200",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-165",
+  "type": "ordinance",
+  "title": "192199",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192199",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-165, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane",
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-198",
+  "type": "ordinance",
+  "title": "192197",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192197",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-194",
+  "type": "resolution",
+  "title": "37747",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37747",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-199",
+  "type": "ordinance",
+  "title": "192198",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192198",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 10, 2026 Regular agenda City Council Continued Continued to June 11, 2026 at 9:30 am June 11, 2026 Regular agenda City Council Passed to second reading as amended Motion to amend Document 2026-199 as shown in the Technical Amendment",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-197",
+  "type": "ordinance",
+  "title": "192196",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192196",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-195",
+  "type": "ordinance",
+  "title": "192194",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192194",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-166",
+  "type": "ordinance",
+  "title": "192192",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192192",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-166, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-167",
+  "type": "ordinance",
+  "title": "192191",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192191",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 26, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-167, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-177",
+  "type": "ordinance",
+  "title": "192189",
+  "sponsors": [
+   "Council President Jamie Dunphy"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192189",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-181",
+  "type": "ordinance",
+  "title": "192187",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192187",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-180",
+  "type": "ordinance",
+  "title": "192186",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192186",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-169",
+  "type": "report",
+  "title": "2026-169",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-169",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 28, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-169, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney",
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-170",
+  "type": "report",
+  "title": "2026-170",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-170",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-06-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 28, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-170, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "avalos",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney",
+       "novick",
+       "green",
+       "dunphy",
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-159",
+  "type": "ordinance",
+  "title": "192180",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192180",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-27",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 18, 2026 Regular agenda City Council Continued Continued to May 19, 2026 at 9:30 a.m. May 19, 2026 Regular agenda City Council Continued Continued to May 20, 2026 at 9:30 a.m. May 20, 2026 Regular agenda City Council Passed to second reading as amended Motion to amend Exhib",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-179",
+  "type": "ordinance",
+  "title": "192178",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192178",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-27",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-178",
+  "type": "report",
+  "title": "2026-178",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-178",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-27",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-151",
+  "type": "ordinance",
+  "title": "192176",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192176",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-13",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 5, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-151, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-155",
+  "type": "ordinance",
+  "title": "192175",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192175",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-13",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-132",
+  "type": "ordinance",
+  "title": "192174",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192174",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-13",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 14, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-132, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-156",
+  "type": "report",
+  "title": "2026-156",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-156",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-138",
+  "type": "report",
+  "title": "2026-138",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-138",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 15, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-138, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-137",
+  "type": "report",
+  "title": "2026-137",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-137",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-05-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 15, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-137, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-148",
+  "type": "ordinance",
+  "title": "192172",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192172",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-133",
+  "type": "ordinance",
+  "title": "192170",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192170",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 14, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-133, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [
+       "smith"
+      ],
+      "absent": [
+       "kanal"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-131",
+  "type": "ordinance",
+  "title": "192169",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192169",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-23",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 14, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-131, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "clark",
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-143",
+  "type": "report",
+  "title": "2026-143",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-143",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-105",
+  "type": "report",
+  "title": "2026-105",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-105",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 12, 2026 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer Report, Document Number 2026-105, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-128",
+  "type": "ordinance",
+  "title": "192167",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192167",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-127",
+  "type": "ordinance",
+  "title": "192166",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192166",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "morillo"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-106",
+  "type": "resolution",
+  "title": "37746",
+  "sponsors": [
+   "Councilor Angelita Morillo"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37746",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane",
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-114",
+  "type": "resolution",
+  "title": "37745",
+  "sponsors": [
+   "Council Vice President Olivia Clark"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37745",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2026-04-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 2, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council as amended Motion to amend the second to last resolved statement in the Resolution and Exhibit A, Document 2026-114, to change the Street Damage Restoration Fee from 75% to 100%",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [
+       "ryan"
+      ],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "kanal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-119",
+  "type": "ordinance",
+  "title": "192164",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192164",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "morillo"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-077",
+  "type": "ordinance",
+  "title": "192163",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192163",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 23, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-077, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-079",
+  "type": "ordinance",
+  "title": "192162",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192162",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 23, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-079, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-097",
+  "type": "ordinance",
+  "title": "192161",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192161",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 9, 2026 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2026-097, to the full Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-118",
+  "type": "ordinance",
+  "title": "192160",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192160",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-117",
+  "type": "ordinance",
+  "title": "192159",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192159",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-116",
+  "type": "ordinance",
+  "title": "192158",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192158",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-078",
+  "type": "ordinance",
+  "title": "192157",
+  "sponsors": [
+   "Councilor Eric Zimmerman City department City Attorney Service area City Operations Contact Luke Zak Policy Director",
+   ""
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192157",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 23, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-078, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-112",
+  "type": "ordinance",
+  "title": "192155",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192155",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2026-03-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 18, 2026 Regular agenda City Council Passed as amended Item was pulled from the consent agenda for discussion. Motion to amend the Ordinance as shown in Dunphy 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-084",
+  "type": "report",
+  "title": "2026-084",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-084",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 24, 2026 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2026-084, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-083",
+  "type": "report",
+  "title": "2026-083",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-083",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 24, 2026 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2026-083, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-074",
+  "type": "resolution",
+  "title": "37743",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37743",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-073",
+  "type": "ordinance",
+  "title": "192153",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192153",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-087",
+  "type": "report",
+  "title": "2026-087",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-087",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 26, 2026 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer Report, Document Number 2026-087, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-063",
+  "type": "ordinance",
+  "title": "192152",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192152",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 12, 2026 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to approve the staff-proposed technical amendments to Exhibit B of the Ordinance, per the Bureau of Planning and Sustainab",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-053",
+  "type": "ordinance",
+  "title": "192151",
+  "sponsors": [
+   "Councilor Elana Pirtle-Guiney Contact Devin Mullins Chief of Staff",
+   ""
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192151",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 9, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-053, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "avalos",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [
+       "smith",
+       "kanal",
+       "pirtle-guiney",
+       "ryan",
+       "novick",
+       "clark",
+       "zimmerman"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-052",
+  "type": "ordinance",
+  "title": "192150",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192150",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 9, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-052, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-096",
+  "type": "report",
+  "title": "2026-096",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-096",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-050",
+  "type": "ordinance",
+  "title": "192149",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192149",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 9, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-050, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-051",
+  "type": "ordinance",
+  "title": "192148",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192148",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-03-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 9, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-051, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-094",
+  "type": "resolution",
+  "title": "37742",
+  "sponsors": [
+   "Councilor Candace Avalos"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37742",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-26",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "novick",
+       "ryan"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-040",
+  "type": "report",
+  "title": "2026-040",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-040",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 29, 2026 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2026-040, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "ryan",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-037",
+  "type": "ordinance",
+  "title": "192146",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192146",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 27, 2026 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2026-037, to the full Council with the recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-048",
+  "type": "resolution",
+  "title": "37740",
+  "sponsors": [
+   "Councilor Angelita Morillo"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37740",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 9, 2026 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer Resolution, Document Number 2026-048, to the full Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-016",
+  "type": "resolution",
+  "title": "37739",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37739",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 13, 2026 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Resolution, Document Number 2026-026, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-047",
+  "type": "report",
+  "title": "2026-047",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-047",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-471",
+  "type": "ordinance",
+  "title": "192145",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192145",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-475",
+  "type": "ordinance",
+  "title": "192144",
+  "sponsors": [
+   "Council President Jamie Dunphy"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192144",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-11",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 9, 2025 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to amend Ordinance, Document Number 2025-475 with Dunphy 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-481",
+  "type": "resolution",
+  "title": "37736",
+  "sponsors": [
+   "Councilor Angelita Morillo"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37736",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-480",
+  "type": "ordinance",
+  "title": "192143",
+  "sponsors": [
+   "Councilor Angelita Morillo"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192143",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 9, 2025 Regular agenda Community and Public Safety Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to amend Exhibit A to remove the second sentence in Subsection 3.39.020 B.1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [
+       "smith"
+      ],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-018",
+  "type": "report",
+  "title": "2026-018",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-018",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 13, 2026 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the report, Document Number 2026-018, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-017",
+  "type": "resolution",
+  "title": "37735",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37735",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 13, 2026 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the resolution, Document Number 2026-017, to the full Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-008",
+  "type": "ordinance",
+  "title": "192142",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192142",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 12, 2026 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2026-008, to the full Council with a recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-011",
+  "type": "ordinance",
+  "title": "192141",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192141",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 12, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2026-011, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-007",
+  "type": "ordinance",
+  "title": "192140",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192140",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-02-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 12, 2026 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2026-007, to the full Council with a recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-045",
+  "type": "report",
+  "title": "2026-045",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-045",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 29, 2026 Time certain City Council Accepted Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-467",
+  "type": "ordinance",
+  "title": "192139",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192139",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-466, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green",
+       "pirtle-guiney"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-468",
+  "type": "ordinance",
+  "title": "192138",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192138",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-01-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-466, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green",
+       "pirtle-guiney"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-466",
+  "type": "ordinance",
+  "title": "192137",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192137",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2026-01-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-466, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green",
+       "pirtle-guiney"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-483",
+  "type": "ordinance",
+  "title": "192136",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192136",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 11, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-483, to the full Council with no recommendation",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [
+       "ryan",
+       "novick"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-493",
+  "type": "resolution",
+  "title": "37733",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane Contact Aubri Qian Senior"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37733",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-14",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "morillo",
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-003",
+  "type": "resolution",
+  "title": "37732",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37732",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-14",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-002",
+  "type": "resolution",
+  "title": "37731",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37731",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-14",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 5, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the resolution, Document Number 2026-002, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-001",
+  "type": "report",
+  "title": "2026-001",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-001",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-01-14",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 5, 2026 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the report, Document Number 2026-001, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-479",
+  "type": "resolution",
+  "title": "37728",
+  "sponsors": [
+   "Councilor Sameer Kanal"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37728",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 9, 2025 Regular agenda Community and Public Safety Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Resolution, Document Number 2025-479, to City Council with the recommendation that it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [
+       "clark",
+       "zimmerman",
+       "dunphy",
+       "smith",
+       "ryan",
+       "novick",
+       "pirtle-guiney"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-470",
+  "type": "report",
+  "title": "2025-470",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-470",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action December 8, 2025 Regular agenda Governance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-470, to the full Council with the recommendation that it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "morillo",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-500",
+  "type": "resolution",
+  "title": "37727",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37727",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-12-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane",
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-498",
+  "type": "report",
+  "title": "2025-498",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-498",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-12-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-12-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-446",
+  "type": "resolution",
+  "title": "37725",
+  "sponsors": [
+   "Councilor Eric Zimmerman"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37725",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 13, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Resolution, Document Number 2025-446, to the full Council with recommendation the resolution be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-490",
+  "type": "ordinance",
+  "title": "192133",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192133",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-488",
+  "type": "ordinance",
+  "title": "192131",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192131",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-486",
+  "type": "report",
+  "title": "2025-486",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-486",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-485",
+  "type": "resolution",
+  "title": "37724",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37724",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-10",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-462",
+  "type": "ordinance",
+  "title": "192129",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192129",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-432",
+  "type": "ordinance",
+  "title": "192128",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192128",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-432, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-460",
+  "type": "report",
+  "title": "2025-460",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-460",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 18, 2025 Regular agenda Community and Public Safety Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer Report, Document Number 2025-460, to the full Council with recommendation the report be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-440",
+  "type": "report",
+  "title": "2025-440",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-440",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Governance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-440, to the full Council with the recommendation that it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-438",
+  "type": "report",
+  "title": "2025-438",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-438",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2025-438, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-437",
+  "type": "report",
+  "title": "2025-437",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-437",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2025-437, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-435",
+  "type": "ordinance",
+  "title": "192126",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192126",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-435, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-434",
+  "type": "ordinance",
+  "title": "192125",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192125",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-434, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-433",
+  "type": "ordinance",
+  "title": "192124",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192124",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 10, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Ordinance, Document Number 2025-433, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-403",
+  "type": "ordinance",
+  "title": "192123",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192123",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-11-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "kanal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-405",
+  "type": "ordinance",
+  "title": "192121",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192121",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 20, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-405, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-404",
+  "type": "ordinance",
+  "title": "192120",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192120",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 20, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-404, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-428",
+  "type": "ordinance",
+  "title": "192119",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192119",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-377",
+  "type": "resolution",
+  "title": "37722",
+  "sponsors": [
+   "Councilor Loretta Smith"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37722",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-30",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-383",
+  "type": "report",
+  "title": "2025-383",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-383",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 6, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-383, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-419",
+  "type": "ordinance",
+  "title": "192118",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192118",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "kanal",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-409",
+  "type": "report",
+  "title": "2025-409",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-409",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-409, to the full Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-418",
+  "type": "report",
+  "title": "2025-418",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-418",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "kanal",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-351",
+  "type": "resolution",
+  "title": "37720",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37720",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-374",
+  "type": "ordinance",
+  "title": "192117",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192117",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-22",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 23, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-374, to the full Council with the recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-402",
+  "type": "ordinance",
+  "title": "192115",
+  "sponsors": [
+   "Councilor Sameer Kanal"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192115",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-10-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-401",
+  "type": "resolution",
+  "title": "37719",
+  "sponsors": [
+   "Council Vice President Olivia Clark"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37719",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-10-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 15, 2025 Regular agenda City Council Adopted as amended Motion to amend resolution to add \"and visitors\" to instances where it says residents",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-400",
+  "type": "report",
+  "title": "2025-400",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-400",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-370",
+  "type": "resolution",
+  "title": "37718",
+  "sponsors": [
+   "Councilor Dan Ryan Contact Kezia Wanner Chief of Staff email kezia.v.wanner@portlandoregon.gov Kraig Cook"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37718",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-330",
+  "type": "ordinance",
+  "title": "192114",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192114",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-330, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [
+       "kanal"
+      ],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-365",
+  "type": "ordinance",
+  "title": "192113",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192113",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-365, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-363",
+  "type": "ordinance",
+  "title": "192112",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192112",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-363, to the full Council with a recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-362",
+  "type": "ordinance",
+  "title": "192111",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192111",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-362, to the full Council with a recommendation to pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-251",
+  "type": "ordinance",
+  "title": "192110",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192110",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-251, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-250",
+  "type": "ordinance",
+  "title": "192109",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192109",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-250, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-366",
+  "type": "ordinance",
+  "title": "192108",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192108",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-366, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy",
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-361",
+  "type": "resolution",
+  "title": "37717",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37717",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Resolution, Document Number 2025-361, to the full Council with recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "pirtle-guiney",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-339",
+  "type": "ordinance",
+  "title": "192107",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192107",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-339, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-338",
+  "type": "ordinance",
+  "title": "192106",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192106",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-338, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-334",
+  "type": "ordinance",
+  "title": "192105",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192105",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-334, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-332",
+  "type": "ordinance",
+  "title": "192104",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192104",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-332, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos",
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-380",
+  "type": "ordinance",
+  "title": "192103",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192103",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-359",
+  "type": "report",
+  "title": "2025-359",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-359",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 23, 2025 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Resolution, Document Number 2025-359, to the full Council with the recommendation it be approved",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "pirtle-guiney",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-373",
+  "type": "report",
+  "title": "2025-373",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-373",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-10-01",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 23, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-373 to the full Council with the recommendation the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [
+       "zimmerman",
+       "pirtle-guiney"
+      ],
+      "absent": [
+       "clark",
+       "smith",
+       "ryan",
+       "morillo",
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "pirtle-guiney",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-329",
+  "type": "ordinance",
+  "title": "192099",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192099",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 8, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-329, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-301",
+  "type": "ordinance",
+  "title": "192097",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192097",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 11, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-301, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-306",
+  "type": "ordinance",
+  "title": "192096",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192096",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 11, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document numbr 2025-306, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-378",
+  "type": "ordinance",
+  "title": "192102",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192102",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-350",
+  "type": "ordinance",
+  "title": "192101",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192101",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 11, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-350, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "morillo",
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-349",
+  "type": "ordinance",
+  "title": "192100",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192100",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 11, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-349, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "morillo",
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-314",
+  "type": "ordinance",
+  "title": "192095",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192095",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-24",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 12, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-314, to the full Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-204",
+  "type": "resolution",
+  "title": "37716",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37716",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-09-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane",
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-300",
+  "type": "ordinance",
+  "title": "192094",
+  "sponsors": [
+   "Councilor Sameer Kanal"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192094",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 7, 2025 Nine-twelfths agenda City Council Rescheduled Rescheduled to August 13, 2025 at 10:30 a.m. August 13, 2025 Regular agenda City Council Passed to second reading as amended Motion to amend the ordinance as shown in Kanal 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-286",
+  "type": "ordinance",
+  "title": "192092",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192092",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-286, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "koyama-lane",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-303",
+  "type": "report",
+  "title": "2025-303",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-303",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 11, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Report, Document Number 2025-303, to the full Council with the recommendation that it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "avalos",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-325",
+  "type": "report",
+  "title": "2025-325",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-325",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-09-03",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-299",
+  "type": "ordinance",
+  "title": "192091",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192091",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-298",
+  "type": "ordinance",
+  "title": "192090",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192090",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-194",
+  "type": "resolution",
+  "title": "37715",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37715",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 12, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Resolution, Document Number 2025-194 to the full Council with recommendation the resolution be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "koyama-lane",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-297",
+  "type": "ordinance",
+  "title": "192088",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192088",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-296",
+  "type": "report",
+  "title": "2025-296",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-296",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-283",
+  "type": "report",
+  "title": "2025-283",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-283",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-283, to the full Council with recommendation the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-291",
+  "type": "report",
+  "title": "2025-291",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-291",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 24, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council August 6, 2025 Consent agenda City Council Confirmed Item was pulled from the consent agenda for discussion. Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-284",
+  "type": "ordinance",
+  "title": "192089",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192089",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-284, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-247",
+  "type": "ordinance",
+  "title": "192087",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192087",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-247, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-252",
+  "type": "ordinance",
+  "title": "192086",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192086",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Document Number 2025-252, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick",
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-285",
+  "type": "ordinance",
+  "title": "192085",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192085",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-08-06",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-285, to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-197",
+  "type": "ordinance",
+  "title": "192084",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192084",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 12, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-197, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "dunphy"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-217",
+  "type": "ordinance",
+  "title": "192083",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192083",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "dunphy"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-265",
+  "type": "resolution",
+  "title": "37712",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37712",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   },
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 7, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to add a Resolved statement, “BE IT FURTHER RESOLVED that City Council urges the Governor to call a special session, as soon as",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-219",
+  "type": "resolution",
+  "title": "37711",
+  "sponsors": [
+   "Council Vice President Olivia Clark"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37711",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   },
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 3, 2025 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to amend the third Whereas statement to add Columbia River Inter-Tribal Fish Commission, Lower Columbia Estuary Partnership, Portland Metro Cham",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-269",
+  "type": "report",
+  "title": "2025-269",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-269",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   },
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 8, 2025 Regular agenda Arts and Economy Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-269 to the full Council with recommendation the appointment be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-259",
+  "type": "report",
+  "title": "2025-259",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-259",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "morillo",
+       "smith"
+      ]
+     }
+    ]
+   },
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 24, 2025 Regular agenda Community and Public Safety Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to refer the report to the full Council with a do pass recommendation and to divide the appointees",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-274",
+  "type": "resolution",
+  "title": "37713",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37713",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   },
+   {
+    "date": "2025-07-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 8, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Resolution, Document Number 2025-274, to the full Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-243",
+  "type": "ordinance",
+  "title": "192082",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192082",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-262",
+  "type": "report",
+  "title": "2025-262",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-262",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 26, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2025-262, to full Council with the recommendation that the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-235",
+  "type": "report",
+  "title": "2025-235",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-235",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 12, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the Report, Document Number 2025-235, to full Council with the recommendation that the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-281",
+  "type": "resolution",
+  "title": "37710",
+  "sponsors": [
+   "Councilor Elana Pirtle-Guiney"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37710",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-07-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-148",
+  "type": "ordinance",
+  "title": "192081",
+  "sponsors": [
+   "Council President Jamie Dunphy Contact Madeline West Chief of Staff",
+   ""
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192081",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-25",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 8, 2025 Regular agenda Community and Public Safety Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer Ordinance, Document Number 2025-148 to the full Council with recommendation the ordinance be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-227",
+  "type": "ordinance",
+  "title": "192078",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192078",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 9, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-227, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-229",
+  "type": "ordinance",
+  "title": "192075",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192075",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 9, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-229, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-244",
+  "type": "ordinance",
+  "title": "192073",
+  "sponsors": [
+   "Councilor Steve Novick City department Transportation Service area Public Works Contact Zach Ward"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192073",
+  "summary": "",
+  "status": "failed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 18, 2025 Regular agenda City Council Passed as amended Motion to amend Subsection 16.40.910 D.1. in Exhibit A to add \"to help maintain a functional transportation system so permitted private for-hire operators can safely, efficiently, and reliably operate their businesses ",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "failed",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-241",
+  "type": "ordinance",
+  "title": "192071",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192071",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-239",
+  "type": "ordinance",
+  "title": "192069",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192069",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-211",
+  "type": "ordinance",
+  "title": "192077",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192077",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 27, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Ordinance, Document Number 2025-211, to the full Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-245",
+  "type": "ordinance",
+  "title": "192076",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192076",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-228",
+  "type": "ordinance",
+  "title": "192074",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192074",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 9, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, document number 2025-228, to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-242",
+  "type": "ordinance",
+  "title": "192072",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192072",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-240",
+  "type": "ordinance",
+  "title": "192070",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192070",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 10, 2025 Regular agenda City Council Continued Motion to adopt the changes as reflected in Attachments A through H",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "clark",
+       "green",
+       "avalos",
+       "dunphy"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "dunphy"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-238",
+  "type": "resolution",
+  "title": "37708",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37708",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "kanal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-225",
+  "type": "ordinance",
+  "title": "192068",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192068",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 5, 2025 Time certain City Council Passed as amended Motion to amend Section I. in Exhibit A to strike “$2,000,000.00” and replace with “7,500,000.00 from the City and $1,000,000.00 from Prosper Portland”",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-224",
+  "type": "ordinance",
+  "title": "192067",
+  "sponsors": [
+   "Mayor Keith Wilson City department Risk Management Contact Erin Nielsen Senior"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192067",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-226",
+  "type": "ordinance",
+  "title": "192065",
+  "sponsors": [
+   "Councilor Eric Zimmerman City department Portland Children's Levy Agenda type Suspension of rules"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192065",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 4, 2025 Suspension of rules City Council Passed Motion to suspend the rules to add an ordinance to the agenda to extend the current levels of funding in the Portland Children's Levy with authority granted up to the 25% mark to the director for reductions given the reductio",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-166",
+  "type": "resolution",
+  "title": "37707",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37707",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-184",
+  "type": "ordinance",
+  "title": "192064",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192064",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 5, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "kanal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-222",
+  "type": "ordinance",
+  "title": "192063",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192063",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-221",
+  "type": "ordinance",
+  "title": "192062",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192062",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-203",
+  "type": "report",
+  "title": "2025-203",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-203",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 19, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-203 to the full Council with recommendation the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick",
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-198",
+  "type": "report",
+  "title": "2025-198",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-198",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action May 13, 2025 Regular agenda Homelessness and Housing Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Report, Document Number 2025-198 to the full Council with the recommendation it be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-137",
+  "type": "ordinance",
+  "title": "192060",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192060",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 7, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-123",
+  "type": "ordinance",
+  "title": "192055",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192055",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 1, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council as amended Motion to amend Exhibit A to strike the following Enforcement fees: Violation Review, Administrative Review, and under Non-Development: the Administrative Revi",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-093",
+  "type": "resolution",
+  "title": "37706",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37706",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Transportation and Infrastructure Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send Resolution, Document Number 2025-093 to the full Council with recommendation the resolution be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-178",
+  "type": "ordinance",
+  "title": "192054",
+  "sponsors": [
+   "Council President Jamie Dunphy"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192054",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 24, 2025 Regular agenda Labor and Workforce Development Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance, Add Fair Wage Policy Code for certain City service contracts (add Code Chapter 5.70), Document number 2025-178, to ",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-177",
+  "type": "report",
+  "title": "2025-177",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-177",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-08",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 24, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the appointment report to full Council with the recommendation that the appointments be confirmed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": null,
+      "seconded_by": null,
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-191",
+  "type": "ordinance",
+  "title": "192053",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192053",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-118",
+  "type": "ordinance",
+  "title": "192051",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192051",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-131",
+  "type": "ordinance",
+  "title": "192050",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192050",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 7, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [
+       "kanal",
+       "ryan",
+       "morillo",
+       "zimmerman",
+       "avalos",
+       "dunphy",
+       "smith",
+       "pirtle-guiney"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-189",
+  "type": "report",
+  "title": "2025-189",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-189",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-161",
+  "type": "report",
+  "title": "2025-161",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/findings-adopted/2025-161",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-05-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 17, 2025 Time certain City Council Tentatively grant the appeal and overturn the decision of the Hearings Officer to approve the application; prepare findings Prepare findings for May 7, 2025 at 9:45 a.m. time certain Motion to tentatively grant the appeal and overturn th",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "morillo",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-156",
+  "type": "resolution",
+  "title": "37704",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37704",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-23",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-158",
+  "type": "report",
+  "title": "2025-158",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-158",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-04-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-155",
+  "type": "ordinance",
+  "title": "192046",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192046",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-04-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 10, 2025 Regular agenda Labor and Workforce Development Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-153",
+  "type": "ordinance",
+  "title": "192044",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192044",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-04-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 10, 2025 Regular agenda Labor and Workforce Development Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-138",
+  "type": "report",
+  "title": "2025-138",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-138",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 7, 2025 Regular agenda Governance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Report, Document Number 2025-138, to the full Council with the recommendation that it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "koyama-lane",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [
+       "kanal",
+       "avalos"
+      ],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-154",
+  "type": "ordinance",
+  "title": "192045",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192045",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 10, 2025 Regular agenda Labor and Workforce Development Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance to the full Council with the recommendation that it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-101",
+  "type": "resolution",
+  "title": "37703",
+  "sponsors": [
+   "Councilor Mitch Green"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37703",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-128",
+  "type": "ordinance",
+  "title": "192043",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192043",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-126",
+  "type": "ordinance",
+  "title": "192041",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192041",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-116",
+  "type": "ordinance",
+  "title": "192040",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192040",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the Westside Tax Increment Financing District Debt Service Fund to the full Council with the recommendation that it be pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-115",
+  "type": "ordinance",
+  "title": "192039",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192039",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the Sumner-Parkrose-Argay-Columbia Tax Increment Financing District Debt Service Fund to the full Council with the recommen",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-114",
+  "type": "ordinance",
+  "title": "192038",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192038",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the Lloyd-Holladay Tax Increment Financing District Debt Service Fund to the full Council with the recommendation that it b",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-113",
+  "type": "ordinance",
+  "title": "192037",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192037",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the Central Eastside Corridor Tax Increment Financing District Debt Service Fund to the full Council with the recommendatio",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "avalos",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-112",
+  "type": "ordinance",
+  "title": "192036",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192036",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the East 205 Tax Increment Financing District Debt Service Fund to the full Council with the recommendation that it be pass",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-111",
+  "type": "ordinance",
+  "title": "192035",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192035",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 24, 2025 Regular agenda Finance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to send the Emergency Ordinance Create the 82nd Avenue Tax Increment Financing District Debt Service Fund to the full Council with the recommendation that it be p",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-026",
+  "type": "ordinance",
+  "title": "192034",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192034",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-02",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-092",
+  "type": "ordinance",
+  "title": "192033",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192033",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-091",
+  "type": "ordinance",
+  "title": "192032",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192032",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "koyama-lane"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-065",
+  "type": "ordinance",
+  "title": "192030",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192030",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-063",
+  "type": "ordinance",
+  "title": "192028",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192028",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-089",
+  "type": "report",
+  "title": "2025-089",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-089",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-088",
+  "type": "ordinance",
+  "title": "192027",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192027",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-03-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-066",
+  "type": "ordinance",
+  "title": "192031",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192031",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-064",
+  "type": "ordinance",
+  "title": "192029",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192029",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-090",
+  "type": "report",
+  "title": "2025-090",
+  "sponsors": [
+   "Councilor Dan Ryan"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-090",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 19, 2025 Regular agenda City Council Accepted Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-079",
+  "type": "report",
+  "title": "2025-079",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-079",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 13, 2025 Regular agenda Climate, Resilience, and Land Use Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to refer the appointment of Susan Trexler and Jonah James Jensen to the Portland Historic Landmarks Commission to full Council with the ",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "morillo",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "avalos"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-061",
+  "type": "ordinance",
+  "title": "192026",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192026",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-059",
+  "type": "ordinance",
+  "title": "192024",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192024",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 5, 2025 Regular agenda City Council Passed Motion to move the item forward",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-058",
+  "type": "report",
+  "title": "2025-058",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-058",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action March 5, 2025 Regular agenda City Council Confirmed Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "avalos",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-057",
+  "type": "ordinance",
+  "title": "192023",
+  "sponsors": [
+   "Councilor Eric Zimmerman City department City Budget Office Contact Christopher Herr"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192023",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-036",
+  "type": "resolution",
+  "title": "37701",
+  "sponsors": [
+   "Councilor Eric Zimmerman Contact Christopher Herr"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37701",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-029",
+  "type": "ordinance",
+  "title": "192022",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192022",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-03-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "ryan"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-030",
+  "type": "resolution",
+  "title": "37700",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37700",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-02-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 19, 2025 Nine-twelfths agenda City Council Adopted as amended Motion to amend the resolution to replace the Resolved section with “NOW, THEREFORE, BE IT RESOLVED that the City Council of Portland, Oregon, directs the City Administrator to submit a written report to the",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane",
+       "morillo"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-028",
+  "type": "report",
+  "title": "2025-028",
+  "sponsors": [
+   "Mayor Keith Wilson City department Police Service area Public Safety Agenda type Regular"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-028",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-02-20",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 19, 2025 Regular agenda City Council Accepted Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-027",
+  "type": "resolution",
+  "title": "37699",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37699",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 19, 2025 Regular agenda City Council Adopted Motion to call the question",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "clark",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-024",
+  "type": "report",
+  "title": "2025-024",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-024",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 10, 2025 Governance Committee (January 15, 2025 - March 30, 2026) Referred to City Council Motion to move the appointment of Laura Campos to the Cully Tax Increment Finance District Community District Leadership Committee for a term to expire October 1, 2025 be sent to",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-012",
+  "type": "resolution",
+  "title": "37698",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37698",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action February 5, 2025 Regular agenda City Council Adopted Motion to call the question",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-013",
+  "type": "report",
+  "title": "2025-013",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-013",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-005",
+  "type": "report",
+  "title": "2025-005",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/findings-adopted/2025-005",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-02-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 16, 2025 Time certain City Council Continued Verbal and written record are closed. Motion to tentatively grant the demolition review approval with the Portland Permitting and Development staff recommendation, recommended conditions, and ask the staff to return with revi",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick",
+       "clark"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-002",
+  "type": "report",
+  "title": "2025-002",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-002",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-01-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action January 15, 2025 Regular agenda City Council Accepted Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-001",
+  "type": "ordinance",
+  "title": "192021",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192021",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-01-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-004",
+  "type": "ordinance",
+  "title": "192019",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192019",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   },
+   {
+    "date": "2025-01-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "koyama-lane"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-009",
+  "type": "resolution",
+  "title": "37695",
+  "sponsors": [
+   "Councilor Eric Zimmerman"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37695",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-008",
+  "type": "resolution",
+  "title": "37694",
+  "sponsors": [
+   "Councilor Candace Avalos"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37694",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2025-003",
+  "type": "ordinance",
+  "title": "192018",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192018",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-01-15",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ }
 ],
 "meetings": [
-  { "date": "2026-02-24", "agenda_url": "", "item_ids": ["2026-082"], "note": "Arts & Economy Committee" },
-  { "date": "2026-03-11", "agenda_url": "https://www.portland.gov/council/agenda/2026/3/11", "item_ids": ["2026-082"] },
-  { "date": "2026-07-14", "agenda_url": "", "item_ids": ["2026-236"], "note": "City Life Committee" },
-  { "date": "2026-07-15", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
-  { "date": "2026-07-16", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
-  { "date": "2026-07-22", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-222", "2026-223", "2026-236"] },
-  { "date": "2026-07-23", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-205"] },
-  { "date": "2026-07-29", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/29", "item_ids": ["2026-205"] },
-  { "date": "2026-08-05", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=UD8erzI72Fg", "item_ids": ["2026-224", "2026-280"] },
-  { "date": "2026-08-06", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=qM1xO2aDjHc", "item_ids": ["2026-242", "2026-189", "2026-213", "2026-280"] },
-  { "date": "2026-08-12", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/12", "item_ids": ["2026-280"] }
+ {
+  "date": "2025-01-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/1/15",
+  "item_ids": [
+   "2025-010",
+   "2025-002",
+   "2025-001",
+   "2025-004",
+   "2025-007",
+   "2025-009",
+   "2025-008",
+   "2025-003"
+  ]
+ },
+ {
+  "date": "2025-01-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/1/16",
+  "item_ids": [
+   "2025-010",
+   "2025-002",
+   "2025-001",
+   "2025-004"
+  ]
+ },
+ {
+  "date": "2025-02-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/5",
+  "item_ids": [
+   "2025-011",
+   "2025-012",
+   "2025-013",
+   "2025-005"
+  ]
+ },
+ {
+  "date": "2025-02-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/19",
+  "item_ids": [
+   "2025-030",
+   "2025-028",
+   "2025-027",
+   "2025-024"
+  ]
+ },
+ {
+  "date": "2025-02-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/20",
+  "item_ids": [
+   "2025-030",
+   "2025-028"
+  ]
+ },
+ {
+  "date": "2025-03-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/5",
+  "item_ids": [
+   "2025-060",
+   "2025-061",
+   "2025-059",
+   "2025-058",
+   "2025-057",
+   "2025-036",
+   "2025-029"
+  ]
+ },
+ {
+  "date": "2025-03-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/19",
+  "item_ids": [
+   "2025-070",
+   "2025-065",
+   "2025-063",
+   "2025-089",
+   "2025-088",
+   "2025-066",
+   "2025-064",
+   "2025-090",
+   "2025-079"
+  ]
+ },
+ {
+  "date": "2025-03-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/20",
+  "item_ids": [
+   "2025-070",
+   "2025-092",
+   "2025-091",
+   "2025-065",
+   "2025-063",
+   "2025-089",
+   "2025-088"
+  ]
+ },
+ {
+  "date": "2025-04-02",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/2",
+  "item_ids": [
+   "2025-127",
+   "2025-101",
+   "2025-128",
+   "2025-126",
+   "2025-116",
+   "2025-115",
+   "2025-114",
+   "2025-113",
+   "2025-112",
+   "2025-111",
+   "2025-026"
+  ]
+ },
+ {
+  "date": "2025-04-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/16",
+  "item_ids": [
+   "2025-160",
+   "2025-159",
+   "2025-158",
+   "2025-155",
+   "2025-153",
+   "2025-120",
+   "2025-138",
+   "2025-154"
+  ]
+ },
+ {
+  "date": "2025-04-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/17",
+  "item_ids": [
+   "2025-160",
+   "2025-159",
+   "2025-158",
+   "2025-155",
+   "2025-153"
+  ]
+ },
+ {
+  "date": "2025-04-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/23",
+  "item_ids": [
+   "2025-156"
+  ]
+ },
+ {
+  "date": "2025-05-07",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/7",
+  "item_ids": [
+   "2025-190",
+   "2025-095",
+   "2025-191",
+   "2025-118",
+   "2025-131",
+   "2025-189",
+   "2025-161"
+  ]
+ },
+ {
+  "date": "2025-05-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/8",
+  "item_ids": [
+   "2025-177"
+  ]
+ },
+ {
+  "date": "2025-05-21",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/21",
+  "item_ids": [
+   "2025-136",
+   "2025-135",
+   "2025-134",
+   "2025-133",
+   "2025-132",
+   "2025-137",
+   "2025-123",
+   "2025-093",
+   "2025-178"
+  ]
+ },
+ {
+  "date": "2025-06-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/4",
+  "item_ids": [
+   "2025-207",
+   "2025-226",
+   "2025-166",
+   "2025-184",
+   "2025-222",
+   "2025-221",
+   "2025-203",
+   "2025-198"
+  ]
+ },
+ {
+  "date": "2025-06-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/5",
+  "item_ids": [
+   "2025-223",
+   "2025-225",
+   "2025-224"
+  ]
+ },
+ {
+  "date": "2025-06-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/18",
+  "item_ids": [
+   "2025-230",
+   "2025-246",
+   "2025-227",
+   "2025-229",
+   "2025-244",
+   "2025-241",
+   "2025-239",
+   "2025-211",
+   "2025-245",
+   "2025-228",
+   "2025-242",
+   "2025-240",
+   "2025-238"
+  ]
+ },
+ {
+  "date": "2025-06-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/19",
+  "item_ids": [
+   "2025-230",
+   "2025-246",
+   "2025-227",
+   "2025-229",
+   "2025-244",
+   "2025-241",
+   "2025-239"
+  ]
+ },
+ {
+  "date": "2025-06-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/25",
+  "item_ids": [
+   "2025-175",
+   "2025-148"
+  ]
+ },
+ {
+  "date": "2025-07-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/7/16",
+  "item_ids": [
+   "2025-265",
+   "2025-219",
+   "2025-269",
+   "2025-259",
+   "2025-274",
+   "2025-243",
+   "2025-262",
+   "2025-235",
+   "2025-281"
+  ]
+ },
+ {
+  "date": "2025-07-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/7/17",
+  "item_ids": [
+   "2025-197",
+   "2025-217",
+   "2025-265",
+   "2025-219",
+   "2025-269",
+   "2025-259",
+   "2025-274"
+  ]
+ },
+ {
+  "date": "2025-08-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/8/6",
+  "item_ids": [
+   "2025-212",
+   "2025-194",
+   "2025-297",
+   "2025-296",
+   "2025-283",
+   "2025-291",
+   "2025-284",
+   "2025-247",
+   "2025-252",
+   "2025-285"
+  ]
+ },
+ {
+  "date": "2025-08-07",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/8/7",
+  "item_ids": [
+   "2025-280",
+   "2025-299",
+   "2025-298"
+  ]
+ },
+ {
+  "date": "2025-09-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/3",
+  "item_ids": [
+   "2025-186",
+   "2025-300",
+   "2025-286",
+   "2025-303",
+   "2025-325"
+  ]
+ },
+ {
+  "date": "2025-09-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/17",
+  "item_ids": [
+   "2025-204"
+  ]
+ },
+ {
+  "date": "2025-09-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/18",
+  "item_ids": [
+   "2025-204"
+  ]
+ },
+ {
+  "date": "2025-09-24",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/24",
+  "item_ids": [
+   "2025-310",
+   "2025-329",
+   "2025-301",
+   "2025-306",
+   "2025-378",
+   "2025-350",
+   "2025-349",
+   "2025-314"
+  ]
+ },
+ {
+  "date": "2025-10-01",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/1",
+  "item_ids": [
+   "2025-361",
+   "2025-339",
+   "2025-338",
+   "2025-334",
+   "2025-332",
+   "2025-380",
+   "2025-359",
+   "2025-373"
+  ]
+ },
+ {
+  "date": "2025-10-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/8",
+  "item_ids": [
+   "2025-370",
+   "2025-330",
+   "2025-365",
+   "2025-363",
+   "2025-362",
+   "2025-251",
+   "2025-250",
+   "2025-366"
+  ]
+ },
+ {
+  "date": "2025-10-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/15",
+  "item_ids": [
+   "2025-402",
+   "2025-401",
+   "2025-400"
+  ]
+ },
+ {
+  "date": "2025-10-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/16",
+  "item_ids": [
+   "2025-402",
+   "2025-401"
+  ]
+ },
+ {
+  "date": "2025-10-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/22",
+  "item_ids": [
+   "2025-417",
+   "2025-351",
+   "2025-374"
+  ]
+ },
+ {
+  "date": "2025-10-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/29",
+  "item_ids": [
+   "2025-420",
+   "2025-383",
+   "2025-419",
+   "2025-409",
+   "2025-418"
+  ]
+ },
+ {
+  "date": "2025-10-30",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/30",
+  "item_ids": [
+   "2025-377"
+  ]
+ },
+ {
+  "date": "2025-11-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/12",
+  "item_ids": [
+   "2025-405",
+   "2025-404",
+   "2025-428"
+  ]
+ },
+ {
+  "date": "2025-11-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/19",
+  "item_ids": [
+   "2025-045"
+  ]
+ },
+ {
+  "date": "2025-11-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/20",
+  "item_ids": [
+   "2025-045",
+   "2025-403"
+  ]
+ },
+ {
+  "date": "2025-12-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/3",
+  "item_ids": [
+   "2025-436",
+   "2025-430",
+   "2025-429",
+   "2025-462",
+   "2025-432",
+   "2025-460",
+   "2025-440",
+   "2025-438",
+   "2025-437",
+   "2025-435",
+   "2025-434",
+   "2025-433"
+  ]
+ },
+ {
+  "date": "2025-12-10",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/10",
+  "item_ids": [
+   "2025-489",
+   "2025-446",
+   "2025-490",
+   "2025-488",
+   "2025-486",
+   "2025-485"
+  ]
+ },
+ {
+  "date": "2025-12-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/17",
+  "item_ids": [
+   "2025-500",
+   "2025-498",
+   "2025-499"
+  ]
+ },
+ {
+  "date": "2025-12-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/18",
+  "item_ids": [
+   "2025-441",
+   "2025-465",
+   "2025-479",
+   "2025-470",
+   "2025-500",
+   "2025-498"
+  ]
+ },
+ {
+  "date": "2026-01-14",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/14",
+  "item_ids": [
+   "2026-028",
+   "2026-027",
+   "2025-493",
+   "2026-003",
+   "2026-002",
+   "2026-001"
+  ]
+ },
+ {
+  "date": "2026-01-21",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/21",
+  "item_ids": [
+   "2025-468",
+   "2025-466",
+   "2025-483"
+  ]
+ },
+ {
+  "date": "2026-01-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/22",
+  "item_ids": [
+   "2025-468",
+   "2025-466"
+  ]
+ },
+ {
+  "date": "2026-01-28",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/28",
+  "item_ids": [
+   "2025-467"
+  ]
+ },
+ {
+  "date": "2026-01-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/29",
+  "item_ids": [
+   "2026-045"
+  ]
+ },
+ {
+  "date": "2026-02-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/4",
+  "item_ids": [
+   "2026-046",
+   "2026-018",
+   "2026-017",
+   "2026-008",
+   "2026-011",
+   "2026-007"
+  ]
+ },
+ {
+  "date": "2026-02-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/5",
+  "item_ids": [
+   "2025-481",
+   "2025-480"
+  ]
+ },
+ {
+  "date": "2026-02-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/11",
+  "item_ids": [
+   "2026-047",
+   "2025-471",
+   "2025-475"
+  ]
+ },
+ {
+  "date": "2026-02-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/12",
+  "item_ids": [
+   "2026-042",
+   "2026-069"
+  ]
+ },
+ {
+  "date": "2026-02-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/18",
+  "item_ids": [
+   "2026-016"
+  ]
+ },
+ {
+  "date": "2026-02-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/19",
+  "item_ids": [
+   "2026-072",
+   "2026-048",
+   "2026-016"
+  ]
+ },
+ {
+  "date": "2026-02-24",
+  "agenda_url": "",
+  "item_ids": [
+   "2026-082"
+  ],
+  "note": "Arts & Economy Committee"
+ },
+ {
+  "date": "2026-02-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/25",
+  "item_ids": [
+   "2026-071",
+   "2026-040",
+   "2026-037"
+  ]
+ },
+ {
+  "date": "2026-02-26",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/26",
+  "item_ids": [
+   "2026-094"
+  ]
+ },
+ {
+  "date": "2026-03-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/4",
+  "item_ids": [
+   "2026-080",
+   "2026-053",
+   "2026-052",
+   "2026-096",
+   "2026-050",
+   "2026-051"
+  ]
+ },
+ {
+  "date": "2026-03-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/11",
+  "item_ids": [
+   "2026-082",
+   "2026-022",
+   "2026-084",
+   "2026-083",
+   "2026-074",
+   "2026-073",
+   "2026-087",
+   "2026-063"
+  ]
+ },
+ {
+  "date": "2026-03-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/18",
+  "item_ids": [
+   "2026-055",
+   "2026-112"
+  ]
+ },
+ {
+  "date": "2026-03-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/19",
+  "item_ids": [
+   "2026-055",
+   "2026-112"
+  ]
+ },
+ {
+  "date": "2026-04-02",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/2",
+  "item_ids": [
+   "2026-118",
+   "2026-117",
+   "2026-116",
+   "2026-078"
+  ]
+ },
+ {
+  "date": "2026-04-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/8",
+  "item_ids": [
+   "2026-119",
+   "2026-077",
+   "2026-079",
+   "2026-097"
+  ]
+ },
+ {
+  "date": "2026-04-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/15",
+  "item_ids": [
+   "2026-106",
+   "2026-114",
+   "2026-120"
+  ]
+ },
+ {
+  "date": "2026-04-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/16",
+  "item_ids": [
+   "2026-126",
+   "2026-128",
+   "2026-127",
+   "2026-106",
+   "2026-114"
+  ]
+ },
+ {
+  "date": "2026-04-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/22",
+  "item_ids": [
+   "2026-143",
+   "2026-105"
+  ]
+ },
+ {
+  "date": "2026-04-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/23",
+  "item_ids": [
+   "2026-131"
+  ]
+ },
+ {
+  "date": "2026-04-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/29",
+  "item_ids": [
+   "2026-113",
+   "2026-148",
+   "2026-133"
+  ]
+ },
+ {
+  "date": "2026-05-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/6",
+  "item_ids": [
+   "2026-039",
+   "2026-156",
+   "2026-138",
+   "2026-137"
+  ]
+ },
+ {
+  "date": "2026-05-13",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/13",
+  "item_ids": [
+   "2026-144",
+   "2026-151",
+   "2026-155",
+   "2026-132"
+  ]
+ },
+ {
+  "date": "2026-05-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/20",
+  "item_ids": [
+   "2026-134"
+  ]
+ },
+ {
+  "date": "2026-05-27",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/27",
+  "item_ids": [
+   "2026-147",
+   "2026-111",
+   "2026-162",
+   "2026-161",
+   "2026-160",
+   "2026-158",
+   "2026-159",
+   "2026-179",
+   "2026-178"
+  ]
+ },
+ {
+  "date": "2026-06-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/3",
+  "item_ids": [
+   "2026-182",
+   "2026-181",
+   "2026-180",
+   "2026-169",
+   "2026-170"
+  ]
+ },
+ {
+  "date": "2026-06-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/4",
+  "item_ids": [
+   "2026-149",
+   "2026-177"
+  ]
+ },
+ {
+  "date": "2026-06-10",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/10",
+  "item_ids": [
+   "2026-166",
+   "2026-167"
+  ]
+ },
+ {
+  "date": "2026-06-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/11",
+  "item_ids": [
+   "2026-152"
+  ]
+ },
+ {
+  "date": "2026-06-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/17",
+  "item_ids": [
+   "2026-196",
+   "2026-165",
+   "2026-198",
+   "2026-194",
+   "2026-199",
+   "2026-197",
+   "2026-195"
+  ]
+ },
+ {
+  "date": "2026-06-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/18",
+  "item_ids": [
+   "2026-196",
+   "2026-124",
+   "2026-165",
+   "2026-198",
+   "2026-194"
+  ]
+ },
+ {
+  "date": "2026-06-24",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/24",
+  "item_ids": [
+   "2026-210"
+  ]
+ },
+ {
+  "date": "2026-06-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/25",
+  "item_ids": [
+   "2026-174",
+   "2026-176",
+   "2026-175",
+   "2026-218"
+  ]
+ },
+ {
+  "date": "2026-07-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/8",
+  "item_ids": [
+   "2026-204",
+   "2026-231",
+   "2026-208"
+  ]
+ },
+ {
+  "date": "2026-07-14",
+  "agenda_url": "",
+  "item_ids": [
+   "2026-236"
+  ],
+  "note": "City Life Committee"
+ },
+ {
+  "date": "2026-07-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15",
+  "item_ids": [
+   "2026-222",
+   "2026-223"
+  ]
+ },
+ {
+  "date": "2026-07-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15",
+  "item_ids": [
+   "2026-222",
+   "2026-223",
+   "2026-203",
+   "2026-241"
+  ]
+ },
+ {
+  "date": "2026-07-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22",
+  "item_ids": [
+   "2026-222",
+   "2026-223",
+   "2026-236",
+   "2026-238"
+  ]
+ },
+ {
+  "date": "2026-07-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22",
+  "item_ids": [
+   "2026-205",
+   "2026-192",
+   "2026-216"
+  ]
+ },
+ {
+  "date": "2026-07-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/29",
+  "item_ids": [
+   "2026-205",
+   "2026-209",
+   "2026-217"
+  ]
+ },
+ {
+  "date": "2026-07-30",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/30",
+  "item_ids": [
+   "2026-267"
+  ]
+ },
+ {
+  "date": "2026-08-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5",
+  "video_url": "https://www.youtube.com/watch?v=UD8erzI72Fg",
+  "item_ids": [
+   "2026-224",
+   "2026-280"
+  ]
+ },
+ {
+  "date": "2026-08-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5",
+  "video_url": "https://www.youtube.com/watch?v=qM1xO2aDjHc",
+  "item_ids": [
+   "2026-242",
+   "2026-189",
+   "2026-213",
+   "2026-280"
+  ]
+ },
+ {
+  "date": "2026-08-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/12",
+  "item_ids": [
+   "2026-280"
+  ]
+ }
 ],
 "contested_rows": [
     {
