@@ -1,0 +1,630 @@
+{
+ "2026-280": [
+  {
+   "match": "Green-Avalos 1",
+   "description": "Strikes the section committing roughly $275 million in City revenues over 20 years to post-renovation arena capital costs, conditions Joint Authority funding approval on open review of plans and budgets, lets Council remove Joint Authority members, and softens impact-statement economic claims.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Green-Avalos-1_TermSheet_Redline.pdf"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "States that the Mayor\u0027s and City Administrator\u0027s authorizations do not commit any specific funding source, and requires the City to evaluate restricted funds such as PCEF only after receiving itemized cost information in time to run standard eligibility and best-use reviews.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/2026-280-Amendment---Kanal-1.pdf"
+  },
+  {
+   "match": "Morillo 1",
+   "description": "Requires the City Administrator and CFO, at least 30 days before Council votes on final Moda deal documents, to report each funding source under consideration and quantify its opportunity cost (PCEF projects delayed, General Fund service cuts, debt capacity) and compare public benefit per dollar.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/2026-280-Morillo-1-Amendment.pdf"
+  },
+  {
+   "match": "Novick 1",
+   "description": "Raises the ticket user fee from 6 to 7 percent with the extra point usable at the City\u0027s discretion, gives the City all parking revenue from non-Blazers events, and requires at least $2 million per year in Trail Blazers charitable donations.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Novick-1-Amendment-to-2026-280-corrected-format.pdf"
+  },
+  {
+   "match": "Kanal 3",
+   "description": "Raises the ticket user fee on Rose Quarter events from 6 to 7 percent, while dedicating only the first 6 percent to future arena capital projects; the added 1 percent would be kept for other City priorities.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Amendment---2026-280---Kanal-3.pdf"
+  },
+  {
+   "match": "Kanal 2",
+   "description": "Increases Rip City\u0027s annual Property Tax Offset Payment from $3 million to $4 million in year one and raises its yearly escalation from 5 to 6 percent, keeping the proportional split among the County, City, and Portland Public Schools.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Amendment---2026-280---Kanal-2.pdf"
+  },
+  {
+   "match": "Avalos 1",
+   "description": "Has the City retain ownership and control of all existing and future development rights tied to the arena site, Plaza, and adjacent City-owned land, and bars any transfer, lease, or conveyance of those rights without later approval by Council ordinance.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Avalos-1-to-Moda-Term.pdf"
+  },
+  {
+   "match": "Avalos 6",
+   "description": "Requires Rip City to pay the City annual rent for leasing the publicly owned arena, negotiated in the final agreements and kept separate from the Property Tax Offset Payment, revenue sharing, naming-rights revenue, or other financial obligations.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Avalos-6-to-Moda-Term.pdf"
+  },
+  {
+   "match": "Avalos 7",
+   "description": "Requires Rip City\u0027s share of renovation funding to be committed private capital, not additional public funding, future City revenue commitments, lease credits, or subsidies, and requires proof that sufficient financing is secured before the final agreements are signed.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Avalos-7-to-Moda-Term_0.pdf"
+  },
+  {
+   "match": "Avalos 8",
+   "description": "Requires the final deal documents to give the City an equitable share of arena naming-rights revenues, recognizing the City\u0027s ownership of the Moda Center and its public funding contribution to the renovation; the specific split would be set in the definitive agreements.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Avalos-8-to-Moda-Term--1-.pdf"
+  },
+  {
+   "match": "Kanal 4",
+   "description": "Adds a resolved clause directing the Mayor to negotiate final agreements that deliver a return on investment for the City\u0027s financial contributions to the Moda Center renovation, through a combination of deal terms and community benefits.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Amendment---2026-280---Kanal-4.pdf"
+  }
+ ],
+ "2026-205": [
+  {
+   "match": "Pirtle-Guiney/Koyama Lane",
+   "description": "Replaces the blanket removal of homebuyer income limits with a phase-out based on time on market (100 percent of median income initially, no limit after 180 days) for unsold units permitted before 2026, and orders a report on down-payment assistance funding.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/EPG-TKL-1-code-review-complete.pdf"
+  },
+  {
+   "match": "Dunphy amendment",
+   "description": "Extends the changes to the Three-Bedroom Density Bonus Program: for-sale units unsold to an income-qualified buyer after 90 days could sell without income limits, penalties are restructured for for-sale projects, and the City could waive penalties causing owner financial distress.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Dunphy-1-combined--revised-7-23.pdf"
+  }
+ ],
+ "2026-222": [
+  {
+   "match": "Morillo 1",
+   "description": "Expands the restoration package from 48 to 55 positions and from $7.15 million to $13.08 million in PCEF interest, adding six more at-risk positions, $3 million for police training, and a $1.75 million transfer to the Business License Tax Reserve.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Amendment-to-2026-222---Morillo-1.pdf"
+  }
+ ],
+ "2026-223": [
+  {
+   "match": "Dunphy 1",
+   "description": "Changes how the $9.96M contingency draw gets repaid next spring: drops language steering repayment toward police-accountability-office underspending and PCEF interest first, directing the Budget Office to present options across all General Fund bureau underspending without prioritizing particular funds.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/2026-223-Dunphy-1.pdf"
+  },
+  {
+   "match": "Senior Center project",
+   "description": "Three restorations from the Koyama Lane-Kanal 1 amendment, $782,636 total from General Fund contingency: the adaptive-recreation Senior Center project ($375,707, 1 FTE), the International Relations coordinator ($209,669, 1 FTE), and the Ceasefire gun-violence-prevention coordinator ($197,260, 1 FTE).",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Koyama-Lane-Kanal-1-amendment-version-2.pdf"
+  }
+ ],
+ "2026-196": [
+  {
+   "match": "align with Arts Tax ordinance",
+   "description": "Moves $1.15 million within the Arts Education and Access Fund from contingency into the Revenue Division\u0027s operating budget and adds 2.0 positions, one-time, to implement the Arts Tax Code changes Council adopted in Ordinance 192185.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Adopted-Phase-Technical-Amendment---Arts-Tax-06.09.26.pdf"
+  }
+ ],
+ "2026-149": [
+  {
+   "match": "amend Clark 1 to change",
+   "description": "Changes the start date of the foie gras sales ban\u0027s prohibited-conduct section to 180 days after the ordinance takes effect, replacing Clark 1\u0027s earlier fixed start date of July 1, 2027 (the original ordinance used 60 days).",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/2026-149-Amendment---Clark-1-as-amended--May-26--2026-.pdf"
+  },
+  {
+   "match": "Clark 1 as amended",
+   "description": "Adopts Clark 1 as amended: the ban\u0027s prohibited-conduct section (Code Section 17.110.030) takes effect 180 days after the ordinance\u0027s effective date, giving the public and affected businesses and institutions time to transition.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/2026-149-Amendment---Clark-1-as-amended--May-26--2026-.pdf"
+  },
+  {
+   "match": "Zimmerman 1",
+   "description": "Exempts retail and food-service establishments that, as of June 1, 2026, regularly sold or served force-fed products or foods containing them from the ban, allowing that status as an affirmative defense against enforcement.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Zimmerman-1.pdf"
+  }
+ ],
+ "2026-182": [
+  {
+   "match": "Smith, Kanal, Morillo, Dunphy 1",
+   "description": "Switches the $2.5 million funding source from the Revolving Loan and Social Housing Acquisition Fund to the Construction Excise Tax Sub-fund 225020, and waives the code requirement that CET revenue serve housing at or below 60 percent median family income for this appropriation only.",
+   "source": "https://www.portland.gov/sites/default/files/council-documents/2026/Amendment-to-WR-and-SEI-Ordinance-Sponsors--PDF.pdf"
+  }
+ ],
+ "2026-147": [
+  {
+   "match": "Kanal, Dunphy, Pirtle-Guiney, Koyama Lane 1",
+   "description": "Sets the Arts Access Fund Oversight Committee at a fixed nine members instead of a five-to-eleven range, and broadens the two parent seats from parents of K-5 students to parents of K-12 students.",
+   "source": "https://efiles.portlandoregon.gov/record/17900494/file/document/"
+  }
+ ],
+ "2026-111": [
+  {
+   "match": "shown in Kanal 1",
+   "description": "Aligns the chapter\u0027s definitions with state law HB 4138, spells out required and permitted steps in preliminary investigations of suspected police impostors, clarifies incident-reporting requirements, requires uniformed officers to display badge, permanent number, and last name, and exempts violations from criminal code penalties.",
+   "source": "https://efiles.portlandoregon.gov/record/17900489/file/document/"
+  },
+  {
+   "match": "Novick 2",
+   "description": "Requires that Portland Police incident reports on suspected impostor encounters also record whether the officer observed the person wearing a mask or lacking a badge, permanent identifying number, or name tag.",
+   "source": "https://efiles.portlandoregon.gov/record/17900489/file/document/"
+  },
+  {
+   "match": "shown in Pirtle-Guiney and Kanal 1",
+   "description": "Rewrites definitions to align with state law, extends coverage to civil-law enforcement involving detention, specifies which plainclothes roles are exempt from identification rules, streamlines facial-covering documentation, refocuses investigations on potential impostors, and lets the Mayor or Council authorize lawsuits enforcing masking-identification standards against agencies.",
+   "source": "https://efiles.portlandoregon.gov/record/17900489/file/document/"
+  }
+ ],
+ "2026-039": [
+  {
+   "match": "Novick 1 and 2",
+   "description": "Shields property owners from chronic-nuisance designation based solely on nuisance activity they timely reported to police while cooperating in good faith, and removes excessive noise from the list of nuisance activities and quiet-hours suggestions from abatement measures.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Novick 3",
+   "description": "Removes loitering-to-solicit-prostitution from the nuisance-activity list and replaces the prostitution offense category with human trafficking offenses, removing activities that relate more to victims than buyers.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Novick 4",
+   "description": "Extends the deadline for the City and a property owner to reach an abatement agreement from 30 to 60 days, and the time allowed for an agreed plan to actually abate the nuisance from 60 to 90 days.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Novick 5",
+   "description": "Requires the City to weigh the same factors a court would (owner\u0027s actions, finances, problem severity) when choosing required abatement measures, and adds victim-focused options like partnering with peer-led groups, posting trafficking hotline information, and training staff to identify victims.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Novick 6",
+   "description": "Keeps the chronic-nuisance threshold at three incidents rather than lowering it to two, while extending the window from 30 to 90 days, and requires that qualifying police reports document an officer\u0027s probable-cause finding that nuisance activity occurred.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Pirtle-Guiney 3",
+   "description": "Requires the chronic-nuisance notice to be served in person, allowing delivery to an on-site employee when the person in charge is absent, requires a mailed copy to any alternate address in ownership records, and starts the 14-day response clock at delivery.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Novick 7",
+   "description": "Adds a requirement that the City Administrator publicly report each year, for three years after implementation, on how often the chronic nuisance code is used, its outcomes, implementation challenges, and any equity impacts.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "Limits chronic-nuisance designation to nuisance activity occurring on the property itself, deleting the provisions that also counted activity within 200 feet of the property.",
+   "source": "https://efiles.portlandoregon.gov/record/17888678/file/document/"
+  }
+ ],
+ "2026-113": [
+  {
+   "match": "Directive K",
+   "description": "Expands the directive on annual rate setting so PBOT may bring the Council new rate design proposals, not just rate adjustments and inflationary increases, through the yearly budget process.",
+   "source": "https://efiles.portlandoregon.gov/record/17833865/file/document/"
+  },
+  {
+   "match": "Koyama Lane/Zimmerman 1",
+   "description": "Dedicates 25 percent of fee revenue to safety spending, split evenly between Vision Zero work and Sidewalk Improvement and Paving Program projects, bars its use for major roadway expansion, and adds bike lane sweeping to eligible maintenance activities.",
+   "source": "https://efiles.portlandoregon.gov/record/17833865/file/document/"
+  },
+  {
+   "match": "Avalos/Kanal 1",
+   "description": "Extends low-income fee relief to renters in multifamily buildings who are not directly billed for utilities, matching the single-family discount, and orders a redesigned assistance program with a simple application, two-year eligibility, community outreach, and recommendations to Council by December 31, 2026.",
+   "source": "https://efiles.portlandoregon.gov/record/17833865/file/document/"
+  },
+  {
+   "match": "Clark/Green 1",
+   "description": "Accelerates work on an impact-based commercial fee: requires rate-design hearings by February 15 on trip-based and land-use-based models, a recommendation by April 1 implementable January 2028, and an appeals process for businesses whose utility bills overstate their transportation impact.",
+   "source": "https://efiles.portlandoregon.gov/record/17833865/file/document/"
+  }
+ ],
+ "2026-126": [
+  {
+   "match": "ages 15 to 23",
+   "description": "Lowers the maximum age for the committee\u0027s two young-adult member positions, so those seats must be filled by members aged 15 to 23 at appointment instead of 15 to 25.",
+   "source": "https://efiles.portlandoregon.gov/record/17832340/file/document/"
+  }
+ ],
+ "2026-120": [
+  {
+   "match": "Ryan 1",
+   "description": "Amends Smith 1\u0027s rent-assistance eligibility: gives priority for general rent assistance to tenants who have received an eviction notice, and limits the eviction-defense and rapid-rehousing category to tenants with a pending court date or active eviction filing.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Exhibit 1 as shown in Smith 1",
+   "description": "Alternative plan allocating about $40 million in unbudgeted housing funds: itemized rent-assistance and eviction-defense programs, $8.1 million to expand rent buydowns, gap financing for Hacienda and homeownership projects (SEI, Williams \u0026 Russell, Urban Plaza), Broadway Corridor, and about $5.1 million returned to the General Fund.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Pirtle-Guiney 2",
+   "description": "Moves $3.5 million out of the proposed Revolving Loans and Social Housing Acquisition fund to provide gap financing for Hacienda Community Development Corporation\u0027s Monarcha affordable-housing project.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Pirtle-Guiney 1",
+   "description": "Moves $3 million out of the proposed Revolving Loans and Social Housing Acquisition fund into general operating support for deeply affordable, non-market supportive-housing providers; supported units must be at or below 60% AMI, with at least $2 million for units at or below 30% AMI.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Pirtle-Guiney 4",
+   "description": "Adds affordable homeownership opportunities and affordable cooperative-homeownership models to the permitted uses of the proposed Revolving Loans and Social Housing Acquisition fund, alongside long-term affordable housing construction, preservation, and acquisition of properties for social housing and permanent public ownership.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Pirtle-Guiney 3",
+   "description": "Moves $3 million out of the proposed Revolving Loans and Social Housing Acquisition fund to provide gap financing of $1.5 million for Self Enhancement Inc., $1 million for Williams \u0026 Russell, and $500,000 for Urban Plaza.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Zimmerman 1",
+   "description": "Restores Broadway Corridor Parcel 6 to a direct $5.6 million allocation instead of a $4.8 million loan from the TIF River District, adding back $800,000 and removing the requirement that loan repayments flow to the revolving housing fund.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "Adds $2.5 million in additional unbudgeted Portland Housing Bureau funds for affordable-housing gap financing: $1.5 million for Self Enhancement Inc. and $1 million for Williams \u0026 Russell.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Morrillo 1 as amended",
+   "description": "Adopts the four councilors\u0027 roughly $56 million allocation of unbudgeted housing funds: $9M rent assistance, $1.9M eviction defense and right-to-counsel pilot, $8.8M affordable-housing stabilization, landlord-tenant education, downpayment assistance, $8.6M to the General Fund, $5.6M Broadway Corridor, $17.5M revolving loans/social-housing acquisition, $3.5M Hacienda Monarcha.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Ryan 2",
+   "description": "Revises the housing package\u0027s rent-assistance terms: prioritizes the $5 million flexible pre-eviction aid for households that have received an eviction notice, and limits the $2 million eviction-defense category to tenants with a pending court date or active eviction filing.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  },
+  {
+   "match": "Smith 3",
+   "description": "Allocates $1.5 million to Self Enhancement Inc. and $1 million to Williams \u0026 Russell homeownership developments in District 2 from short-term-rental funds, cutting the Revolving Loans and Social Housing Acquisition allocation from $17.5 million to $15 million.",
+   "source": "https://efiles.portlandoregon.gov/record/17832296/file/document/"
+  }
+ ],
+ "2026-055": [
+  {
+   "match": "Morillo 1",
+   "description": "Removes the Auditor\u0027s discretion to extend the 14-day deadlines for reviewing whether a campaign-finance complaint states a violation and for notifying its subject, allowing deadline extensions only for the 30-day investigation period.",
+   "source": "https://efiles.portlandoregon.gov/record/17777878/file/document/"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "Requires the Auditor to send every subject of a campaign-finance complaint a copy within 2 calendar days of receipt, and to publicly post any deadline extension, re-evaluate its good-cause justification every 14 days, and update the posting.",
+   "source": "https://efiles.portlandoregon.gov/record/17777878/file/document/"
+  }
+ ],
+ "2026-022": [
+  {
+   "match": "Novick 1",
+   "description": "Committee amendment restoring the Climate Investment Plan\u0027s existing five-year allocations for Strategic Program 1 (multifamily affordable-housing clean energy, kept at $60 million) and Strategic Program 13 (electric-vehicle financing, kept at $35 million), reversing the PCEF Committee\u0027s proposed $15 million shift from EV financing to housing.",
+   "source": "https://efiles.portlandoregon.gov/record/17777816/file/document/"
+  },
+  {
+   "match": "Avalos 1",
+   "description": "Replaces Exhibit A with the PCEF Committee\u0027s original December 2025 recommendation, restoring its proposed reallocations: cutting Strategic Program 13 (EV financing) from $35 million to $20 million and raising Strategic Program 1 (multifamily affordable-housing clean energy) from $60 million to $78.7 million.",
+   "source": "https://efiles.portlandoregon.gov/record/17777816/file/document/"
+  },
+  {
+   "match": "delete pages 9-11",
+   "description": "Strikes Exhibit A\u0027s replacement of Strategic Program 14 (Access to Fair and Flexible Capital), which would have directed $30 million of the $45 million program to Prosper Portland-administered financing for office-to-residential conversion pilots, commercial clean-energy lending, and anchor-destination upgrades; existing program language remains.",
+   "source": "https://efiles.portlandoregon.gov/record/17777816/file/document/"
+  }
+ ],
+ "2026-071": [
+  {
+   "match": "Kanal 1",
+   "description": "Requires council committees to have four to six councilors, below a Council quorum, instead of \u0027generally\u0027 four to six, and exempts a Committee of the Whole from that size limit; also clarifies that a committee\u0027s quorum is a majority of committee members.",
+   "source": "https://efiles.portlandoregon.gov/record/17748043/file/document/"
+  }
+ ],
+ "2026-072": [
+  {
+   "match": "Dunphy 1, 2 and 3",
+   "description": "Moves police-accountability oversight (OCPA/Independent Police Review) from the Community and Public Safety committee to Finance \u0026 Governance (Committee of the Whole); adds garbage, recycling, compost, and tree programs to Public Works; delays the committee structure\u0027s effective date from March 2 to March 30, 2026.",
+   "source": "https://efiles.portlandoregon.gov/record/17747744/file/document/"
+  },
+  {
+   "match": "Portland Clean Energy Fund",
+   "description": "Would add the Portland Clean Energy Fund to the oversight subjects of Finance \u0026 Governance (Committee of the Whole), placing PCEF oversight before the full 12-member committee.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37741"
+  },
+  {
+   "match": "first Resolved Statement",
+   "description": "Makes the first Resolved statement, which terminates the council\u0027s eight existing standing committees, effective March 30, 2026, aligning their termination with the new committee structure\u0027s start date.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37741"
+  }
+ ],
+ "2026-042": [
+  {
+   "match": "restore the seventh Whereas clause",
+   "description": "Restores to Smith 1 the Whereas clause on public interest in alternative sources of police funding, grounded in fact and sound organizational theory, but with \u0027growing\u0027 deleted, so it asserts \u0027there is public interest\u0027 rather than \u0027growing public interest.\u0027",
+   "source": "https://efiles.portlandoregon.gov/record/17746806/file/document/"
+  },
+  {
+   "match": "Vote on amended Smith 1",
+   "description": "Adopts Smith 1 as amended: reframes the required report from a timeline-and-cost plan for adding 400 officers into a comprehensive organizational assessment of the Police Bureau, replacing the national staffing-ratio and 400-officer Whereas clauses with evidence-based-budgeting, performance-metrics, and major-city staffing-standards language.",
+   "source": "https://efiles.portlandoregon.gov/record/17746806/file/document/"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "Adds a required Retention section (retention patterns and strategies for keeping officers, since recruitment must outpace separations) and factors other public-safety systems, such as BOEC, Parking Enforcement, and Portland Street Response, and their planned changes into staffing standards and cost projections. Adopted without \u0027and CHAT.\u0027",
+   "source": "https://efiles.portlandoregon.gov/record/17746806/file/document/"
+  },
+  {
+   "match": "May 30, 2026",
+   "description": "Would extend the deadline for the Deputy City Administrator for Public Safety to deliver the police staffing report from April 30 to May 30, 2026.",
+   "source": "https://efiles.portlandoregon.gov/record/17746806/file/document/"
+  },
+  {
+   "match": "June 1, 2026",
+   "description": "Extends the deadline for the Deputy City Administrator for Public Safety to deliver the police staffing report from April 30 to June 1, 2026.",
+   "source": "https://efiles.portlandoregon.gov/record/17746806/file/document/"
+  }
+ ],
+ "2026-069": [
+  {
+   "match": "Kanal 1",
+   "description": "Revises the appointment slate for the police accountability board: keeps Schuyler (Hugh) Halsey as a member, removes Weinstein instead, and appoints alternate Jason Ashley to a one-year member term alongside Sommerfeld and Citrenbaum, updating vacancy counts and the Exhibit A roster.",
+   "source": "https://efiles.portlandoregon.gov/record/17746803/file/document"
+  }
+ ],
+ "2026-046": [
+  {
+   "match": "Green 1",
+   "description": "Pushes back each deadline in the records-release resolution by two weeks: the City Administrator\u0027s records disclosure moves from February 6 to February 20, 2026, Council Operations\u0027 compilation from February 13 to February 27, and the initial oversight hearing from February 20 to March 6.",
+   "source": "https://efiles.portlandoregon.gov/record/17744043/file/document"
+  },
+  {
+   "match": "replace the last Resolved Statement",
+   "description": "Replaces the resolution\u0027s final clause requiring Council oversight hearings with direction that the City Administrator investigate the Portland Housing Bureau\u0027s funds, or work with the City Auditor on an audit of those finances, beginning within the next month.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37734"
+  }
+ ],
+ "2025-441": [
+  {
+   "match": "Ryan 1",
+   "description": "Requires four strategic-planning meetings of at least four hours (instead of a minimum of one), suspends policy committees during that period, allows a skilled contractor as facilitator, sets a January 31 framework deadline, and requires 75 percent of councilors present to approve the framework.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Kanal 1.1",
+   "description": "Changes who facilitates the strategic priority-setting meetings: Council Operations, or a facilitator chosen by the Council, would run them instead of the City Administrator or their designee coordinating with Council leadership.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Kanal 1.2",
+   "description": "Moves the annual deadline for the Council President or Vice President to bring forward the Council\u0027s strategic framework resolution from February 28 to January 31, replacing the requirement that it be placed on a Council agenda.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Kanal 1.3",
+   "description": "Adds policy committee leadership to those identifying emergent issues that receive special consideration while committees are suspended for priority setting; such matters can be addressed at full Council until the strategic framework is adopted or January 31.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Kanal-Ryan 1",
+   "description": "Removes the City Administrator as facilitator of the strategic planning meetings; instead the Administrator and designees are invited as subject-matter experts, and the Council President, Vice President, and City Administrator jointly select the facilitators.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Avalos 3",
+   "description": "Requires the final strategic priority framework to clearly identify areas of consensus, areas of divergence, and unresolved priorities, so the document reflects where councilors disagree rather than presenting only shared priorities.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Avalos 4",
+   "description": "Provides that adopting a shared Council strategic framework cannot be interpreted or applied to limit, deprioritize, or discourage consideration of district-specific, culturally specific, or equity-driven issues, even when those issues are not identified as citywide shared priorities.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Avalos 6",
+   "description": "Declares the strategic priority framework advisory only and bars Council leadership, the City Administrator, or city staff from using it to delay, block, or discourage the introduction, referral, consideration, or advancement of any councilor\u0027s legislation.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  },
+  {
+   "match": "Avalos 7",
+   "description": "Requires Council to review the strategic priority-setting process after its first year, evaluating its impacts on equity, committee autonomy, and legislative responsiveness, with Council keeping authority to amend or repeal the process.",
+   "source": "https://efiles.portlandoregon.gov/record/17684837/file/document"
+  }
+ ],
+ "2025-465": [
+  {
+   "match": "Avalos 1",
+   "description": "Directs the City Budget Office to build on the Parks pilot by developing a scalable reporting framework, returning to Council by October 2026 with a standardized template, bureau readiness assessment, and implementation schedule, so every bureau produces comparable revenue-and-expense breakdowns by FY 2027-28.",
+   "source": "https://efiles.portlandoregon.gov/record/17684834/file/document"
+  }
+ ],
+ "2025-436": [
+  {
+   "match": "Kanal 1",
+   "description": "Adds resolved clauses urging development of Ethical Investment Policy options for public Council presentation by August 31, 2026, committing Council to seek human-rights screening so the City avoids investing in companies enabling war or abuses like genocide, and encouraging community outreach beforehand.",
+   "source": "https://efiles.portlandoregon.gov/record/17577497/file/document"
+  }
+ ],
+ "2025-429": [
+  {
+   "match": "Morillo 1",
+   "description": "Replaces the ordinance\u0027s own broad detention-facility definition (which expressly covered civil or administrative detention run by government contractors) with the zoning code\u0027s Chapter 33.920 definition, assigns fee administration to the City Administrator rather than the Revenue Division, and drops the dedicated impact fund requirement.",
+   "source": "https://efiles.portlandoregon.gov/record/17577479/file/document"
+  }
+ ],
+ "2025-045": [
+  {
+   "match": "adopt the amendments to the ordinance",
+   "description": "Scales tenant-lawsuit damages to landlord size: fewer than 5 units, actual damages; 5-15 units, treble damages; 16 or more, treble damages or $10,000 per lease period — replacing a flat treble-or-$10,000 rule for all landlords.",
+   "source": "https://efiles.portlandoregon.gov/Record/17577417/file/document"
+  },
+  {
+   "match": "definition of public date",
+   "description": "Broadens the \u0027public data\u0027 definition (information exempt from the ban) so listed examples — asking price, concessions, amenities, availability shared with prospective renters — are illustrative rather than an exhaustive list.",
+   "source": "https://efiles.portlandoregon.gov/Record/17577417/file/document"
+  },
+  {
+   "match": "proposed amendment dated October 2, 2025",
+   "description": "Replaces the code exhibit with a narrower version: defines price fixing as coordination between beneficial owners, excludes routine data analysis, property management, and regulated affordable housing operations, and bars damages where a defendant shows it unknowingly used a price-fixing service.",
+   "source": "https://efiles.portlandoregon.gov/Record/17577417/file/document"
+  }
+ ],
+ "2025-420": [
+  {
+   "match": "remove \"in the Governance Committee\"",
+   "description": "Would drop the requirement that the forthcoming package of amendments to the council procedure code (City Code Chapter 3.02) be scheduled in the Governance Committee, leaving open which venue considers those amendments.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37721"
+  }
+ ],
+ "2025-186": [
+  {
+   "match": "J.1. to strike resolutions and reports",
+   "description": "Removes resolutions and reports from the matters on which the Mayor casts a tie-breaking vote, leaving the tie-breaker for non-emergency ordinances and quasi-judicial matters only.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192093"
+  },
+  {
+   "match": "strike everything after the first sentence",
+   "description": "Changes what happens when the Mayor is unavailable to break a 6-6 tie: the vote simply fails, deleting language deeming the tie inconclusive and allowing revotes and automatic postponement.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192093"
+  },
+  {
+   "match": "Avalos 1",
+   "description": "Requires a 6-6 result to recur in at least two subsequent voting rounds before it counts as a tie, keeps the Mayor\u0027s tie-breaker limited to non-emergency ordinances and quasi-judicial matters, and makes a measure fail if the Mayor is unavailable.",
+   "source": "https://efiles.portlandoregon.gov/Record/17483403/file/document"
+  },
+  {
+   "match": "to replace Subsection J.2",
+   "description": "When the Mayor cannot break a 6-6 tie during the meeting, deems the vote inconclusive and automatically reschedules the matter to the next council meeting solely for the Mayor to vote; if the Mayor is again absent, it counts as a no vote.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192093"
+  },
+  {
+   "match": "restore \"resolutions, reports\"",
+   "description": "Would re-add resolutions and reports to the matters on which the Mayor casts a tie-breaking vote, reversing the earlier committee amendment that narrowed the tie-breaker to ordinances and quasi-judicial matters.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192093"
+  },
+  {
+   "match": "Kanal 1",
+   "description": "Rewrites the tie-breaking rule: the Mayor breaks 6-6 ties on non-emergency ordinances, resolutions, reports, and quasi-judicial matters; if unavailable, the matter is postponed to the next meeting solely for the Mayor\u0027s vote, and continued absence counts as a no vote.",
+   "source": "https://efiles.portlandoregon.gov/Record/17483403/file/document"
+  }
+ ],
+ "2025-212": [
+  {
+   "match": "Age- and Disability-Inclusive Neighborhoods Action Plan",
+   "description": "Adds the Age- and Disability-Inclusive Neighborhoods Action Plan to the resolution\u0027s list of existing city plans and strategies that will inform the unified citywide housing strategy.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37714"
+  },
+  {
+   "match": "homelessness prevention",
+   "description": "Adds homelessness prevention to the policy areas the City Administrator must assess and fold into the unified citywide housing strategy, alongside production, preservation, sheltering, zoning, anti-displacement, and other listed topics.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37714"
+  }
+ ],
+ "2025-175": [
+  {
+   "match": "Kanal 1",
+   "description": "Recasts PSR as an integrated branch of the 911 first-response system like police and fire, recommits it to behavioral-health crisis response rather than general homeless outreach, extends the PSR Committee\u0027s sunset to March 31, 2026, and moves report-back deadlines to October 2025.",
+   "source": "https://efiles.portlandoregon.gov/Record/17423157/file/document"
+  }
+ ],
+ "2025-136": [
+  {
+   "match": "Parking Meter Rate proposal (Exhibit A)",
+   "description": "Would have frozen non-event parking meter rates at current levels for FY 2025-26 in the Central Eastside, Downtown, Lloyd, Marquam Hill, and Northwest meter districts, forgoing proposed performance-based increases of up to $0.40-$0.60 per hour.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192061"
+  },
+  {
+   "match": "increase the TNC per ride fee to $2.00",
+   "description": "Raises the per-ride fee charged to transportation network companies (Uber and Lyft trips) in the FY 2025-26 transportation fee schedule to $2.00, up from $0.65.",
+   "source": "https://efiles.portlandoregon.gov/Record/17392146/file/document"
+  }
+ ],
+ "2025-134": [
+  {
+   "match": "recalculate rates in Exhibit A",
+   "description": "Directs staff to recalculate the FY 2025-26 sewer and stormwater rates in Exhibit A to restore the schedule as originally proposed, before the Mayor\u0027s guidance to adjust the planned rate increases downward by 5 percent.",
+   "source": "https://efiles.portlandoregon.gov/record/17392115/file/document/"
+  }
+ ],
+ "2025-095": [
+  {
+   "match": "amendments to the Resolved statements for the Resolution",
+   "description": "Revises the resolution\u0027s Resolved statements to clarify SIPP\u0027s program objectives and directives to PBOT, and to specify that PBOT will partner with small businesses and contractors, National Association of Minority Contractors members and COBID-certified firms, under the City\u0027s inclusive contracting practices.",
+   "source": "https://efiles.portlandoregon.gov/record/17385431/file/document/"
+  },
+  {
+   "match": "Councilor Morillo\u0027s proposed edit",
+   "description": "Adds a Whereas tying the lack of active-transportation investment to the City\u0027s climate goals, requires a follow-up resolution evaluating SIPP financing options with the City Budget Office through the Finance Committee, routes Portland Clean Energy Fund options to the Climate committee, and updates the impact statement.",
+   "source": "https://efiles.portlandoregon.gov/record/17385431/file/document/"
+  },
+  {
+   "match": "and alternative pathways",
+   "description": "Adds \"and alternative pathways\" to SIPP\u0027s first program objective, so the program covers building and maintaining alternative walkway types as well as standard sidewalks, giving PBOT flexibility where full sidewalks may not fit.",
+   "source": "https://efiles.portlandoregon.gov/record/17385431/file/document/"
+  },
+  {
+   "match": "PBOT\u0027s Building Belonging Guide",
+   "description": "Requires PBOT staff to also use the bureau\u0027s Building Belonging Guide, an anti-displacement framework developed for PBOT, alongside existing pedestrian plans and the PBOT Equity Matrix when prioritizing SIPP projects.",
+   "source": "https://efiles.portlandoregon.gov/record/17385431/file/document/"
+  },
+  {
+   "match": "remove references to Districts 1 and 4",
+   "description": "Would have deleted the specific mentions of Districts 1 and 4 from the sixth and ninth Whereas clauses, the findings on prioritizing investments and on cooling-corridor benefits, removing the preamble\u0027s emphasis on those two districts.",
+   "source": "https://efiles.portlandoregon.gov/record/17385431/file/document/"
+  }
+ ],
+ "2025-160": [
+  {
+   "match": "reduce the renewal rate to 11.9%",
+   "description": "Adopts the PPA board\u0027s recommended plan-design package (Kaiser copay and deductible changes, utilization management, higher stop-loss limit) cutting the health renewal increase from 16% to 11.9%, and drops the Mayor\u0027s proposed deeper Kaiser benefit reductions; the City funds the gap above the budgeted 8%, about $638,650.",
+   "source": "https://efiles.portlandoregon.gov/record/17349127/file/document/"
+  }
+ ],
+ "2025-159": [
+  {
+   "match": "reduce the renewal rate to 10%",
+   "description": "Replaces the deeper plan cuts that would have held the benefits renewal at 8% with milder plan-design changes (Garner, Hinge Health, surgery Centers of Excellence, Transcarent, smaller Kaiser adjustments, no CityCore deductible increase), setting a 10% renewal and adding about $2.68 million in FY 2025-26 costs.",
+   "source": "https://efiles.portlandoregon.gov/record/17349046/file/document/"
+  }
+ ],
+ "2025-120": [
+  {
+   "match": "General Fund return decision packages",
+   "description": "Would have kept about $837,000 in the Public Safety service area instead of returning it to the General Fund, converting two packages to program carryovers: $100,000 for a contact-survey program and $737,427 in Portland Fire \u0026 Rescue firefighter funding.",
+   "source": "https://efiles.portlandoregon.gov/record/17346607/file/document/"
+  }
+ ],
+ "2025-070": [
+  {
+   "match": "fourth Resolved statement",
+   "description": "Cites the City\u0027s franchise-code authority (PCC 7.12.030) as the legal basis for the Mayor\u0027s investigation into Zenith\u0027s alleged franchise violations, and removes the requirement that the investigation include independent review to ensure impartiality.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37702"
+  },
+  {
+   "match": "attachments C1, C2, E, F, G1, and H",
+   "description": "Strips the resolution\u0027s findings based on Street Roots and Desmog investigative reporting, community allegations of Zenith\u0027s dishonesty, LUCS application-date discrepancies, and claimed conflicts between staff statements and public records, along with six supporting attachments including the 350PDX discrepancy document.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37702"
+  },
+  {
+   "match": "13-20 and attachment H",
+   "description": "Strips the resolution\u0027s findings drawn from investigative reporting, community dishonesty allegations, and LUCS and staff-statement discrepancies, but deletes only one attachment: the 350PDX document alleging City staff\u0027s January 21 statements conflicted with public records.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37702"
+  },
+  {
+   "match": "remove Attachment H",
+   "description": "Deletes a single attachment: the 350PDX-authored document alleging factual discrepancies between City staff\u0027s January 21 work-session statements and public records. All of the resolution\u0027s Whereas findings stay intact.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37702"
+  }
+ ],
+ "2025-011": [
+  {
+   "match": "in accordance with this resolution",
+   "description": "Puts an explicit end date on Michael Jordan\u0027s appointment as City Administrator — serving through January 2, 2026 — converting an otherwise open-ended confirmation into a fixed term tied to the resolution\u0027s terms.",
+   "source": "https://www.portland.gov/council/documents/resolution/adopted/37697"
+  }
+ ],
+ "2025-007": [
+  {
+   "match": "Directive A.1",
+   "description": "Changes the funding source for the roughly $4.6 million in new Council and Mayor staffing: the money is drawn from the General Fund\u0027s contingency reserve instead of being cut from the City Administrator\u0027s Office budget.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192020"
+  },
+  {
+   "match": "adopt Exhibit 1 as amended",
+   "description": "Adopts the detailed staffing budget with the contingency-funding change: one senior council aide plus $261,677 in materials funding for each of the 12 council offices and three added Mayor\u0027s Office positions, bringing each council office to roughly $1.6 million annually.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192020"
+  }
+ ],
+ "2025-132": [
+  {
+   "match": "restores a rate schedule",
+   "description": "Replaces the FY 2025-26 water rate schedule in Exhibit A with the higher rates planned before Mayor Wilson\u0027s guidance to trim proposed rate increases by 5 percent; as amended, the ordinance sets a 6.3% average retail water rate increase.",
+   "source": "https://www.portland.gov/council/documents/ordinance/passed/192056"
+  }
+ ]
+}

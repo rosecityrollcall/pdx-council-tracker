@@ -24,12 +24,14 @@ def main() -> None:
         annotations[a["item_id"]] = a
 
     contested = DATA / "contested-nay-rows.json"
+    notes = DATA / "motion-notes.json"
     payload = {
         "generated": datetime.date.today().isoformat(),
         "councilors": load("councilors.json"),
         "items": load("items.json"),
         "meetings": load("meetings.json"),
         "contested_rows": load("contested-nay-rows.json") if contested.exists() else [],
+        "motion_notes": load("motion-notes.json") if notes.exists() else {},
         "annotations": annotations,
     }
     out = ROOT / "site" / "js" / "data.js"

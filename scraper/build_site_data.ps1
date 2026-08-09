@@ -18,6 +18,8 @@ Get-ChildItem (Join-Path $data "annotations") -Filter *.json | Sort-Object Name 
 $generated = Get-Date -Format "yyyy-MM-dd"
 $contestedPath = Join-Path $data "contested-nay-rows.json"
 $contested = if (Test-Path $contestedPath) { Read-Raw $contestedPath } else { "[]" }
+$notesPath = Join-Path $data "motion-notes.json"
+$motionNotes = if (Test-Path $notesPath) { Read-Raw $notesPath } else { "{}" }
 $json = @"
 {
 "generated": "$generated",
@@ -25,6 +27,7 @@ $json = @"
 "items": $(Read-Raw (Join-Path $data "items.json")),
 "meetings": $(Read-Raw (Join-Path $data "meetings.json")),
 "contested_rows": $contested,
+"motion_notes": $motionNotes,
 "annotations": { $($annoParts -join ",`n") }
 }
 "@

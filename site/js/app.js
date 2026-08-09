@@ -257,9 +257,19 @@
       html += '<h2>' + fmtDate(ac.date) + '</h2>' +
         '<div class="card"><p class="m-sub" style="margin-top:0">Disposition: ' + esc(ac.disposition || '—') + '</p>';
       (ac.votes || []).forEach(function (v) {
+        var desc = v.description, src = null;
+        if (!desc) {
+          var mns = (D.motion_notes || {})[it.id] || [];
+          for (var i = 0; i < mns.length; i++) {
+            if (v.motion.toLowerCase().indexOf(mns[i].match.toLowerCase()) >= 0) {
+              desc = mns[i].description; src = mns[i].source; break;
+            }
+          }
+        }
         html += '<div class="motion"><div class="m-title">' + esc(v.motion) +
           ' <span class="result-chip ' + esc(v.result) + '">' + esc(v.result) + '</span></div>' +
-          (v.description ? '<div class="m-sub">' + esc(v.description) + '</div>' : '') +
+          (desc ? '<div class="m-sub">' + esc(desc) +
+            (src ? ' <a href="' + esc(src) + '" target="_blank" rel="noopener">amendment text ↗</a>' : '') + '</div>' : '') +
           voteStrip(v) + '</div>';
       });
       if (!(ac.votes || []).length) html += '<p class="m-sub">No roll-call vote recorded for this session.</p>';
