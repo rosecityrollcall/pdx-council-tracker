@@ -1,13 +1,921 @@
 [
-  { "date": "2026-02-24", "agenda_url": "", "item_ids": ["2026-082"], "note": "Arts & Economy Committee" },
-  { "date": "2026-03-11", "agenda_url": "https://www.portland.gov/council/agenda/2026/3/11", "item_ids": ["2026-082"] },
-  { "date": "2026-07-14", "agenda_url": "", "item_ids": ["2026-236"], "note": "City Life Committee" },
-  { "date": "2026-07-15", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
-  { "date": "2026-07-16", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15", "item_ids": ["2026-222", "2026-223"] },
-  { "date": "2026-07-22", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-222", "2026-223", "2026-236"] },
-  { "date": "2026-07-23", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22", "item_ids": ["2026-205"] },
-  { "date": "2026-07-29", "agenda_url": "https://www.portland.gov/council/agenda/2026/7/29", "item_ids": ["2026-205"] },
-  { "date": "2026-08-05", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=UD8erzI72Fg", "item_ids": ["2026-224", "2026-280"] },
-  { "date": "2026-08-06", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5", "video_url": "https://www.youtube.com/watch?v=qM1xO2aDjHc", "item_ids": ["2026-242", "2026-189", "2026-213", "2026-280"] },
-  { "date": "2026-08-12", "agenda_url": "https://www.portland.gov/council/agenda/2026/8/12", "item_ids": ["2026-280"] }
+ {
+  "date": "2025-01-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/1/15",
+  "item_ids": [
+   "2025-010",
+   "2025-002",
+   "2025-001",
+   "2025-004",
+   "2025-007",
+   "2025-009",
+   "2025-008",
+   "2025-003"
+  ]
+ },
+ {
+  "date": "2025-01-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/1/16",
+  "item_ids": [
+   "2025-010",
+   "2025-002",
+   "2025-001",
+   "2025-004"
+  ]
+ },
+ {
+  "date": "2025-02-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/5",
+  "item_ids": [
+   "2025-011",
+   "2025-012",
+   "2025-013",
+   "2025-005"
+  ]
+ },
+ {
+  "date": "2025-02-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/19",
+  "item_ids": [
+   "2025-030",
+   "2025-028",
+   "2025-027",
+   "2025-024"
+  ]
+ },
+ {
+  "date": "2025-02-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/2/20",
+  "item_ids": [
+   "2025-030",
+   "2025-028"
+  ]
+ },
+ {
+  "date": "2025-03-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/5",
+  "item_ids": [
+   "2025-060",
+   "2025-061",
+   "2025-059",
+   "2025-058",
+   "2025-057",
+   "2025-036",
+   "2025-029"
+  ]
+ },
+ {
+  "date": "2025-03-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/19",
+  "item_ids": [
+   "2025-070",
+   "2025-065",
+   "2025-063",
+   "2025-089",
+   "2025-088",
+   "2025-066",
+   "2025-064",
+   "2025-090",
+   "2025-079"
+  ]
+ },
+ {
+  "date": "2025-03-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/3/20",
+  "item_ids": [
+   "2025-070",
+   "2025-092",
+   "2025-091",
+   "2025-065",
+   "2025-063",
+   "2025-089",
+   "2025-088"
+  ]
+ },
+ {
+  "date": "2025-04-02",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/2",
+  "item_ids": [
+   "2025-127",
+   "2025-101",
+   "2025-128",
+   "2025-126",
+   "2025-116",
+   "2025-115",
+   "2025-114",
+   "2025-113",
+   "2025-112",
+   "2025-111",
+   "2025-026"
+  ]
+ },
+ {
+  "date": "2025-04-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/16",
+  "item_ids": [
+   "2025-160",
+   "2025-159",
+   "2025-158",
+   "2025-155",
+   "2025-153",
+   "2025-120",
+   "2025-138",
+   "2025-154"
+  ]
+ },
+ {
+  "date": "2025-04-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/17",
+  "item_ids": [
+   "2025-160",
+   "2025-159",
+   "2025-158",
+   "2025-155",
+   "2025-153"
+  ]
+ },
+ {
+  "date": "2025-04-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/4/23",
+  "item_ids": [
+   "2025-156"
+  ]
+ },
+ {
+  "date": "2025-05-07",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/7",
+  "item_ids": [
+   "2025-190",
+   "2025-095",
+   "2025-191",
+   "2025-118",
+   "2025-131",
+   "2025-189",
+   "2025-161"
+  ]
+ },
+ {
+  "date": "2025-05-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/8",
+  "item_ids": [
+   "2025-177"
+  ]
+ },
+ {
+  "date": "2025-05-21",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/5/21",
+  "item_ids": [
+   "2025-136",
+   "2025-135",
+   "2025-134",
+   "2025-133",
+   "2025-132",
+   "2025-137",
+   "2025-123",
+   "2025-093",
+   "2025-178"
+  ]
+ },
+ {
+  "date": "2025-06-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/4",
+  "item_ids": [
+   "2025-207",
+   "2025-226",
+   "2025-166",
+   "2025-184",
+   "2025-222",
+   "2025-221",
+   "2025-203",
+   "2025-198"
+  ]
+ },
+ {
+  "date": "2025-06-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/5",
+  "item_ids": [
+   "2025-223",
+   "2025-225",
+   "2025-224"
+  ]
+ },
+ {
+  "date": "2025-06-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/18",
+  "item_ids": [
+   "2025-230",
+   "2025-246",
+   "2025-227",
+   "2025-229",
+   "2025-244",
+   "2025-241",
+   "2025-239",
+   "2025-211",
+   "2025-245",
+   "2025-228",
+   "2025-242",
+   "2025-240",
+   "2025-238"
+  ]
+ },
+ {
+  "date": "2025-06-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/19",
+  "item_ids": [
+   "2025-230",
+   "2025-246",
+   "2025-227",
+   "2025-229",
+   "2025-244",
+   "2025-241",
+   "2025-239"
+  ]
+ },
+ {
+  "date": "2025-06-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/6/25",
+  "item_ids": [
+   "2025-175",
+   "2025-148"
+  ]
+ },
+ {
+  "date": "2025-07-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/7/16",
+  "item_ids": [
+   "2025-265",
+   "2025-219",
+   "2025-269",
+   "2025-259",
+   "2025-274",
+   "2025-243",
+   "2025-262",
+   "2025-235",
+   "2025-281"
+  ]
+ },
+ {
+  "date": "2025-07-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/7/17",
+  "item_ids": [
+   "2025-197",
+   "2025-217",
+   "2025-265",
+   "2025-219",
+   "2025-269",
+   "2025-259",
+   "2025-274"
+  ]
+ },
+ {
+  "date": "2025-08-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/8/6",
+  "item_ids": [
+   "2025-212",
+   "2025-194",
+   "2025-297",
+   "2025-296",
+   "2025-283",
+   "2025-291",
+   "2025-284",
+   "2025-247",
+   "2025-252",
+   "2025-285"
+  ]
+ },
+ {
+  "date": "2025-08-07",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/8/7",
+  "item_ids": [
+   "2025-280",
+   "2025-299",
+   "2025-298"
+  ]
+ },
+ {
+  "date": "2025-09-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/3",
+  "item_ids": [
+   "2025-186",
+   "2025-300",
+   "2025-286",
+   "2025-303",
+   "2025-325"
+  ]
+ },
+ {
+  "date": "2025-09-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/17",
+  "item_ids": [
+   "2025-204"
+  ]
+ },
+ {
+  "date": "2025-09-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/18",
+  "item_ids": [
+   "2025-204"
+  ]
+ },
+ {
+  "date": "2025-09-24",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/9/24",
+  "item_ids": [
+   "2025-310",
+   "2025-329",
+   "2025-301",
+   "2025-306",
+   "2025-378",
+   "2025-350",
+   "2025-349",
+   "2025-314"
+  ]
+ },
+ {
+  "date": "2025-10-01",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/1",
+  "item_ids": [
+   "2025-361",
+   "2025-339",
+   "2025-338",
+   "2025-334",
+   "2025-332",
+   "2025-380",
+   "2025-359",
+   "2025-373"
+  ]
+ },
+ {
+  "date": "2025-10-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/8",
+  "item_ids": [
+   "2025-370",
+   "2025-330",
+   "2025-365",
+   "2025-363",
+   "2025-362",
+   "2025-251",
+   "2025-250",
+   "2025-366"
+  ]
+ },
+ {
+  "date": "2025-10-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/15",
+  "item_ids": [
+   "2025-402",
+   "2025-401",
+   "2025-400"
+  ]
+ },
+ {
+  "date": "2025-10-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/16",
+  "item_ids": [
+   "2025-402",
+   "2025-401"
+  ]
+ },
+ {
+  "date": "2025-10-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/22",
+  "item_ids": [
+   "2025-417",
+   "2025-351",
+   "2025-374"
+  ]
+ },
+ {
+  "date": "2025-10-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/29",
+  "item_ids": [
+   "2025-420",
+   "2025-383",
+   "2025-419",
+   "2025-409",
+   "2025-418"
+  ]
+ },
+ {
+  "date": "2025-10-30",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/10/30",
+  "item_ids": [
+   "2025-377"
+  ]
+ },
+ {
+  "date": "2025-11-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/12",
+  "item_ids": [
+   "2025-405",
+   "2025-404",
+   "2025-428"
+  ]
+ },
+ {
+  "date": "2025-11-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/19",
+  "item_ids": [
+   "2025-045"
+  ]
+ },
+ {
+  "date": "2025-11-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/11/20",
+  "item_ids": [
+   "2025-045",
+   "2025-403"
+  ]
+ },
+ {
+  "date": "2025-12-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/3",
+  "item_ids": [
+   "2025-436",
+   "2025-430",
+   "2025-429",
+   "2025-462",
+   "2025-432",
+   "2025-460",
+   "2025-440",
+   "2025-438",
+   "2025-437",
+   "2025-435",
+   "2025-434",
+   "2025-433"
+  ]
+ },
+ {
+  "date": "2025-12-10",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/10",
+  "item_ids": [
+   "2025-489",
+   "2025-446",
+   "2025-490",
+   "2025-488",
+   "2025-486",
+   "2025-485"
+  ]
+ },
+ {
+  "date": "2025-12-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/17",
+  "item_ids": [
+   "2025-500",
+   "2025-498",
+   "2025-499"
+  ]
+ },
+ {
+  "date": "2025-12-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2025/12/18",
+  "item_ids": [
+   "2025-441",
+   "2025-465",
+   "2025-479",
+   "2025-470",
+   "2025-500",
+   "2025-498"
+  ]
+ },
+ {
+  "date": "2026-01-14",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/14",
+  "item_ids": [
+   "2026-028",
+   "2026-027",
+   "2025-493",
+   "2026-003",
+   "2026-002",
+   "2026-001"
+  ]
+ },
+ {
+  "date": "2026-01-21",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/21",
+  "item_ids": [
+   "2025-468",
+   "2025-466",
+   "2025-483"
+  ]
+ },
+ {
+  "date": "2026-01-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/22",
+  "item_ids": [
+   "2025-468",
+   "2025-466"
+  ]
+ },
+ {
+  "date": "2026-01-28",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/28",
+  "item_ids": [
+   "2025-467"
+  ]
+ },
+ {
+  "date": "2026-01-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/1/29",
+  "item_ids": [
+   "2026-045"
+  ]
+ },
+ {
+  "date": "2026-02-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/4",
+  "item_ids": [
+   "2026-046",
+   "2026-018",
+   "2026-017",
+   "2026-008",
+   "2026-011",
+   "2026-007"
+  ]
+ },
+ {
+  "date": "2026-02-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/5",
+  "item_ids": [
+   "2025-481",
+   "2025-480"
+  ]
+ },
+ {
+  "date": "2026-02-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/11",
+  "item_ids": [
+   "2026-047",
+   "2025-471",
+   "2025-475"
+  ]
+ },
+ {
+  "date": "2026-02-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/12",
+  "item_ids": [
+   "2026-042",
+   "2026-069"
+  ]
+ },
+ {
+  "date": "2026-02-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/18",
+  "item_ids": [
+   "2026-016"
+  ]
+ },
+ {
+  "date": "2026-02-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/19",
+  "item_ids": [
+   "2026-072",
+   "2026-048",
+   "2026-016"
+  ]
+ },
+ {
+  "date": "2026-02-24",
+  "agenda_url": "",
+  "item_ids": [
+   "2026-082"
+  ],
+  "note": "Arts & Economy Committee"
+ },
+ {
+  "date": "2026-02-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/25",
+  "item_ids": [
+   "2026-071",
+   "2026-040",
+   "2026-037"
+  ]
+ },
+ {
+  "date": "2026-02-26",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/2/26",
+  "item_ids": [
+   "2026-094"
+  ]
+ },
+ {
+  "date": "2026-03-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/4",
+  "item_ids": [
+   "2026-080",
+   "2026-053",
+   "2026-052",
+   "2026-096",
+   "2026-050",
+   "2026-051"
+  ]
+ },
+ {
+  "date": "2026-03-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/11",
+  "item_ids": [
+   "2026-082",
+   "2026-022",
+   "2026-084",
+   "2026-083",
+   "2026-074",
+   "2026-073",
+   "2026-087",
+   "2026-063"
+  ]
+ },
+ {
+  "date": "2026-03-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/18",
+  "item_ids": [
+   "2026-055",
+   "2026-112"
+  ]
+ },
+ {
+  "date": "2026-03-19",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/3/19",
+  "item_ids": [
+   "2026-055",
+   "2026-112"
+  ]
+ },
+ {
+  "date": "2026-04-02",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/2",
+  "item_ids": [
+   "2026-118",
+   "2026-117",
+   "2026-116",
+   "2026-078"
+  ]
+ },
+ {
+  "date": "2026-04-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/8",
+  "item_ids": [
+   "2026-119",
+   "2026-077",
+   "2026-079",
+   "2026-097"
+  ]
+ },
+ {
+  "date": "2026-04-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/15",
+  "item_ids": [
+   "2026-106",
+   "2026-114",
+   "2026-120"
+  ]
+ },
+ {
+  "date": "2026-04-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/16",
+  "item_ids": [
+   "2026-126",
+   "2026-128",
+   "2026-127",
+   "2026-106",
+   "2026-114"
+  ]
+ },
+ {
+  "date": "2026-04-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/22",
+  "item_ids": [
+   "2026-143",
+   "2026-105"
+  ]
+ },
+ {
+  "date": "2026-04-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/23",
+  "item_ids": [
+   "2026-131"
+  ]
+ },
+ {
+  "date": "2026-04-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/4/29",
+  "item_ids": [
+   "2026-113",
+   "2026-148",
+   "2026-133"
+  ]
+ },
+ {
+  "date": "2026-05-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/6",
+  "item_ids": [
+   "2026-039",
+   "2026-156",
+   "2026-138",
+   "2026-137"
+  ]
+ },
+ {
+  "date": "2026-05-13",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/13",
+  "item_ids": [
+   "2026-144",
+   "2026-151",
+   "2026-155",
+   "2026-132"
+  ]
+ },
+ {
+  "date": "2026-05-20",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/20",
+  "item_ids": [
+   "2026-134"
+  ]
+ },
+ {
+  "date": "2026-05-27",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/5/27",
+  "item_ids": [
+   "2026-147",
+   "2026-111",
+   "2026-162",
+   "2026-161",
+   "2026-160",
+   "2026-158",
+   "2026-159",
+   "2026-179",
+   "2026-178"
+  ]
+ },
+ {
+  "date": "2026-06-03",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/3",
+  "item_ids": [
+   "2026-182",
+   "2026-181",
+   "2026-180",
+   "2026-169",
+   "2026-170"
+  ]
+ },
+ {
+  "date": "2026-06-04",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/4",
+  "item_ids": [
+   "2026-149",
+   "2026-177"
+  ]
+ },
+ {
+  "date": "2026-06-10",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/10",
+  "item_ids": [
+   "2026-166",
+   "2026-167"
+  ]
+ },
+ {
+  "date": "2026-06-11",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/11",
+  "item_ids": [
+   "2026-152"
+  ]
+ },
+ {
+  "date": "2026-06-17",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/17",
+  "item_ids": [
+   "2026-196",
+   "2026-165",
+   "2026-198",
+   "2026-194",
+   "2026-199",
+   "2026-197",
+   "2026-195"
+  ]
+ },
+ {
+  "date": "2026-06-18",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/18",
+  "item_ids": [
+   "2026-196",
+   "2026-124",
+   "2026-165",
+   "2026-198",
+   "2026-194"
+  ]
+ },
+ {
+  "date": "2026-06-24",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/24",
+  "item_ids": [
+   "2026-210"
+  ]
+ },
+ {
+  "date": "2026-06-25",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/6/25",
+  "item_ids": [
+   "2026-174",
+   "2026-176",
+   "2026-175",
+   "2026-218"
+  ]
+ },
+ {
+  "date": "2026-07-08",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/8",
+  "item_ids": [
+   "2026-204",
+   "2026-231",
+   "2026-208"
+  ]
+ },
+ {
+  "date": "2026-07-14",
+  "agenda_url": "",
+  "item_ids": [
+   "2026-236"
+  ],
+  "note": "City Life Committee"
+ },
+ {
+  "date": "2026-07-15",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15",
+  "item_ids": [
+   "2026-222",
+   "2026-223"
+  ]
+ },
+ {
+  "date": "2026-07-16",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/15",
+  "item_ids": [
+   "2026-222",
+   "2026-223",
+   "2026-203",
+   "2026-241"
+  ]
+ },
+ {
+  "date": "2026-07-22",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22",
+  "item_ids": [
+   "2026-222",
+   "2026-223",
+   "2026-236",
+   "2026-238"
+  ]
+ },
+ {
+  "date": "2026-07-23",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/22",
+  "item_ids": [
+   "2026-205",
+   "2026-192",
+   "2026-216"
+  ]
+ },
+ {
+  "date": "2026-07-29",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/29",
+  "item_ids": [
+   "2026-205",
+   "2026-209",
+   "2026-217"
+  ]
+ },
+ {
+  "date": "2026-07-30",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/7/30",
+  "item_ids": [
+   "2026-267"
+  ]
+ },
+ {
+  "date": "2026-08-05",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5",
+  "video_url": "https://www.youtube.com/watch?v=UD8erzI72Fg",
+  "item_ids": [
+   "2026-224",
+   "2026-280"
+  ]
+ },
+ {
+  "date": "2026-08-06",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/5",
+  "video_url": "https://www.youtube.com/watch?v=qM1xO2aDjHc",
+  "item_ids": [
+   "2026-242",
+   "2026-189",
+   "2026-213",
+   "2026-280"
+  ]
+ },
+ {
+  "date": "2026-08-12",
+  "agenda_url": "https://www.portland.gov/council/agenda/2026/8/12",
+  "item_ids": [
+   "2026-280"
+  ]
+ }
 ]
