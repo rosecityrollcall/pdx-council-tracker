@@ -15321,18 +15321,6 @@ window.PDX = {
     "item_id": "2026-280",
     "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/",
     "as_reported_by": "OPB"
-  },
-  {
-    "id": "st-20260806-zimmerman-tiebreak",
-    "councilor": "zimmerman",
-    "date": "2026-08-06",
-    "quote": "In this case, would the mayor not cast a vote here?",
-    "context": "Point of order after a motion to reorder the agenda failed 6–6 — early in the session, before the Moda item; his only recorded remark prior to the amendment roll calls.",
-    "tags": ["procedure"],
-    "item_id": null,
-    "t": "12:24",
-    "source": "https://www.youtube.com/watch?v=qM1xO2aDjHc&t=744",
-    "as_reported_by": "broadcast captions (not a certified verbatim transcript)"
   }
 ],
 "policies": [
@@ -15769,8 +15757,7 @@ window.PDX = {
   "quotes": [
     { "speaker": "morillo", "text": "I am literally begging you to take these amendments seriously moving forward.", "source": "https://www.wweek.com/news/city/2026/08/06/as-county-passes-funding-for-moda-center-renovation-city-tussles-over-term-sheet/", "as_reported_by": "Willamette Week" },
     { "speaker": "avalos", "text": "I think the current term sheet is absolutely unacceptable… otherwise I think we are failing Portlanders.", "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/", "as_reported_by": "OPB" },
-    { "speaker": "kanal", "text": "If we're in the video game, we're not at the big boss yet. We haven't gotten to a point where we're negotiating with the Blazers. We are looking at what we're even able to ask for.", "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/", "as_reported_by": "OPB" },
-    { "speaker": "zimmerman", "text": "In this case, would the mayor not cast a vote here?", "t": "12:24", "source": "https://www.youtube.com/watch?v=qM1xO2aDjHc&t=744", "as_reported_by": "broadcast captions (point of order after an agenda-reordering motion failed 6–6 — his only recorded remark before the amendment roll calls; not about the Moda amendments)" }
+    { "speaker": "kanal", "text": "If we're in the video game, we're not at the big boss yet. We haven't gotten to a point where we're negotiating with the Blazers. We are looking at what we're even able to ask for.", "source": "https://www.opb.org/article/2026/08/06/portland-oregon-moda-center-trail-blazers-basketball/", "as_reported_by": "OPB" }
   ],
   "sources": [
     { "label": "Official resolution record (roll calls)", "url": "https://www.portland.gov/council/documents/resolution/moda-term-sheet-0" },
