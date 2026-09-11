@@ -1,12 +1,230 @@
 [
  {
+  "id": "2026-270",
+  "type": "resolution",
+  "title": "Accept the Future of Large-Scale Performing Arts recommendations to advance a new Broadway-capable venue as part of the proposed Performing Arts + Culture Center at Portland State University, and initiate planning for the future of the Keller Auditorium",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37752",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-09",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "ryan"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-243",
+  "type": "ordinance",
+  "title": "*Authorize exception to Code Chapter 17.93 Renaming City Streets and authorize the renaming of Cesar E. Chavez Blvd to Campesinos Blvd (allow exceptions to Code Sections 17.93.010, 17.93.020, 17.93.030, 17.93.040 and 17.93.050)",
+  "sponsors": [
+   "Councilor Loretta Smith"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192218",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-09",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-272",
+  "type": "ordinance",
+  "title": "Appropriate grant award of $35 million for Section 108 Loan Guarantee Program",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192217",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-09",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-272, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-320",
+  "type": "report",
+  "title": "Approve Council Minutes for June 3 - July 30, 2026",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-320",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-09",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-289",
+  "type": "report",
+  "title": "Appoint members to the New Portlanders Policy Commission for terms beginning September 2, 2026",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-289",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-09",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 13, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council as amended Motion to amend the Report to add four reappointments as shown in Kanal 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-285",
   "type": "resolution",
   "title": "Direct the City Administrator to advance a process to identify a development partner for City-owned properties adjacent to the Moda Center",
   "sponsors": [
    "Councilor Sameer Kanal"
   ],
-  "url": "https://www.portland.gov/council/documents/resolution/moda-center-development-partner-resolution",
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37751",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -1823,7 +2041,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-18",
+    "date": "2026-06-17",
     "disposition": "",
     "votes": [
      {
@@ -1871,7 +2089,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-18",
+    "date": "2026-06-17",
     "disposition": "",
     "votes": [
      {
@@ -1910,7 +2128,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-18",
+    "date": "2026-06-17",
     "disposition": "",
     "votes": [
      {
@@ -4288,9 +4506,11 @@
       "kind": "passage",
       "result": "passed",
       "ayes": [
+       "avalos",
        "clark",
        "dunphy",
        "green",
+       "kanal",
        "morillo",
        "novick",
        "pirtle-guiney",
@@ -4298,10 +4518,7 @@
        "smith",
        "zimmerman"
       ],
-      "nays": [
-       "avalos",
-       "kanal"
-      ],
+      "nays": [],
       "absent": [
        "koyama-lane"
       ]
@@ -7653,7 +7870,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-01-22",
+    "date": "2026-01-21",
     "disposition": "",
     "votes": [
      {
@@ -8286,48 +8503,6 @@
   "short_title": "Parks budget detail pilot for FY 2026-27"
  },
  {
-  "id": "2025-499",
-  "type": "resolution",
-  "title": "Adopt Homelessness Response System Action Plan and Key Performance Indicators",
-  "sponsors": [
-   "Mayor Keith Wilson Agenda type Regular"
-  ],
-  "url": "https://www.portland.gov/council/documents/resolution/adopted/37726",
-  "summary": "Adopts an updated Homelessness Response System action plan and new key performance indicators to track system progress, following months of community engagement and joint work sessions with Multnomah County.",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2025-12-18",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "green",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "dunphy",
-       "kanal",
-       "ryan"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ],
-  "short_title": "Homelessness response plan and performance indicators"
- },
- {
   "id": "2025-479",
   "type": "resolution",
   "title": "Appoint members to the Portland Street Response Committee",
@@ -8541,6 +8716,48 @@
     ]
    }
   ]
+ },
+ {
+  "id": "2025-499",
+  "type": "resolution",
+  "title": "Adopt Homelessness Response System Action Plan and Key Performance Indicators",
+  "sponsors": [
+   "Mayor Keith Wilson Agenda type Regular"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37726",
+  "summary": "Adopts an updated Homelessness Response System action plan and new key performance indicators to track system progress, following months of community engagement and joint work sessions with Multnomah County.",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-12-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "dunphy",
+       "kanal",
+       "ryan"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ],
+  "short_title": "Homelessness response plan and performance indicators"
  },
  {
   "id": "2025-489",
@@ -10394,7 +10611,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-10-16",
+    "date": "2025-10-15",
     "disposition": "",
     "votes": [
      {
@@ -13128,7 +13345,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-17",
+    "date": "2025-07-16",
     "disposition": "",
     "votes": [
      {
@@ -13167,7 +13384,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-17",
+    "date": "2025-07-16",
     "disposition": "",
     "votes": [
      {
@@ -13216,7 +13433,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-17",
+    "date": "2025-07-16",
     "disposition": "",
     "votes": [
      {
@@ -13812,6 +14029,58 @@
   ]
  },
  {
+  "id": "2025-246",
+  "type": "report",
+  "title": "Appointment of members to Community Board for Police Accountability",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-246",
+  "summary": "Accepts the Mayor's appointments of members to the Community Board for Police Accountability, the police oversight body established by voter-approved Ballot Measure 26-217.",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 18, 2025 Regular agenda City Council Confirmed Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "ryan"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ],
+  "short_title": "Police accountability board appointments"
+ },
+ {
   "id": "2025-211",
   "type": "ordinance",
   "title": "*Amend Building Regulations Code to adopt State of Oregon 2025 Edition of Oregon Energy Efficiency Specialty Code (amend Code Section 24.10.040)",
@@ -13821,7 +14090,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -13869,7 +14138,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -13907,7 +14176,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -13955,7 +14224,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -13993,7 +14262,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -14050,7 +14319,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-19",
+    "date": "2025-06-18",
     "disposition": "",
     "votes": [
      {
@@ -14078,58 +14347,6 @@
     ]
    }
   ]
- },
- {
-  "id": "2025-246",
-  "type": "report",
-  "title": "Appointment of members to Community Board for Police Accountability",
-  "sponsors": [
-   "Mayor Keith Wilson"
-  ],
-  "url": "https://www.portland.gov/council/documents/report/accepted/2025-246",
-  "summary": "Accepts the Mayor's appointments of members to the Community Board for Police Accountability, the police oversight body established by voter-approved Ballot Measure 26-217.",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2025-06-18",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action June 18, 2025 Regular agenda City Council Confirmed Motion to accept the report",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "kanal",
-      "seconded_by": "avalos",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "ryan"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ],
-  "short_title": "Police accountability board appointments"
  },
  {
   "id": "2025-223",
@@ -16067,6 +16284,58 @@
   ]
  },
  {
+  "id": "2025-159",
+  "type": "ordinance",
+  "title": "*Amend the City Employee Benefits Program for the plan offerings for FY 2025-26",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192048",
+  "summary": "Amends the City Employee Benefits Program plan offerings for FY 2025-26 in response to a projected 13.4 percent health insurance cost increase; as amended, plan design changes reduce the renewal rate to 10 percent.",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 16, 2025 Regular agenda City Council Passed as amended Motion to amend the ordinance to reflect recommended plan design changes to reduce the renewal rate to 10%",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "avalos"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ],
+  "short_title": "City employee benefits program FY 2025-26"
+ },
+ {
   "id": "2025-138",
   "type": "report",
   "title": "Confirm appointment and reappointment of members to the Portland Elections Commission for terms to end April 30, 2029",
@@ -16076,7 +16345,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-04-17",
+    "date": "2025-04-16",
     "disposition": "",
     "votes": [
      {
@@ -16127,7 +16396,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-04-17",
+    "date": "2025-04-16",
     "disposition": "",
     "votes": [
      {
@@ -16164,58 +16433,6 @@
     ]
    }
   ]
- },
- {
-  "id": "2025-159",
-  "type": "ordinance",
-  "title": "*Amend the City Employee Benefits Program for the plan offerings for FY 2025-26",
-  "sponsors": [
-   "Mayor Keith Wilson"
-  ],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192048",
-  "summary": "Amends the City Employee Benefits Program plan offerings for FY 2025-26 in response to a projected 13.4 percent health insurance cost increase; as amended, plan design changes reduce the renewal rate to 10 percent.",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2025-04-16",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action April 16, 2025 Regular agenda City Council Passed as amended Motion to amend the ordinance to reflect recommended plan design changes to reduce the renewal rate to 10%",
-      "kind": "amendment",
-      "result": "failed",
-      "moved_by": "smith",
-      "seconded_by": "ryan",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "avalos"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ],
-  "short_title": "City employee benefits program FY 2025-26"
  },
  {
   "id": "2025-120",
@@ -17133,7 +17350,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-20",
+    "date": "2025-03-19",
     "disposition": "",
     "votes": [
      {
@@ -17171,7 +17388,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-20",
+    "date": "2025-03-19",
     "disposition": "",
     "votes": [
      {
@@ -17211,7 +17428,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-20",
+    "date": "2025-03-19",
     "disposition": "",
     "votes": [
      {
@@ -17259,7 +17476,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-20",
+    "date": "2025-03-19",
     "disposition": "",
     "votes": [
      {
@@ -17896,7 +18113,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-02-20",
+    "date": "2025-02-19",
     "disposition": "",
     "votes": [
      {
@@ -17944,7 +18161,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-02-20",
+    "date": "2025-02-19",
     "disposition": "",
     "votes": [
      {
@@ -18398,7 +18615,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-16",
+    "date": "2025-01-15",
     "disposition": "",
     "votes": [
      {
@@ -18438,7 +18655,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-16",
+    "date": "2025-01-15",
     "disposition": "",
     "votes": [
      {
@@ -18476,7 +18693,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-16",
+    "date": "2025-01-15",
     "disposition": "",
     "votes": [
      {
