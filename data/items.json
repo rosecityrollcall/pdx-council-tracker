@@ -1,5 +1,491 @@
 [
  {
+  "id": "2026-299",
+  "type": "resolution",
+  "title": "Urge the City Administrator to refrain from signing data center non-disclosure agreements, notify City Council of inquiries for data center deals, and engage in transparent public processes related to data centers",
+  "sponsors": [
+   "Councilor Tiffany Koyama Lane"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37753",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 1, 2026 Regular agenda Housing and Permitting Committee Referred to City Council as amended Motion to amend the Resolution as shown in Koyama-Lane/Green 1",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "koyama-lane",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "green",
+       "avalos",
+       "kanal",
+       "dunphy"
+      ],
+      "absent": [
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-260",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 5706 SE Lambert St for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192225",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-260, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-250",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on N Columbia Blvd for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192223",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-250, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-247",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 7545 NE Sandy Blvd for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192221",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-247, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-307",
+  "type": "ordinance",
+  "title": "Create new non-represented classification of City Data and Privacy Officer and establish a compensation range for this classification",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192219",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-256",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 2734-2738 NE Alberta St for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192226",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-256, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-253",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 7101–7103 SE Division St for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192224",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-253, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-248",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 7545 WI/NE Sandy Blvd for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192222",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-248, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-306",
+  "type": "ordinance",
+  "title": "Create new non-represented classification of Council Public Information Officer and establish a compensation range for this classification",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192220",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-310",
+  "type": "report",
+  "title": "Appoint Omar K. Salomon to the Steering and Oversight Committee for the Homelessness Response System for a one-year term to expire September 30, 2027",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-310",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 10, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-310, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark",
+       "dunphy",
+       "smith"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-270",
   "type": "resolution",
   "title": "Accept the Future of Large-Scale Performing Arts recommendations to advance a new Broadway-capable venue as part of the proposed Performing Arts + Culture Center at Portland State University, and initiate planning for the future of the Keller Auditorium",
