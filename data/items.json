@@ -1,5 +1,207 @@
 [
  {
+  "id": "2026-300",
+  "type": "ordinance",
+  "title": "Amend Fire Regulations Fee Schedule (amend Portland Policy Document FIR-12.01)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192236",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 1, 2026 Regular agenda Community and Public Safety Committee Referred to City Council as amended Motion to amend the ordinance, document number 2026-300, to remove the Section 2 emergency clause",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [
+       "zimmerman"
+      ],
+      "absent": [
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith"
+      ],
+      "nays": [
+       "dunphy",
+       "ryan"
+      ],
+      "absent": [
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-212",
+  "type": "ordinance",
+  "title": "Amend Advertising on Bus Benches Code to allow advertising on City streetcar benches and shelters (amend Code Chapter 17.45)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192235",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 23, 2026 Regular agenda Public Works Committee Continued August 11, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-212, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-335",
+  "type": "ordinance",
+  "title": "Authorize Bureau of Transportation to acquire certain temporary property rights necessary for construction of the SE Stark St: 111th - 151st Ave Project through the exercise of the City’s Eminent Domain Authority",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192234",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-335, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "koyama-lane",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-334",
+  "type": "ordinance",
+  "title": "Authorize Bureau of Transportation to acquire certain temporary property rights necessary for construction of the SE Division Street – SE 148th to SE 174th Project through the exercise of the City’s Eminent Domain Authority",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192233",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-07",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-334, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-186",
   "type": "ordinance",
   "title": "Add Psychedelic Health and Safety Code (add Code Chapter 14B.140)",
