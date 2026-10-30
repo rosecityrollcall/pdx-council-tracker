@@ -1,12 +1,489 @@
 [
  {
+  "id": "2026-375",
+  "type": "resolution",
+  "title": "Appoint alternate members to the Community Board for Police Accountability",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/appoint-alternate-members-cbpa",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Resolution, Document Number 2026-375, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [
+       "avalos",
+       "morillo"
+      ],
+      "absent": [
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "avalos",
+       "morillo"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-368",
+  "type": "ordinance",
+  "title": "Add Budget and Financial Procedures Code to create and direct the use of a subfund within the General Reserve Fund specific to the City’s Business License Tax revenue (add Code Chapter 5.90)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/adopt-code-chapter-590",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 15, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Ordinance, Document 2026-368, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "pirtle-guiney",
+      "seconded_by": "dunphy",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-366",
+  "type": "ordinance",
+  "title": "Adopt the FY 2026-27 Fall Supplemental Budget and make other budget related changes",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/fy-2026-27-fall-supplemental-budget",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-29",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-286",
+  "type": "resolution",
+  "title": "Protect Portland firefighters from job-related risks",
+  "sponsors": [
+   "Councilor Eric Zimmerman City department Portland Fire & Rescue Contact Trevor Adams"
+  ],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37759",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action August 11, 2026 Regular agenda City Life Committee Rescheduled September 22, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Resolution, Document Number 2026-286, to City Council with the recommendation it be adopted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-123",
+  "type": "ordinance",
+  "title": "Amend Code related to prohibitions on possession of firearms within certain City buildings to disallow affirmative defense for persons with concealed handgun licenses (amend Code Sections 3.18.020, 14A.60.010 and 20.12.050)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192245",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-385",
+  "type": "report",
+  "title": "Approve Council Minutes for August 5 - October 1, 2026",
+  "sponsors": [
+   "Auditor Simone Rede City department Auditor's Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-385",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-341",
+  "type": "resolution",
+  "title": "Appoint Thomas Kemper and Brian Harvey to the Home Forward Board of Commissioners for terms to expire October 27, 2030",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37758",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Resolution, Document Number 2026-341, to City Council with the recommendation it be adopted / with no recommendation",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-342",
+  "type": "resolution",
+  "title": "Appoint Uriah Edmunds to the Home Forward Board of Commissioners for a term to expire August 7, 2028",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37757",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Resolution, Document Number 2026-342, to City Council with the recommendation it be adopted / with no recommendation",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "novick",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-355",
+  "type": "report",
+  "title": "Reappoint member to the Cully Tax Increment Financing District Community Leadership Committee and appoint new members to the 82nd Avenue Area and Sumner-Parkrose-Argay-Columbia Corridor Tax Increment Financing District Community Leadership Committees",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-355",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-355, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman",
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-370",
+  "type": "report",
+  "title": "Reappoint Kim Lohr and Craig Freeman to the Revenue Division Appeals Board",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-370",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-28",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 21, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-370, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "zimmerman",
+       "dunphy"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "pirtle-guiney"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-367",
   "type": "resolution",
   "title": "Adopt the Budget Calendar for FY 2027-28",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
-  "url": "https://www.portland.gov/council/documents/resolution/adopt-budget-calendar-fy-2027-28",
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37756",
   "summary": "",
   "status": "passed",
   "actions": [
