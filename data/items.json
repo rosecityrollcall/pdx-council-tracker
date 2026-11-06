@@ -1,12 +1,108 @@
 [
  {
+  "id": "2026-364",
+  "type": "ordinance",
+  "title": "*Amend Transportation Fee Schedule to establish an event parking rate within the Lloyd Event District and Zone V Parking Permit Area (amend TRN 3.450)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192249",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 13, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-364, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-365",
+  "type": "ordinance",
+  "title": "Authorize the acceptance of real property from the Oregon Department of Transportation and approve a Memorandum of Understanding for future property transactions",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192248",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-04",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 13, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-365, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "kanal",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-375",
   "type": "resolution",
   "title": "Appoint alternate members to the Community Board for Police Accountability",
   "sponsors": [
    "Mayor Keith Wilson"
   ],
-  "url": "https://www.portland.gov/council/documents/resolution/appoint-alternate-members-cbpa",
+  "url": "https://www.portland.gov/council/documents/resolution/adopted/37760",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -60,7 +156,7 @@
   "type": "ordinance",
   "title": "Add Budget and Financial Procedures Code to create and direct the use of a subfund within the General Reserve Fund specific to the City’s Business License Tax revenue (add Code Chapter 5.90)",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/adopt-code-chapter-590",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192247",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -108,7 +204,7 @@
   "type": "ordinance",
   "title": "Adopt the FY 2026-27 Fall Supplemental Budget and make other budget related changes",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/fy-2026-27-fall-supplemental-budget",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192246",
   "summary": "",
   "status": "passed",
   "actions": [
