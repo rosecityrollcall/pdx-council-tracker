@@ -1,5 +1,402 @@
 [
  {
+  "id": "2026-412",
+  "type": "ordinance",
+  "title": "*Ratify a collective bargaining agreement with the Professional & Technical Employees, Local 17 relating to the terms and conditions of employment of represented employees in the bargaining unit for 2026-2029",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/2026-2029-protec17-cba-ratification",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-386",
+  "type": "ordinance",
+  "title": "Authorize the renaming of SW Jackson St between SW Fifth Ave and SW Park Ave to SW Rose Hill St",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/renaming-sw-jackson-street-between-sw-fifth-and-sw-park-avenues",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action November 12, 2026 Regular agenda City Council Passed as amended Motion to amend the ordinance to add an emergency clause",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-371",
+  "type": "ordinance",
+  "title": "Declare two parcels of land as surplus property and authorize the Bureau of Transportation to dispose of the property for fair market value",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/declare-two-parcels-land-surplus-property-and-authorize-bureau",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 27, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-371, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "ryan",
+      "seconded_by": "zimmerman",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-387",
+  "type": "ordinance",
+  "title": "Amend Vehicles and Traffic Code to clarify Bureau of Transportation authority and allow flexibility (replace Code Section 16.10.080 and amend Chapter 16.90)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/amend-vehicles-and-traffic-code",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 27, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-387, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "green",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "ryan",
+       "smith"
+      ],
+      "nays": [
+       "pirtle-guiney"
+      ],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-393",
+  "type": "ordinance",
+  "title": "Amend Council schedule during FY 2027-28 budget process to implement budget calendar",
+  "sponsors": [
+   "Council President Jamie Dunphy City department City Budget Office"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/council-schedule-fy-27-28-budget",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-343",
+  "type": "ordinance",
+  "title": "​​Amend the Portland Zoning Code, Portland Comprehensive Plan Map and zoning maps to facilitate housing production and post-pandemic economic recovery and revitalization in the Central City (amend Title 33, Portland Comprehensive Plan Map, official zoning maps)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/central-city-code-amendments",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-312",
+  "type": "ordinance",
+  "title": "Add Bulk Fuel Terminal Capacity Reduction Regulations Code to reduce Critical Energy Infrastructure Hub fuel storage by 2036 in support of hazard mitigation (add Code Chapter 17.112)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/title-17-bulk-fuel-terminal-capacity-reduction-regulations",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-311",
+  "type": "ordinance",
+  "title": "Adopt the Critical Energy Infrastructure Hub Policy Project to support public health and natural hazards risk reduction (amend Code Titles 33 and 24)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/cei-hub-code",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-347",
+  "type": "report",
+  "title": "Consider an appeal by the Hillsdale Neighborhood Association requesting to add conditions of approval to the Hearings Officer’s decision to approve the rebuilding of Ida B Wells High School (LU 26-026160 CU AD)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/findings-adopted/2026-347",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-05",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 15, 2026 Time certain City Council Tentatively deny appeal and uphold the Hearings Officer's decision and conditions of approval, with revised findings Evidentiary record is closed. No further verbal or written testimony will be accepted. Motion to tentatively deny the ",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "smith",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "clark"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-364",
   "type": "ordinance",
   "title": "*Amend Transportation Fee Schedule to establish an event parking rate within the Lloyd Event District and Zone V Parking Permit Area (amend TRN 3.450)",
@@ -682,155 +1079,6 @@
   ]
  },
  {
-  "id": "2026-363",
-  "type": "report",
-  "title": "Appoint members to the Oregon Arena Joint Authority",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/report/accepted/2026-363",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-10-22",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action October 14, 2026 Regular agenda City Council Continued Continued to October 21, 2026 at 6:00 pm October 21, 2026 Regular agenda City Council Confirmed Motion to accept the report",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "dunphy",
-      "seconded_by": "clark",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": []
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-333",
-  "type": "ordinance",
-  "title": "Approve the findings to authorize exemption to the competitive bidding requirements and authorize competitive solicitation for the use of the alternative contracting method of a Construction Manager/General Contractor for the Montgomery Park Streetcar Extension Project",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192243",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-10-22",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action September 22, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-333, to City Council with the recommendation it be passed",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "smith",
-      "seconded_by": "koyama-lane",
-      "ayes": [],
-      "nays": [],
-      "absent": [
-       "green"
-      ]
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": []
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-345",
-  "type": "ordinance",
-  "title": "Amend the Portland Zoning Code to bring it into compliance with Oregon State legislative bills passed in 2025 and 2026 (amend Title 33)",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192241",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-10-22",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action October 6, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-345, to City Council with the recommendation it be passed",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "green",
-      "seconded_by": "pirtle-guiney",
-      "ayes": [],
-      "nays": [],
-      "absent": [
-       "novick"
-      ]
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "ryan"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "2026-362",
   "type": "ordinance",
   "title": "Authorize Intergovernmental Agreement between the City, State of Oregon, and Multnomah County to establish the Oregon Arena Joint Authority",
@@ -840,7 +1088,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "disposition": "",
     "votes": [
      {
@@ -899,7 +1147,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "disposition": "",
     "votes": [
      {
@@ -921,6 +1169,155 @@
        "zimmerman"
       ],
       "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-363",
+  "type": "report",
+  "title": "Appoint members to the Oregon Arena Joint Authority",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-363",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 14, 2026 Regular agenda City Council Continued Continued to October 21, 2026 at 6:00 pm October 21, 2026 Regular agenda City Council Confirmed Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "dunphy",
+      "seconded_by": "clark",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-333",
+  "type": "ordinance",
+  "title": "Approve the findings to authorize exemption to the competitive bidding requirements and authorize competitive solicitation for the use of the alternative contracting method of a Construction Manager/General Contractor for the Montgomery Park Streetcar Extension Project",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192243",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 22, 2026 Regular agenda Public Works Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-333, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "koyama-lane",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "green"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-345",
+  "type": "ordinance",
+  "title": "Amend the Portland Zoning Code to bring it into compliance with Oregon State legislative bills passed in 2025 and 2026 (amend Title 33)",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192241",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-10-21",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 6, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-345, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "novick"
+      ]
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "ryan"
+      ],
       "absent": []
      }
     ]
@@ -1722,245 +2119,6 @@
   ]
  },
  {
-  "id": "2026-256",
-  "type": "ordinance",
-  "title": "Initiate foreclosure action on 2734-2738 NE Alberta St for the collection of delinquent City Liens placed against the property",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192226",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-09-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-256, to City Council with the recomme",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "green",
-      "seconded_by": "novick",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": [
-       "smith"
-      ]
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-253",
-  "type": "ordinance",
-  "title": "Initiate foreclosure action on 7101–7103 SE Division St for the collection of delinquent City Liens placed against the property",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192224",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-09-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-253, to City Council with the recomme",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "green",
-      "seconded_by": "novick",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": [
-       "smith"
-      ]
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-248",
-  "type": "ordinance",
-  "title": "Initiate foreclosure action on 7545 WI/NE Sandy Blvd for the collection of delinquent City Liens placed against the property",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192222",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-09-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-248, to City Council with the recomme",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "green",
-      "seconded_by": "novick",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": [
-       "smith"
-      ]
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-306",
-  "type": "ordinance",
-  "title": "Create new non-represented classification of Council Public Information Officer and establish a compensation range for this classification",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192220",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-09-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": [
-       "smith"
-      ]
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-310",
-  "type": "report",
-  "title": "Appoint Omar K. Salomon to the Steering and Oversight Committee for the Homelessness Response System for a one-year term to expire September 30, 2027",
-  "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/report/accepted/2026-310",
-  "summary": "",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2026-09-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action September 10, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-310, to City Council with the recommendation it be accepted",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "zimmerman",
-      "seconded_by": "pirtle-guiney",
-      "ayes": [],
-      "nays": [],
-      "absent": [
-       "clark",
-       "dunphy",
-       "smith"
-      ]
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "zimmerman"
-      ],
-      "nays": [],
-      "absent": [
-       "smith"
-      ]
-     }
-    ]
-   }
-  ]
- },
- {
   "id": "2026-260",
   "type": "ordinance",
   "title": "Initiate foreclosure action on 5706 SE Lambert St for the collection of delinquent City Liens placed against the property",
@@ -1970,7 +2128,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "disposition": "",
     "votes": [
      {
@@ -2019,7 +2177,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "disposition": "",
     "votes": [
      {
@@ -2068,7 +2226,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "disposition": "",
     "votes": [
      {
@@ -2117,9 +2275,248 @@
   "status": "passed",
   "actions": [
    {
+    "date": "2026-09-17",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-256",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 2734-2738 NE Alberta St for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192226",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
     "date": "2026-09-16",
     "disposition": "",
     "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-256, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-253",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 7101–7103 SE Division St for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192224",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-253, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-248",
+  "type": "ordinance",
+  "title": "Initiate foreclosure action on 7545 WI/NE Sandy Blvd for the collection of delinquent City Liens placed against the property",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192222",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action July 21, 2026 Regular agenda Housing and Permitting Committee Continued Continued to August 4, 2026. August 4, 2026 Regular agenda Housing and Permitting Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-248, to City Council with the recomme",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "green",
+      "seconded_by": "novick",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-306",
+  "type": "ordinance",
+  "title": "Create new non-represented classification of Council Public Information Officer and establish a compensation range for this classification",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192220",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "zimmerman"
+      ],
+      "nays": [],
+      "absent": [
+       "smith"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-310",
+  "type": "report",
+  "title": "Appoint Omar K. Salomon to the Steering and Oversight Committee for the Homelessness Response System for a one-year term to expire September 30, 2027",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2026-310",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-09-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action September 10, 2026 Regular agenda Finance and Governance Committee of the Whole Referred to City Council Motion to refer the Report, Document Number 2026-310, to City Council with the recommendation it be accepted",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "pirtle-guiney",
+      "ayes": [],
+      "nays": [],
+      "absent": [
+       "clark",
+       "dunphy",
+       "smith"
+      ]
+     },
      {
       "motion": "Final vote",
       "kind": "passage",
@@ -4188,7 +4585,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "disposition": "",
     "votes": [
      {
@@ -4236,7 +4633,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "disposition": "",
     "votes": [
      {
@@ -4275,7 +4672,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "disposition": "",
     "votes": [
      {
@@ -10017,7 +10414,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2026-01-21",
+    "date": "2026-01-22",
     "disposition": "",
     "votes": [
      {
@@ -10877,7 +11274,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-12-17",
+    "date": "2025-12-18",
     "disposition": "",
     "votes": [
      {
@@ -12759,7 +13156,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-10-15",
+    "date": "2025-10-16",
     "disposition": "",
     "votes": [
      {
@@ -15496,7 +15893,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "disposition": "",
     "votes": [
      {
@@ -15535,7 +15932,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "disposition": "",
     "votes": [
      {
@@ -15584,7 +15981,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-07-16",
+    "date": "2025-07-17",
     "disposition": "",
     "votes": [
      {
@@ -16183,58 +16580,6 @@
   ]
  },
  {
-  "id": "2025-246",
-  "type": "report",
-  "title": "Appointment of members to Community Board for Police Accountability",
-  "sponsors": [
-   "Mayor Keith Wilson"
-  ],
-  "url": "https://www.portland.gov/council/documents/report/accepted/2025-246",
-  "summary": "Accepts the Mayor's appointments of members to the Community Board for Police Accountability, the police oversight body established by voter-approved Ballot Measure 26-217.",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2025-06-19",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action June 18, 2025 Regular agenda City Council Confirmed Motion to accept the report",
-      "kind": "procedural",
-      "result": "failed",
-      "moved_by": "kanal",
-      "seconded_by": "avalos",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "avalos",
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "ryan"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ],
-  "short_title": "Police accountability board appointments"
- },
- {
   "id": "2025-211",
   "type": "ordinance",
   "title": "*Amend Building Regulations Code to adopt State of Oregon 2025 Edition of Oregon Energy Efficiency Specialty Code (amend Code Section 24.10.040)",
@@ -16244,7 +16589,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16292,7 +16637,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16330,7 +16675,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16378,7 +16723,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16416,7 +16761,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16473,7 +16818,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-06-18",
+    "date": "2025-06-19",
     "disposition": "",
     "votes": [
      {
@@ -16501,6 +16846,58 @@
     ]
    }
   ]
+ },
+ {
+  "id": "2025-246",
+  "type": "report",
+  "title": "Appointment of members to Community Board for Police Accountability",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/report/accepted/2025-246",
+  "summary": "Accepts the Mayor's appointments of members to the Community Board for Police Accountability, the police oversight body established by voter-approved Ballot Measure 26-217.",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-06-18",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action June 18, 2025 Regular agenda City Council Confirmed Motion to accept the report",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "kanal",
+      "seconded_by": "avalos",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "ryan"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ],
+  "short_title": "Police accountability board appointments"
  },
  {
   "id": "2025-223",
@@ -18443,58 +18840,6 @@
   ]
  },
  {
-  "id": "2025-159",
-  "type": "ordinance",
-  "title": "*Amend the City Employee Benefits Program for the plan offerings for FY 2025-26",
-  "sponsors": [
-   "Mayor Keith Wilson"
-  ],
-  "url": "https://www.portland.gov/council/documents/ordinance/passed/192048",
-  "summary": "Amends the City Employee Benefits Program plan offerings for FY 2025-26 in response to a projected 13.4 percent health insurance cost increase; as amended, plan design changes reduce the renewal rate to 10 percent.",
-  "status": "passed",
-  "actions": [
-   {
-    "date": "2025-04-17",
-    "disposition": "",
-    "votes": [
-     {
-      "motion": "Agenda Council action April 16, 2025 Regular agenda City Council Passed as amended Motion to amend the ordinance to reflect recommended plan design changes to reduce the renewal rate to 10%",
-      "kind": "amendment",
-      "result": "failed",
-      "moved_by": "smith",
-      "seconded_by": "ryan",
-      "ayes": [],
-      "nays": [],
-      "absent": []
-     },
-     {
-      "motion": "Final vote",
-      "kind": "passage",
-      "result": "passed",
-      "ayes": [
-       "clark",
-       "dunphy",
-       "green",
-       "kanal",
-       "koyama-lane",
-       "morillo",
-       "novick",
-       "pirtle-guiney",
-       "ryan",
-       "smith",
-       "zimmerman"
-      ],
-      "nays": [
-       "avalos"
-      ],
-      "absent": []
-     }
-    ]
-   }
-  ],
-  "short_title": "City employee benefits program FY 2025-26"
- },
- {
   "id": "2025-138",
   "type": "report",
   "title": "Confirm appointment and reappointment of members to the Portland Elections Commission for terms to end April 30, 2029",
@@ -18504,7 +18849,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-04-16",
+    "date": "2025-04-17",
     "disposition": "",
     "votes": [
      {
@@ -18555,7 +18900,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-04-16",
+    "date": "2025-04-17",
     "disposition": "",
     "votes": [
      {
@@ -18592,6 +18937,58 @@
     ]
    }
   ]
+ },
+ {
+  "id": "2025-159",
+  "type": "ordinance",
+  "title": "*Amend the City Employee Benefits Program for the plan offerings for FY 2025-26",
+  "sponsors": [
+   "Mayor Keith Wilson"
+  ],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192048",
+  "summary": "Amends the City Employee Benefits Program plan offerings for FY 2025-26 in response to a projected 13.4 percent health insurance cost increase; as amended, plan design changes reduce the renewal rate to 10 percent.",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2025-04-16",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action April 16, 2025 Regular agenda City Council Passed as amended Motion to amend the ordinance to reflect recommended plan design changes to reduce the renewal rate to 10%",
+      "kind": "amendment",
+      "result": "failed",
+      "moved_by": "smith",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "clark",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith",
+       "zimmerman"
+      ],
+      "nays": [
+       "avalos"
+      ],
+      "absent": []
+     }
+    ]
+   }
+  ],
+  "short_title": "City employee benefits program FY 2025-26"
  },
  {
   "id": "2025-120",
@@ -19509,7 +19906,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-19",
+    "date": "2025-03-20",
     "disposition": "",
     "votes": [
      {
@@ -19547,7 +19944,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-19",
+    "date": "2025-03-20",
     "disposition": "",
     "votes": [
      {
@@ -19587,7 +19984,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-19",
+    "date": "2025-03-20",
     "disposition": "",
     "votes": [
      {
@@ -19635,7 +20032,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-03-19",
+    "date": "2025-03-20",
     "disposition": "",
     "votes": [
      {
@@ -20272,7 +20669,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-02-19",
+    "date": "2025-02-20",
     "disposition": "",
     "votes": [
      {
@@ -20320,7 +20717,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-02-19",
+    "date": "2025-02-20",
     "disposition": "",
     "votes": [
      {
@@ -20774,7 +21171,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-15",
+    "date": "2025-01-16",
     "disposition": "",
     "votes": [
      {
@@ -20814,7 +21211,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-15",
+    "date": "2025-01-16",
     "disposition": "",
     "votes": [
      {
@@ -20852,7 +21249,7 @@
   "status": "passed",
   "actions": [
    {
-    "date": "2025-01-15",
+    "date": "2025-01-16",
     "disposition": "",
     "votes": [
      {
