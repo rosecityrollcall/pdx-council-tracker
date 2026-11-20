@@ -1,10 +1,50 @@
 [
  {
+  "id": "2026-396",
+  "type": "resolution",
+  "title": "Adopt City of Portland Investment Policy",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/resolution/adopt-city-portland-investment-policy",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-19",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "pirtle-guiney"
+      ],
+      "nays": [
+       "clark",
+       "ryan"
+      ],
+      "absent": [
+       "novick",
+       "smith",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-412",
   "type": "ordinance",
   "title": "*Ratify a collective bargaining agreement with the Professional & Technical Employees, Local 17 relating to the terms and conditions of employment of represented employees in the bargaining unit for 2026-2029",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/2026-2029-protec17-cba-ratification",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192257",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -41,9 +81,9 @@
  {
   "id": "2026-386",
   "type": "ordinance",
-  "title": "Authorize the renaming of SW Jackson St between SW Fifth Ave and SW Park Ave to SW Rose Hill St",
+  "title": "*Authorize the renaming of SW Jackson St between SW Fifth Ave and SW Park Ave to SW Rose Hill St",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/renaming-sw-jackson-street-between-sw-fifth-and-sw-park-avenues",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192256",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -52,7 +92,7 @@
     "disposition": "",
     "votes": [
      {
-      "motion": "Agenda Council action November 12, 2026 Regular agenda City Council Passed as amended Motion to amend the ordinance to add an emergency clause",
+      "motion": "Agenda Council action November 12, 2026 Regular agenda City Council Passed as amended Motion to amend the ordinance to add an emergency clause to honor the elders and community leaders who worked for years to institute this street renaming",
       "kind": "amendment",
       "result": "failed",
       "moved_by": "ryan",
@@ -95,7 +135,7 @@
   "type": "ordinance",
   "title": "Declare two parcels of land as surplus property and authorize the Bureau of Transportation to dispose of the property for fair market value",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/declare-two-parcels-land-surplus-property-and-authorize-bureau",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192255",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -144,7 +184,7 @@
   "type": "ordinance",
   "title": "Amend Vehicles and Traffic Code to clarify Bureau of Transportation authority and allow flexibility (replace Code Section 16.10.080 and amend Chapter 16.90)",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/amend-vehicles-and-traffic-code",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192254",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -196,7 +236,7 @@
   "sponsors": [
    "Council President Jamie Dunphy City department City Budget Office"
   ],
-  "url": "https://www.portland.gov/council/documents/ordinance/council-schedule-fy-27-28-budget",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192253",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -233,9 +273,9 @@
  {
   "id": "2026-343",
   "type": "ordinance",
-  "title": "​​Amend the Portland Zoning Code, Portland Comprehensive Plan Map and zoning maps to facilitate housing production and post-pandemic economic recovery and revitalization in the Central City (amend Title 33, Portland Comprehensive Plan Map, official zoning maps)",
+  "title": "Amend the Portland Zoning Code, Portland Comprehensive Plan Map and zoning maps to facilitate housing production and post-pandemic economic recovery and revitalization in the Central City (amend Title 33, Portland Comprehensive Plan Map, official zoning maps)",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/central-city-code-amendments",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192252",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -274,7 +314,7 @@
   "type": "ordinance",
   "title": "Add Bulk Fuel Terminal Capacity Reduction Regulations Code to reduce Critical Energy Infrastructure Hub fuel storage by 2036 in support of hazard mitigation (add Code Chapter 17.112)",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/title-17-bulk-fuel-terminal-capacity-reduction-regulations",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192251",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -313,7 +353,7 @@
   "type": "ordinance",
   "title": "Adopt the Critical Energy Infrastructure Hub Policy Project to support public health and natural hazards risk reduction (amend Code Titles 33 and 24)",
   "sponsors": [],
-  "url": "https://www.portland.gov/council/documents/ordinance/cei-hub-code",
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192250",
   "summary": "",
   "status": "passed",
   "actions": [
@@ -321,6 +361,55 @@
     "date": "2026-11-12",
     "disposition": "",
     "votes": [
+     {
+      "motion": "Final vote",
+      "kind": "passage",
+      "result": "passed",
+      "ayes": [
+       "avalos",
+       "dunphy",
+       "green",
+       "kanal",
+       "koyama-lane",
+       "morillo",
+       "novick",
+       "pirtle-guiney",
+       "ryan",
+       "smith"
+      ],
+      "nays": [],
+      "absent": [
+       "clark",
+       "zimmerman"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-344",
+  "type": "ordinance",
+  "title": "Authorize conveyance of City-owned real property, former Menlo Park Water Tower site, to Habitat for Humanity Portland/Metro East, doing business as Habitat for Humanity Portland Region",
+  "sponsors": [],
+  "url": "https://www.portland.gov/council/documents/ordinance/passed/192258",
+  "summary": "",
+  "status": "passed",
+  "actions": [
+   {
+    "date": "2026-11-12",
+    "disposition": "",
+    "votes": [
+     {
+      "motion": "Agenda Council action October 13, 2026 Regular agenda City Life Committee Referred to City Council Motion to refer the Ordinance, Document Number 2026-344, to City Council with the recommendation it be passed",
+      "kind": "procedural",
+      "result": "failed",
+      "moved_by": "zimmerman",
+      "seconded_by": "ryan",
+      "ayes": [],
+      "nays": [],
+      "absent": []
+     },
      {
       "motion": "Final vote",
       "kind": "passage",
